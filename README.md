@@ -22,7 +22,7 @@
 | Member                            | Code       |
 |:----------------------------------|------------|
 | Santiago Mickelle Olivera Guerra  | U20201A821 |
-| -                                 | -          |
+| Roy Hernan De La Cruz Moreno                                 | U202218634        |
 | -                                 | -          |
 | -                                 | -          |
 | Carlos Oswaldo Casimiro Fernandez | U202115412 |
