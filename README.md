@@ -434,6 +434,37 @@ imagen de sprint 1
 
 ## 2.1. Competidores
 
+Luego de haber realizado una investigación en el mercado, hemos identificado tres proyectos que consideramos como potenciales competidores para LimaPaths. Estos son:
+
+- **Moovit:**
+  <br>Moovit es una aplicación de movilidad urbana que brinda actualizaciones en tiempo real de las rutas y los horarios del transporte público. Esta aplicación facilita a los usuarios planificar sus viajes al brindarles numerosas opciones para elegir un autobús, tren, metro o tranvía. Moovit también envía notificaciones si hay problemas en las rutas o actualizaciones en tiempo real, lo que ayuda a los usuarios a moverse de manera eficiente por la ciudad.
+  <br>
+  <div align="center">
+  <img src="https://moovit.com/wp-content/uploads/2020/03/opengraph-homepage-1.png">
+  </div>
+
+<br><br>
+- **Citymapper:**
+  <br>
+  Citymapper es una aplicación de planificación de viajes global que ofrece rutas y horarios para múltiples opciones de transporte en las ciudades del mundo. Junto con el transporte público, Citymapper también integra opciones como el uso compartido de bicicletas, scooters eléctricos y el transporte amigo. Otra función de la aplicación es informar a los usuarios sobre las tarifas por el servicio, cuánto tiempo durará su viaje y qué ruta es más corta o más interesante.
+  <br>  
+  <div align="center">
+  <img src="https://logovectorseek.com/wp-content/uploads/2020/11/citymapper-logo-vector.png">
+  </div>
+<br><br>
+- **Trafi:**
+  <br>
+  Trafi es una aplicación de movilidad urbana que brinda a los usuarios información detallada sobre rutas y horarios de transporte público, transporte privado y servicios compartidos, así como acceso a opciones de bicicletas públicas. Se basa en datos en tiempo real para informar a los usuarios sobre el estado de su servicio, como retrasos o cambios en las rutas. Trafi es una red global con operaciones en numerosas ciudades de todo el mundo y se centra en ofrecer a los usuarios una solución de movilidad integral.
+  <br>
+
+<div align="center">
+
+  <img src="https://logowik.com/content/uploads/images/trafi-20215422.logowik.com.webp">
+
+</div>
+
+<br><br>
+
 
 ### 2.1.1. Análisis competitivo
 
