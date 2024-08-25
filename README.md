@@ -23,7 +23,7 @@
 |:----------------------------------|------------|
 | Santiago Mickelle Olivera Guerra  | U20201A821 |
 | Roy Hernan De La Cruz Moreno                                 | U202218634        |
-| -                                 | -          |
+| Omar Christian Berrocal Ramirez   | U20201B529 |
 | -                                 | -          |
 | Carlos Oswaldo Casimiro Fernandez | U202115412 |
 
@@ -45,7 +45,7 @@ Ciclo 2024-02
 
 | Versión |   Fecha   |                                                                                        Autor                                                                                         | Descripción de modificación                                                                                                                                           |
 | :-----: |:---------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   TB1   | 19/08/2024 | -Santiago Mickelle Olivera Guerra<br> -Carlos Oswaldo Casimiro Fernandez |  CAPITULO I AL V|
+|   TB1   | 19/08/2024 | -Santiago Mickelle Olivera Guerra<br> -Carlos Oswaldo Casimiro Fernandez<br> -Omar Christian Berrocal Ramirez  |  CAPITULO I AL V|
 
 
 <br><br>
@@ -357,6 +357,56 @@ imagen de sprint 1
 
 ### 1.1.2. Perfiles de integrantes del equipo
 
+<table align="center"  border="1" width="70%" style="text-align:center;">
+    <tr align="center">
+        <td rowspan="3">
+            <img src="images/fotointegrante1.png" alt="Omar Christian Berrocal Ramirez" style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>
+            Omar Christian, Berrocal Ramirez
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        Desde pequeño me han llamado la atención las máquinas y la tecnología, por ello es que elegí esta carrera y así satisfacer mi curiosidad sobre nuevas tecnologías. Tengo conocimientos en lenguajes de programación tales como C++, Python, y lo básico Java y C#. Además, cuento con conocimiento de Bases de Datos (SQL Server y MongoDB) y habilidades básicas HTML y CSS.
+        </td>
+    </tr>
+    <tr align="center">
+        <td rowspan="3">
+            <img src="" alt="" style="margin-bottom: 5px;" width="800"/>
+        </td>
+        <td align="left">
+            <b>Nombre y Apellido:</b>
+            <br>
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Carrera:</b>
+        <br>
+        Ingeniería de Software
+        </td>
+    </tr>
+    <tr>
+        <td align="left">
+        <b>Acerca de:</b>
+        <br>
+        </td>
+    </tr>
+
+ 
+</table>
 
 ## 1.2. Solution Profile
 
