@@ -589,6 +589,23 @@ Luego de haber realizado una investigación en el mercado, hemos identificado tr
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
 
+1. **Diferenciación de Producto:**
+Nuestra estrategia es mostrar cómo nuestra aplicación se destaca al integrarse con empresas de transporte público locales y brindar una versión premium con funciones exclusivas. Para ejecutar este plan, lanzaremos campañas de marketing que enfaticen las cualidades únicas de nuestra aplicación, utilizando mensajes convincentes para mostrar cómo se destaca de la competencia.
+
+2. **Desarrollo Continuo:**
+La startup está decidida a mantenerse a la vanguardia vigilando de cerca las últimas tendencias y tecnologías en el mercado de la movilidad urbana. Para que esto suceda, actualizaremos periódicamente la aplicación para mejorarla para usted, agregaremos nuevas funciones basadas en lo que le gusta y lo que hacen otros, y trabajaremos con compañías de transporte público para hacerla aún más increíble.
+
+3. **Colaboraciones Estratégicas:**
+Nos asociaremos con empresas de transporte público y otros grupos que se centran en la movilidad urbana para mejorar aún más nuestro proyecto. Para poner en marcha este plan, la startup buscará formas de trabajar junto con empresas de transporte público para mejorar sus sistemas de datos, ofrecer ofertas y descuentos especiales para las personas que utilicen la aplicación y asistir a eventos y conferencias para conocer otras organizaciones del mismo campo.
+
+4. **Enfoque en la Experiencia del Usuario:**
+Nuestro objetivo principal será asegurarnos de que nuestros usuarios estén contentos y encuentren la aplicación fácil de usar. Para asegurarnos de que nuestra estrategia funcione, pediremos a las personas que la prueben y nos den su opinión. También estaremos ahí para ayudarte si algo sale mal y darte consejos sobre cómo usarlo mejor.
+
+
+5. **Análisis Competitivo Continuo:**
+La startup seguirá de cerca lo que hacen sus competidores para poder mantenerse a la vanguardia. Para poner este plan en acción, controlaremos periódicamente a nuestros competidores para ver qué están haciendo, vigilaremos sus nuevos productos y lanzamientos y nos aseguraremos de que nuestra estrategia se mantenga al día con el mercado en constante cambio. Industria desafiante.
+
+
 ## 2.2. Entrevistas
 
 ### 2.2.1. Diseño de entrevistas
