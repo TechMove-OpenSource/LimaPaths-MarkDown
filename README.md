@@ -468,6 +468,123 @@ Luego de haber realizado una investigación en el mercado, hemos identificado tr
 
 ### 2.1.1. Análisis competitivo
 
+<body>
+    <table border="1px">
+        <thead>
+            <th colspan="11">Competitive Analysis Landscepe</th>
+        </thead>
+        <tbody>
+            <tr>
+                <td rowspan="2" colspan="2">¿Por qué llevar a
+                    cabo este análisis?</td>
+                <td colspan="9">Escriba en el recuadro la pregunta que busca responder o el objetivo de
+                    este análisis.</td>
+            </tr>
+            <tr>
+                <td colspan="9">Este análisis se concretó teniendo como finalidad el poder identificar a nuestros potenciales competidores e idear estrategias y tácticas para diferenciarnos de ellos.</td> 
+            </tr>
+            <tr>
+                <tr>
+                    <td colspan="3">(En la cabecera colocar por cada competidor nombre y logo)</td>
+                    <td colspan="2">LimaPaths <br><img src="images/logo.tmr.png" alt="LimaPaths" width="70px">"</td>
+                    <td colspan="2">Moovit<br><img src="https://moovit.com/wp-content/uploads/2020/03/opengraph-homepage-1.png" alt="Mootvit" width="60px"></td>
+                    <td colspan="2">Citymapper<br><img src="https://logovectorseek.com/wp-content/uploads/2020/11/citymapper-logo-vector.png" alt="Citymapper" width="60px"></td>
+                    <td colspan="2">Trafi<br><img src="https://logowik.com/content/uploads/images/trafi-20215422.logowik.com.webp" alt="Trafi" width="60px"></td>
+                </tr>
+            </tr>
+            <tr>
+                <td rowspan="2" colspan="1">Perfil</td>
+                <td colspan="2">Overview</td>
+                <td colspan="2">Nuestra Startup ofrece a los usuarios la posibilidad de seguir el estado del transporte público en tiempo real y de pagar los pasajes desde la plataforma, lo que ayudará a la planificación de rutas para los usuarios y así tengan puntualidad y comodidad en su movimiento por la ciudad. Sumado a una asociación exitosa con empresas de transporte responsable e información adicional incluida en la versión premium, LimaPaths representa una opción atractiva para los habitantes de Lima que desean mejorar el modo de moverse por la ciudad.</td>
+                <td colspan="2">Esta aplicación es conocida por su habilidad para brindar información detallada en tiempo real sobre rutas y horarios de transporte público. Con presencia en numerosos países, se destaca por ofrecer actualizaciones instantáneas sobre el estado del servicio, notificaciones de interrupciones y una comunidad activa de usuarios que aportan información útil sobre el transporte público en sus respectivas ciudades.</td>
+                <td colspan="2">Una aplicación conocida de planificación de viajes que ofrece variedad en sus modos de transporte, incluidos el transporte público, bicicletas compartidas, scooters eléctricos y servicios de viaje compartido. Su diseño intuitivo y la capacidad de ofrecer opciones de rutas más rápidas o escénicas hacen de esta aplicación una opción popular entre los usuarios que buscan soluciones y flexibilidad para movilizarse por las ciudades.</td>
+                <td colspan="2">Esta aplicación ofrece una solución completa para la planificación de viajes en las ciudades, con información detallada sobre rutas y horarios de transporte público, así como opciones para otros modos de transporte como bicicletas compartidas y servicios de viaje compartido. Su enfoque en ofrecer soluciones de movilidad integrales y actualizaciones en tiempo real sobre el estado del servicio lo convierten en una herramienta valiosa para los usuarios que buscan optimizar sus desplazamientos urbanos.</td>
+            </tr>
+            <tr>
+                <td colspan="2">Ventaja
+                    competitiva
+                    ¿Qué valor
+                    ofrece a los
+                    clientes?</td>
+                <td colspan="2">Ofrecemos un enfoque centrado en Lima, Perú, lo que permite una adaptación precisa a las necesidades del sistema de transporte público local. Además, su integración con las empresas de transporte público ofrece una experiencia más confiable y personalizada para los usuarios, brindando acceso a datos actualizados.</td>
+                <td colspan="2">Sobresale por su disponibilidad a nivel internacional, que lo convierte en una opción confiable para usuarios que viajan entre diferentes ciudades y países. Además, sus actualizaciones en tiempo real sobre el estado del servicio y la participación activa de la comunidad de usuarios garantizan información precisa y confiable para optimizar los viajes en transporte público.</td>
+                <td colspan="2">Ofrece una amplia variedad de modos de transporte, que incluyen opciones como transporte público, bicicletas compartidas y servicios de viaje compartido. Su diseño intuitivo y las opciones de rutas personalizadas hacen que la planificación de viajes sea flexible y se adapte a las preferencias de los usuarios.</td>
+                <td colspan="2">Ofrece soluciones integrales de movilidad, proporcionando información detallada sobre una amplia variedad de modos de transporte. Sus actualizaciones en tiempo real sobre el estado del servicio facilita a los usuarios tomar decisiones al planificar sus rutas, adaptándose a cualquier cambio en el transporte público de manera eficiente.</td>
+            </tr>
+            <tr>
+                <td rowspan="2" colspan="1">Perfil de Marketing</td>
+                <td colspan="2">Mercado Objetivo</td>
+                <td colspan="2">Residentes de Lima, Perú, que dependen del transporte público para sus desplazamientos diarios. Además, la aplicación también puede ser útil para turistas y visitantes.</td>
+                <td colspan="2">Usuarios de transporte público, como viajeros y turistas, en ciudades de todo el mundo.</td>
+                <td colspan="2">Personas que buscan una solución integral para planificar sus viajes utilizando una variedad de modos de transporte.</td>
+                <td colspan="2">Peronas que buscan una solución completa para planificar y optimizar sus viajes utilizando diferentes modos de transporte.</td>
+            </tr>
+            <tr>
+                <td colspan="2">Estrategia de Marketing</td>
+                <td colspan="2">Publicidad dirigida en redes sociales, enfocada en residentes de Lima y colaboración con empresas de transporte público para promoción mutua.</td>
+                <td colspan="2">Publicidad en plataformas online y apps de viajes. Tambien programas de referidos para usuarios existentes.</td>
+                <td colspan="2">Creación de contenido educativo en video. Colaboraciones con influencers locales.</td>
+                <td colspan="2">Optimización SEO para mejorar visibilidad en búsquedas. Participación en eventos de movilidad urbana.</td>
+            </tr>
+            <tr>
+                <td rowspan="3" colspan="1">Perfil de Producto</td>
+                <td colspan="2">Producto & Servicio</td>
+                <td colspan="2">El producto que ofrecemos es una aplicación móvil para la planificación de rutas de transporte público en Lima.</td>
+                <td colspan="2">Proporciona una aplicación móvil para la planificación de rutas y horarios de transporte público a nivel global.</td>
+                <td colspan="2">El producto es una aplicación que proporciona rutas para una variedad de modos de transporte y opciones de rutas personalizadas.</td>
+                <td colspan="2">El producto es una aplicación móvil que ofrece información detallada sobre rutas y horarios de transporte público, así como opciones para otros modos de transporte.</td>
+            </tr>
+            <tr>
+                <td colspan="2">Precio & Costos  </td>
+                <td colspan="2">Los ingresos provienen de la venta de la versión premium</td>
+                <td colspan="2">Planes de suscripción desde S/3.99 al mes.</td>
+                <td colspan="2">Plan de suscripción desde 1,49 US$ al mes.</td>
+                <td colspan="2">Pago para versión sin publicidad de 0,99 € al mes.</td>
+            </tr>
+            <tr>
+                <td colspan="2">Canalaes de distribucion (web y/o Movil)</td>
+                <td colspan="2">Sitio Web y Aplicación móvil</td>
+                <td colspan="2">Sitio Web y Aplicación móvil</td>
+                <td colspan="2">Sitio Web y Aplicación móvil</td>
+                <td colspan="2">Sitio Web y Aplicación móvil</td>
+            </tr>
+            <tr>
+                <td rowspan="5">Analisis SWOT</td>
+                <td colspan="10">Realice esto para su startup y sus competidores. Sus fortalezas deberían apoyar sus
+                    oportunidades y contribuir a lo que ustedes definen como su posible ventaja
+                    competitiva</td>
+            </tr>
+            <tr>
+                <td colspan="2">Fortalezas</td>
+                <td colspan="2">Enfoque localizado en Lima, integración con empresas de transporte público, versión premium con funciones adicionales.</td>
+                <td colspan="2">Amplia disponibilidad internacional, actualizaciones en tiempo real, comunidad activa de usuarios.</td>
+                <td colspan="2">Variedad de modos de transporte, diseño intuitivo, opciones de rutas personalizadas.</td>
+                <td colspan="2">Soluciones integrales de movilidad, actualizaciones en tiempo real, enfoque en la experiencia del usuario.</td>
+            </tr>
+            <tr>
+                <td colspan="2">Debilidades</td>
+                <td colspan="2">Dependencia del desarrollo del sistema de transporte público en Lima, competencia con aplicaciones establecidas.</td>
+                <td colspan="2">Dependencia de la calidad de los datos de transporte público, competencia con otras aplicaciones similares.</td>
+                <td colspan="2">Dependencia de la calidad de los datos de transporte.</td>
+                <td colspan="2">Dependencia de la calidad de los datos de transporte público.</td>
+            </tr>
+            <tr>
+                <td colspan="2">Oportunidades</td>
+                <td colspan="2">Crecimiento del mercado de aplicaciones de movilidad urbana en Lima, colaboración con más empresas de transporte público, expansión a otras ciudades.</td>
+                <td colspan="2">Expansión a nuevos mercados, desarrollo de nuevas características y funcionalidades, colaboraciones con más empresas de transporte.</td>
+                <td colspan="2">Expansión a nuevas ciudades, desarrollo de nuevas características innovadoras, colaboraciones con empresas de transporte y urbanismo.</td>
+                <td colspan="2">Expansión a nuevos mercados globales, desarrollo de nuevas funciones para mejorar la experiencia del usuario, colaboraciones con empresas de transporte y gobierno. </td>
+            </tr>
+            <tr>
+                <td colspan="2">Amenazas</td>
+                <td colspan="2">Cambios en la infraestructura de transporte, entrada de competidores locales o globales..</td>
+                <td colspan="2">Entrada de nuevos competidores, cambios en las políticas de datos de transporte público.</td>
+                <td colspan="2">Cambios en la infraestructura de transporte, entrada de nuevos competidores con características similares.</td>
+                <td colspan="2">Cambios en las políticas de transporte, entrada de nuevos competidores con enfoques similares.</td>
+            </tr>
+        </tbody>
+    </table>
+</body>
 
 
 ### 2.1.2. Estrategias y tácticas frente a competidores
