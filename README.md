@@ -846,50 +846,228 @@ La startup seguirá de cerca lo que hacen sus competidores para poder mantenerse
 ### 2.3.5. As-is Scenario Mapping
 
 
-# Capítulo III: Requeriments Specifications
 
 ## 3.1 To-Be Scenario Mapping
 
+Exploramos las mejoras y nuevas funcionalidades que se incorporarán a la aplicación "LimaPaths" con la herramiento del mapping de scenarios previsto. Estas mejoras están destinadas a mejorar la experiencia de los usuarios con el transporte público en Lima y brindar a la empresa de transporte una visión real de los clientes. Este proceso nos permite ver cómo la aplicación cambiará para brindar un servicio más útil y eficiente a los dos grupos de usuarios.
 
+**Pasajeros en busca de un autobús. (Pasajeros)**
+<div align="center">
+  <img src="images\tobemap.jpg">
+</div>
+<br>
+
+**Empresas de transporte que operan en Lima**
+<div align="center">
+  <img src="images\tobe2.jpeg">
+</div>
+<br>
 
 ## 3.2 User Stories
+
+Describiremos las diversas necesidades y requerimientos de nuestros usuarios y la empresa de transporte en
+la sección de historias de usuarios. Cada historia de usuario representará un escenario o una función que se
+espera que la aplicación proporcione, con el objetivo de cumplir con nuestro
+
+El objetivo principal es ayudar a las personas a usar el transporte público de manera eficiente para navegar
+por la ciudad de Lima y proporcionar a la empresa de transporte información en tiempo real sobre sus clientes.
+Podremos comprender mejor cómo la aplicación satisfacerá las necesidades de ambas partes y proporcionará una
+solución integral para la movilidad urbana a través de estas historias de usuario.
+
+
+| **Epic / Story ID** | **Título** | **Descripción** | **Criterios de Aceptación** | **Relacionado con (Epic ID)** |
+|--|--|--|--|--|
+| Epic 1 | Autenticación de Usuario | Como cliente, deseo tener una cuenta en la aplicación para que mis datos personales se guarden de forma segura en ella. | | | HU01 | Registro de Usuario | Como cliente, quiero poder registrarme en la aplicación con mis datos personales (nombre, correo, teléfono, edad, etc.) para utilizar todas las funcionalidades disponibles. | Escenario: Registro del cliente en la aplicación. Dado que el cliente está en la pantalla de inicio de sesión, Y el cliente desea registrarse para usar la aplicación, Cuando el cliente complete el formulario de creación de cuenta con sus datos personales, Entonces el sistema almacenará toda la información y permitirá el acceso a las funcionalidades de la aplicación. | 1 | | HU02 | Inicio de Sesión | Como cliente, quiero iniciar sesión en la aplicación utilizando mis credenciales (correo y contraseña) para acceder a mi cuenta registrada. | Escenario: Inicio de sesión del cliente en la aplicación. Dado que el cliente está en la pantalla de inicio de sesión, Y el cliente ya tiene una cuenta, Cuando el cliente introduzca sus credenciales (correo y contraseña) en los campos correspondientes, Entonces podrá acceder a las funcionalidades de la aplicación con su cuenta. | 1 | | HU03 | Eliminación de Cuenta | Como cliente, quiero la opción de eliminar mi cuenta registrada para que mis datos sean eliminados de la base de datos de la aplicación. | Escenario: Eliminación de la cuenta por parte del cliente. Dado que el cliente está en la pantalla de ajustes de cuenta, Y desea eliminar su cuenta, Cuando el cliente seleccione la opción para eliminar la cuenta registrada, Entonces la aplicación eliminará su cuenta y datos de la base de datos. | 1 | | HU34 | Recuperación de Contraseña | Como cliente, quiero poder recuperar mi contraseña en caso de olvido o pérdida, para acceder nuevamente a mi cuenta sin problemas. | Dado que el cliente ha olvidado su contraseña, Cuando seleccione la opción de recuperación de contraseña e ingrese su correo electrónico o número de teléfono asociado, Entonces recibirá un enlace o código de verificación para restablecer su contraseña y volver a acceder a su cuenta. | 1 | | Epic 2 | Manejo de Rutas de Conductores y Pasajeros | Como cliente, quiero una opción para encontrar las mejores rutas, ahorrando tiempo y evitando el tráfico. | | | HU04 | Registro de Rutas y Buses | Como desarrollador, quiero registrar las rutas de transporte urbano en la base de datos para tener un registro de todas las rutas disponibles en Lima. | Escenario: Registro de rutas de buses por el desarrollador. Dado que el desarrollador está en la pantalla de ingreso de datos de la base de datos, Y tiene la información sobre las rutas y buses, Cuando el desarrollador ingrese los datos pertinentes, Entonces la aplicación almacenará toda la información sobre las rutas y buses en la base de datos. | 2 | | HU05 | Registro de Conductores | Como desarrollador, quiero registrar a los conductores de los buses para tener un registro completo de todos los conductores que transitan por las rutas, por motivos de seguridad. | Escenario: Registro de conductores de buses por el desarrollador. Dado que el desarrollador está en la pantalla de ingreso de datos de la base de datos, Y tiene la información sobre los conductores y las rutas, Cuando el desarrollador ingrese los datos pertinentes, Entonces la aplicación almacenará toda la información sobre los conductores y rutas en la base de datos. | 2 | | HU06 | Registro de Empresas Operadoras | Como desarrollador, quiero registrar a las empresas que operan en cada ruta de transporte urbano en buses para tener un registro de estas empresas en la base de datos de la aplicación. | Escenario: Registro de empresas operadoras por el desarrollador. Dado que el desarrollador está en la pantalla de ingreso de datos de la base de datos, Y tiene la información sobre las empresas operadoras, Cuando el desarrollador ingrese los datos pertinentes, Entonces la aplicación almacenará toda la información sobre las empresas operadoras en la base de datos. | 2 |
+| HU07 | Implementación de Servicios Externos | Como desarrollador, deseo integrar servicios externos de otras empresas, como Google Maps, para añadir funcionalidades a la aplicación sin necesidad de desarrollar todo desde el inicio. | Escenario: Integración de servicios externos en la aplicación. Dado que el desarrollador está en la pantalla de integración de servicios externos, y ha recopilado el código y los requisitos necesarios para acceder al servicio externo, cuando el desarrollador implemente una funcionalidad que invoque un servicio externo, entonces la aplicación utilizará dicho servicio según sea necesario. | 2 | | HU08 | Visualización del Menú de Opciones | Como cliente, quiero poder ver el menú de opciones de la aplicación para conocer las funcionalidades disponibles en ella. | Escenario: Visualización del menú de opciones por el cliente. Dado que el cliente está en la pantalla de inicio de la aplicación, y desea explorar las funcionalidades de la aplicación, cuando el cliente seleccione el botón que abre el menú de opciones, entonces la aplicación mostrará al usuario el menú con todas las funcionalidades presentes. | 2 | | Epic 3 | Implementación de Mapa Interactivo | Como cliente, deseo tener una opción para visualizar un mapa interactivo que me permita crear y ver las mejores rutas disponibles. | | | HU09 | Configuración de Búsqueda de Ruta Personalizada | Como cliente, quiero ajustar las opciones relacionadas con la búsqueda de rutas (tiempo de viaje, distancia al paradero, ruta más rápida, etc.) para optimizar la búsqueda según mis preferencias. | Escenario: Personalización de búsqueda de rutas por el cliente. Dado que el cliente está en la pantalla de búsqueda de rutas, y desea especificar criterios personalizados para la búsqueda, cuando el cliente ajuste los criterios de búsqueda, entonces la aplicación mostrará las rutas disponibles según los filtros establecidos por el usuario. | 3 | | HU10 | Visualización del Mapa | Como cliente, quiero ver un mapa interactivo con las rutas disponibles para tener una visión más clara del trayecto que deseo tomar. | Escenario: Visualización del mapa por el cliente. Dado que el cliente está en la pantalla principal y desea ver el mapa con las rutas disponibles, cuando el cliente seleccione la opción de buscar rutas e ingrese los filtros deseados, entonces la aplicación mostrará un mapa interactivo de la zona con las posibles rutas. | 3 | | HU17 | Mapas Interactivos | Como cliente, quiero visualizar mapas interactivos que muestren la ubicación de las paradas de autobús, las rutas y la ubicación de los autobuses en tiempo real, para tomar mejores decisiones sobre qué ruta elegir. | Escenario: Visualización de mapas interactivos por el cliente. Dado que el cliente está en la pantalla principal y desea ver el mapa con las rutas disponibles, cuando el cliente seleccione la opción de buscar rutas e ingrese todos los filtros deseados, entonces la aplicación mostrará un mapa interactivo de la zona que incluya la ubicación de las paradas de autobús, las rutas y los autobuses en tiempo real. | 3 | | HU21 | Integración de API de Transporte Público | Como desarrollador, quiero integrar una API de transporte público para acceder a datos actualizados sobre rutas, horarios y paradas de transporte público en tiempo real. | Escenario: Integración de la API de transporte público. Dado que se ha establecido la conexión con la API de transporte público, cuando se realiza una solicitud de búsqueda de rutas con una ubicación de origen y destino, entonces la aplicación proporcionará datos precisos y actualizados sobre las rutas disponibles, horarios de salida y llegada, y paradas intermedias. | 3 | | HU23 | Desarrollo de Algoritmo de Ruta Óptima | Como desarrollador, quiero diseñar un algoritmo eficiente para calcular la ruta óptima entre dos puntos, considerando factores como la distancia, el tiempo y las preferencias del usuario. | Escenario: Desarrollo del algoritmo de ruta óptima. Dado que un usuario solicita una búsqueda de ruta entre dos ubicaciones, cuando el algoritmo calcule la ruta óptima basada en las preferencias del usuario y los datos de transporte disponibles, entonces la aplicación devolverá la ruta más rápida y eficiente, teniendo en cuenta la duración del viaje y el número de transbordos. | 3 | | Epic 4 | Manejo de Pasajes | Como cliente, deseo poder comprar un pasaje a través de la aplicación para utilizar el transporte público sin necesidad de llevar efectivo. | | | HU11 | Visualización de Costos del Pasaje | Como cliente, quiero ver el costo aproximado del pasaje al elegir una ruta en la aplicación para saber cuánto dinero debo tener disponible para el viaje. | Escenario: Visualización de costos del pasaje. Dado que el cliente está en la pantalla principal y desea conocer el costo de un viaje por una ruta específica, cuando el cliente seleccione la opción de buscar rutas y realice la búsqueda, entonces la aplicación mostrará el costo aproximado de cada viaje por ruta. | 4 | | HU12 | Visualización del Número de Buses a Abordar | Como cliente, quiero saber cuántos buses necesito abordar para llegar a mi destino, para determinar la mejor ruta según mi situación. | Escenario: Visualización del número de buses a abordar. Dado que el cliente está en la pantalla principal y desea saber cuántos buses debe abordar para llegar a su destino, cuando el cliente seleccione la opción de buscar rutas y realice la búsqueda, entonces la aplicación mostrará la cantidad de buses necesarios para llegar al destino. | 4 | | HU15 | Compra de Boletos | Como cliente, quiero comprar boletos para el transporte público directamente desde la aplicación para agilizar y facilitar el proceso de pago. | Escenario: Compra de boletos por el cliente. Dado que el cliente ha elegido la ruta en la que desea viajar y los buses permiten el pago de boletos a través de la aplicación, cuando el cliente seleccione la opción para pagar por la aplicación, entonces la aplicación permitirá al cliente pagar por el boleto o pasaje directamente desde la aplicación. | 4 |
+| Epic 5 | Tabla de Viajes | Como cliente quiero poder visualizar los viajes que esten disponibles en el día en un solo lugar para saber los horarios sobre a que hora estarán llegando los buses a los paraderos designados | |
+| HU13 | Planificación de viajes | Como cliente quiero planificar mis viajes tomando en cuenta a mi ubicación actual y al destino (se muestran los horarios de salida y de llegada de los buses, su ubicación, etc.) para organizar mejor mis tiempos. | Escenario: El cliente quiere planificar un viaje Dado que el cliente se encuentra en la pantalla principal, Y el cliente desea planificar un viaje, Cuando el cliente haya seleccionado la opción de buscar rutas y haya realizado la búsqueda de las rutas disponibles, Entonces la aplicación deberá permitirle al cliente el planificar su viaje dependiendo de los tiempos estimados del viaje hipotético. | 5 |
+| HU14 | Información en tiempo real | Como cliente quiero observar la información pertinente a mi viaje en tiempo real (ubicación actual de los autobuses, su hora estimada de llegada y cualquier retraso o cambio en la ruta) para tomar mejores decisiones en el acto. | Escenario: El cliente quiere ver información de los buses en tiempo real Dado que el cliente ya eligió la ruta en la que desea viajar, Y el cliente desea ver información pertinente a su viaje en tiempo real, Cuando el cliente seleccione la opción para ver la información en tiempo real, Entonces la aplicación le tendrá que mostrar al cliente toda la información relacionada a su viaje actualizada y en tiempo real. | 5 |
+| HU33 | Historial de Viajes | Como cliente, quiero poder acceder a un historial detallado de mis viajes anteriores en la aplicación para que pueda realizar un seguimiento de mis desplazamientos y gastos. | Dado que el cliente desea revisar sus viajes pasados, Cuando accede a la sección de historial de viajes, Entonces se muestra una lista cronológica de todos los viajes realizados, incluyendo detalles como fecha, hora, ruta, costo, y método de pago utilizado.| 5 |
+| Epic 6 | Notificaciones de Información Relevante | Como cliente quiero poder visualizar notificaciones que me indiquen detalles sobre las últimas noticias relacionadas con el transporte público | |
+| HU16 | Notificaciones personalizadas | Como cliente quiero recibir notificaciones personalizadas acerca de eventos pertinentes a mi viaje en bus (retrasos, horarios, etc.) para estar al tanto de las situaciones que pueden afectar mi futuro viaje | Escenario: El cliente quiere recibir notificaciones acerca de eventos de buses Dado que el cliente está al tanto de las notificaciones de su celular, Cuando ocurra un evento de importancia para el viaje del cliente, Entonces la aplicación emitirá una notificación, la cual el cliente puede ver o ignorar si es que lo considera necesario.| 6 |
+| Epic 7 | Configuración y Accesibilidad | Como cliente quiero tener diversas opciones de configuración que me permitan utilizar con mayor facilidad la aplicación para así tener una mejor experiencia de usaurio | |
+| HU19 | Accesibilidad | Como desarrollador quiero hacer la aplicación más accesible para personas con discapacidades, ofreciendo opciones de accesibilidad como la navegación por voz y el alto contraste, para ampliar la cantidad de posibles usuarios.| Escenario: El desarrollador quiere hacer la aplicación más accesible para el usuario Dado que el desarrollador se encuentra en la pantalla de implementación de servicios de accesibilidad, Y el desarrollador ha juntado el código y los requisitos necesarios para hacer uso de herramientas de accesibilidad, Cuando el desarrollador quiera crear una funcionalidad que mejore la accesibilidad de la aplicación, Entonces la aplicación integrará esta funcionalidad. | 7 |
+| HU31 | Soporte y Ayuda | Como cliente, quiero tener acceso a opciones de soporte y ayuda dentro de la aplicación para que pueda resolver cualquier problema o duda que pueda surgir durante su uso. | Dado que el cliente necesita ayuda o soporte, Cuando accede a la sección de soporte y ayuda, Entonces encuentra información detallada sobre cómo contactar al servicio de atención al cliente, así como preguntas frecuentes y tutoriales útiles. | 7 | 
+| HU32 | Configuración | Como cliente, quiero tener la capacidad de personalizar la configuración de mi cuenta en la aplicación para que pueda adaptarla a mis preferencias y necesidades individuales. | Dado que el cliente desea personalizar su experiencia en la aplicación, Cuando accede a la sección de configuración de la cuenta, Entonces puede ajustar preferencias como notificaciones, idioma, método de pago, etc | 7 |
+| Epic 8 | Landing Page | Como visitante quiero visualizar una landing page que me indique de que trata el negocio de la empresa | |
+| HU24 | sección principal de landing page | como visitante de la landing page, quiero ser recibido por una sección principal llamativa para captar mi atención y despertar mi interés en explorar más sobre la aplicación de seguimiento de rutas. | dado que ingreso a la landing page, cuando miro la sección principal, entonces encuentro un diseño visualmente atractivo con un mensaje claro y conciso que destaque las características únicas de la aplicación.| 8 |
+| HU25 | información de beneficios | como visitante de la landing page, quiero encontrar una sección dedicada a los beneficios de la aplicación de seguimiento de rutas para comprender cómo puede mejorar mi experiencia de viaje. | dado que estoy interesado en la aplicación, cuando navego por la sección de beneficios, entonces encuentro información clara y convincente sobre cómo la aplicación puede ayudarme a planificar mejor mis viajes, ahorrar tiempo y optimizar mis desplazamientos diarios. | 8 |
+| HU26 | conocer los aliados que respaldan la app | como visitante de la landing page, quiero ver una lista de aliados que respaldan la aplicación de seguimiento de rutas para sentir confianza en su calidad y fiabilidad. | dado que estoy interesado en la aplicación, cuando reviso la sección de aliados, entonces encuentro logotipos o testimonios de empresas, organizaciones o autoridades que respaldan y confían en la aplicación. | 8 |
+| HU27 | reseñas de usuarios satisfechos | como visitante de la landing page, quiero encontrar reseñas y testimonios de usuarios satisfechos para obtener una idea de su experiencia y satisfacción con la aplicación. | dado que estoy interesado en la aplicación, cuando busco la sección de reseñas, entonces encuentro testimonios reales de usuarios que describen cómo la aplicación ha mejorado su experiencia de viaje y les ha ayudado en sus desplazamientos diarios. | 8 |
+| HU28 | conocer los planes de suscripción | como visitante de la landing page, quiero encontrar información sobre los planes de suscripción disponibles para entender las opciones de pago y beneficios asociados con cada plan.| dado que estoy interesado en utilizar la aplicación de forma regular, cuando navego por la sección de planes de suscripción, entonces encuentro una descripción clara de los diferentes planes disponibles, sus precios y las características incluidas en cada uno. | 8 |
+| HU29 | obtener respuestas a preguntas frecuentes  | como visitante de la landing page, quiero acceder a una sección de preguntas frecuentes para encontrar respuestas a mis dudas más comunes sobre la aplicación de seguimiento de rutas. | dado que tengo preguntas sobre la aplicación, cuando accedo a la sección de preguntas frecuentes, entonces encuentro una lista completa de preguntas comunes y sus respuestas claras y concisas, lo que me ayuda a entender mejor cómo funciona la aplicación y cómo puedo utilizarla eficazmente. | 8 |
+| Epic 9 | Promociones | Como cliente quiero poder visualizar las promociones disponibles para ahorrar dinero | |
+| HU30 | Promociones | Como cliente, quiero ver las promociones disponibles en la aplicación para que pueda aprovechar descuentos al utilizar el servicio de transporte público. | Dado que el cliente abre la aplicación, Cuando accede a la sección de promociones, Entonces se muestran claramente todas las promociones vigentes, incluyendo sus términos y condiciones. | 9 |
+| Epic 10 | Administración de Rutas de Empresas de Transporte | Como gerente de operaciones de una empresa de transporte quiero poder darle un seguimiento a todas los buses de mi empresa para saber qué rutas están tomando y si es que están haciendo correctamente su trabajo | |
+| HU35 | Integración de Funcionalidades de Seguimiento para Empresas de Transporte | Como gerente de operaciones de una empresa de transporte, quiero integrar funcionalidades de seguimiento de usuarios en la aplicación LimaPaths para recopilar datos sobre los hábitos de viaje, preferencias y comentarios de los usuarios. | Dado que soy un gerente de operaciones de una empresa de transporte, cuando implemento las funcionalidades de seguimiento de usuarios, entonces puedo rastrear la ubicación de los usuarios mientras utilizan la aplicación. Dado que necesito entender mejor los hábitos de viaje de los usuarios, cuando accedo a los datos de seguimiento de usuarios, entonces puedo ver información detallada sobre las rutas tomadas, la frecuencia de uso y las preferencias de transporte. Dado que necesito mejorar la calidad del servicio, cuando recopilo comentarios a través de las funcionalidades de seguimiento, entonces puedo identificar áreas de mejora y realizar ajustes en los servicios ofrecidos.| 10 |
+|HU36 | Optimización de Rutas en Tiempo Real para Empresas de Transporte| Como gerente de operaciones de una empresa de transporte, quiero funcionalidades en la aplicación LimaPaths para optimizar las rutas en tiempo real, mejorando así la eficiencia operativa. | Dado que soy un gerente de operaciones de una empresa de transporte, cuando los usuarios planifican un viaje en la aplicación LimaPaths, entonces reciben rutas actualizadas en tiempo real que tienen en cuenta la congestión del tráfico y los retrasos del transporte público. Dado que necesito minimizar los tiempos de viaje y reducir los costos operativos, cuando las rutas se optimizan en tiempo real, entonces los conductores pueden seguir rutas más eficientes y rentables. Dado que quiero mejorar la calidad del servicio ofrecido a los usuarios, cuando las rutas se optimizan en tiempo real, entonces los usuarios experimentan tiempos de viaje más cortos y una experiencia más fluida.| 10 |
+|HU37 |Sistema de Retroalimentación Instantánea para Empresas de Transporte|Como gerente de operaciones de una empresa de transporte, quiero implementar un sistema de retroalimentación instantánea en la aplicación LimaPaths para que los usuarios puedan proporcionar comentarios sobre la calidad del servicio en tiempo real.|Dado que soy un gerente de operaciones de una empresa de transporte, cuando los usuarios utilizan la aplicación LimaPaths, entonces tienen la opción de proporcionar comentarios sobre su experiencia de viaje.Dado que necesito identificar áreas de mejora y tomar medidas correctivas, cuando recibo comentarios a través del sistema de retroalimentación instantánea, entonces puedo analizar los datos y realizar ajustes en los servicios ofrecidos.Dado que quiero mejorar la satisfacción del cliente y la calidad del servicio, cuando se implementa el sistema de retroalimentación instantánea, entonces los usuarios sienten que sus opiniones son valoradas y tienen una mejor experiencia general con la empresa de transporte.| 10 |
+|HU38 |Panel de Análisis de Datos para Empresas de Transporte |Como gerente de operaciones de una empresa de transporte, quiero tener acceso a un panel de análisis de datos en la aplicación LimaPath para visualizar y comprender el comportamiento de los usuarios.|Dado que soy un gerente de operaciones de una empresa de transporte, cuando inicio sesión en la aplicación como administrador, entonces veo un panel de análisis de datos en el panel de control. Dado que necesito comprender mejor el comportamiento de los usuarios, cuando accedo al panel de análisis de datos, entonces puedo ver gráficos y estadísticas sobre las rutas más utilizadas, los horarios de mayor demanda y los puntos de congestión. Dado que necesito tomar decisiones informadas para mejorar la eficiencia operativa, cuando interactúo con el panel de análisis de datos, entonces puedo filtrar y segmentar los datos según diferentes criterios, como ubicación, hora del día y preferencias de los usuarios. | 10 |
 
 
 ## 3.3 Impact Mapping
 
+Las repercusiones más amplias y los objetivos estratégicos que buscamos lograr con la
+implementación de esta aplicación se analizarán en la sección de Impact Mapping.
+El Impact Mapping nos ayudará a comprender cómo funciona en lugar de centrarnos
+en detalles técnicos o funcionalidades específicas.
 
+Nuestro proyecto ayudará a lograr objetivos más grandes y cómo tendrá un impacto positivo
+en los diversos grupos de interés. Este mapeo de impacto nos ayudará a determinar cómo las
+características de la aplicación se relacionan con los resultados deseados, lo que nos
+permitirá tomar decisiones informadas sobre qué aspectos priorizar y cómo medir el éxito a
+largo plazo.
+
+
+<div align="center">
+
+  <img src="images/impact_map_user.png">
+
+</div>
+
+<div align="center">
+
+  <img src="images/impact_map_driver.png">
+
+</div>
 
 ## 3.4 Product Backlog
+
+|#Orden|User Story ID|Título|Descripción|Story Points|
+|:----|:----|:----|:----|:----|
+|1|HU07|Implementación de Servicios Externos|Como desarrollador, deseo integrar servicios externos de otras empresas, como Google Maps, para añadir la funcionalidad deseada a la aplicación sin tener que desarrollar todo desde cero.|5| 
+|2|HU09|Configuración de Búsqueda de Ruta Personalizada|Como cliente, quiero ajustar ciertas opciones relacionadas con la búsqueda de rutas (como tiempo de viaje, distancia al paradero y mostrar la ruta más rápida) para optimizar la búsqueda según mis preferencias.|5| 
+|3|HU10|Visualización del Mapa|Como cliente, quiero ver un mapa interactivo con las rutas disponibles para tener una visión más clara del posible camino que puedo tomar.|5| 
+|4|HU11|Visualización de Costos del Pasaje|Como cliente, quiero conocer el costo aproximado del pasaje al elegir una ruta en la aplicación para saber con anticipación cuánto dinero necesitaré para el viaje.|5| 
+|5|HU12|Visualización del Número de Buses a Abordar|Como cliente, quiero saber cuántos buses debo abordar para llegar a mi destino y determinar la mejor ruta según mi situación.|5| 
+|6|HU13|Planificación de Viajes|Como cliente, quiero planificar mis viajes basándome en mi ubicación actual y en el destino (mostrando horarios de salida y llegada de los buses, su ubicación, etc.) para organizar mejor mis tiempos.|5| 
+|7|HU14|Información en Tiempo Real|Como cliente, deseo ver información relevante sobre mi viaje en tiempo real (ubicación actual de los autobuses, hora estimada de llegada, retrasos o cambios en la ruta) para tomar decisiones informadas en el momento.|5| 
+|8|HU15|Compra de Boletos|Como cliente, quiero comprar boletos para el transporte público directamente desde la aplicación para facilitar y agilizar el proceso de pago.|5| 
+|9|HU17|Mapas Interactivos|Como cliente, deseo visualizar mapas interactivos que muestren la ubicación de las paradas de autobús, las rutas y la ubicación de los autobuses en tiempo real, para tomar decisiones más informadas sobre qué ruta elegir.|5| 
+|10|HU18|Integración con Otros Servicios de Transporte|Como desarrollador, quiero integrar la aplicación con otros servicios de transporte público, como trenes o tranvías, para permitir a los usuarios planificar viajes intermodales.|5| 
+|11|HU21|Integración de API de Transporte Público|Como desarrollador, deseo integrar una API de transporte público para obtener datos actualizados sobre rutas, horarios y paradas de transporte público en tiempo real.|5| 
+|12|HU23|Desarrollo de Algoritmo de Ruta Óptima|Como desarrollador, quiero crear un algoritmo eficiente para calcular la ruta óptima entre dos puntos, considerando factores como distancia, tiempo y preferencias del usuario.|5| 
+|13|HU04|Registro de Rutas y Buses|Como desarrollador, quiero registrar las rutas de transporte urbano y los buses que transitan por ellas para tener un registro completo de todas las rutas en Lima.|3| 
+|14|HU05|Registro de Conductores|Como desarrollador, deseo registrar a los conductores de los buses para tener un registro de todos los conductores que operan en las rutas, por motivos de seguridad del usuario.|3| 
+|15|HU06|Registro de Empresas Operadoras de Rutas|Como desarrollador, quiero registrar a las empresas que operan en cada una de las rutas de transporte urbano en buses para tener un registro completo de todas estas empresas en la base de datos de la aplicación.|3| 
+|16|HU08|Visualización del Menú de Opciones|Como cliente, quiero ver el menú de opciones de la aplicación para tener una idea de las funcionalidades disponibles en ella.|3| 
+|17|HU19|Accesibilidad|Como desarrollador, deseo hacer la aplicación más accesible para personas con discapacidades, ofreciendo opciones como navegación por voz y alto contraste, para ampliar la cantidad de posibles usuarios.|3| 
+|18|HU20|Retroalimentación de los Usuarios|Como cliente, quiero proporcionar retroalimentación sobre mi experiencia de viaje o el uso de la aplicación para expresar mi satisfacción o insatisfacción con su funcionamiento.|3| 
+|19|HU22|Implementación de Sistema de Autenticación OAuth|Como desarrollador, quiero implementar un sistema de autenticación OAuth para permitir a los usuarios iniciar sesión utilizando sus cuentas de redes sociales.|3| 
+|20|HU24|Sección Principal de Landing Page|Como visitante de la landing page, quiero ser recibido por una sección principal llamativa para captar mi atención e interés en explorar más sobre la aplicación de seguimiento de rutas.|3| 
+|21|HU25|Información de Beneficios|Como visitante de la landing page, quiero encontrar una sección dedicada a los beneficios de la aplicación de seguimiento de rutas para entender cómo puede mejorar mi experiencia de viaje.|3| 
+|22|HU26|Conocer los Aliados que Respalda la App|Como visitante de la landing page, deseo ver una lista de aliados que respaldan la aplicación de seguimiento de rutas para sentir confianza en su calidad y fiabilidad.|3| 
+|23|HU27|Reseñas de Usuarios Satisfechos|Como visitante de la landing page, quiero encontrar reseñas y testimonios de usuarios satisfechos para obtener una idea de su experiencia y satisfacción con la aplicación.|3| 
+|24|HU28|Conocer los Planes de Suscripción|Como visitante de la landing page, quiero encontrar información sobre los planes de suscripción disponibles para entender las opciones de pago y beneficios asociados a cada plan.|3| 
+|25|HU29|Obtener Respuestas a Preguntas Frecuentes|Como visitante de la landing page, quiero acceder a una sección de preguntas frecuentes para resolver mis dudas comunes sobre la aplicación de seguimiento de rutas.|3| 
+|26|HU01|Registrar al Usuario|Como cliente, quiero registrarme con todos mis datos pertinentes (nombre, correo, edad, etc.) en la aplicación para utilizar sus funcionalidades.|2| 
+|27|HU02|Inicio de Sesión en la Aplicación|Como cliente, deseo iniciar sesión en la aplicación con mis credenciales (correo y contraseña) para acceder a mi cuenta existente.|2| 
+|28|HU03|Eliminar Cuenta o Usuario|Como cliente, quiero tener la opción de borrar mi cuenta para que mis datos se eliminen de la base de datos de la aplicación.|2| 
+|29|HU16|Notificaciones Personalizadas|Como cliente, quiero recibir notificaciones personalizadas sobre eventos relevantes a mi viaje en bus (retrasos, horarios, etc.) para estar informado sobre situaciones que puedan afectar mi viaje.|2|
 
 # Capítulo IV: Product Design
 
 ## 4.1. Style Guidelines.
-
-
+Los conjuntos de reglas y sugerencias que se establecieron para estandarizar la presentación, el estilo y la accesibilidad de la Landing Page y las aplicaciones web se conocen como guías de estilo.
 ### 4.1.1. General Style Guidelines.
+La paleta de colores que estamos usando en nuestra Landing Page y Web Application son los siguientes:
+div
+
+<div align="center">
+
+  <img src="images/colors.png">
+
+</div>
+
+El verde y sus varios tonos son la base de nuestra solución porque buscamos transmitir a nuestros usuarios paz, seguridad y equilibrio. Para que nuestros usuarios no se sientan abrumados, buscamos la simplicidad y el minimalismo.
+
+Las fuentes elegidas para la Landing Page y la aplicación web son MuseoModerno para el logotipo, los títulos y los subtitulos, ya que la tipografía simula pistas y carreteras que vemos que encajan con nuestro producto. Montserrat es la fuente elegida para los textos, el contenido informativo y los botones de la Landing Page.
+
+
+<div align="center">
+
+  <img src="images/Fonts.png">
+
+</div>
+
+Decidimos que el letter spacing será 1,15 para textos y contenido de la página y 2px para título y subtítulos para una visualización óptima de nuestros usuarios.
+
+El tono de nuestra comunicación será casual, respetuoso y sereno ya que nuestro público será en su mayoría adultos.
 
 
 ### 4.1.2. Web Style Guidelines
 
+Para el diseño de la aplicación web, elegimos los colores verde y blanco como colores predominantes y utilizamos la tipografía Montserrat en el 90% del diseño. Se tuvo en cuenta la simplicidad del diseño para que funcione bien en todos los tipos de dispositivos, manteniendo los principios de respuesta y usabilidad.
 
+También utilizamos iconos para la parte del dashboard.
+
+<div align="center">
+
+  <img src="images/iconos.jpeg">
+
+</div>
 
 ## 4.2. Information Architecture.
+En esta sección explicaremos cómo organizar, estructurar y etiquetar el contenido de LimaPaths Landing Page y la aplicación web de manera que sea fácil de entender y usar para los usuarios. Nos concentramos en el diseño de sistemas de información como sitios web y sistemas de gestión de contenido con el objetivo de mejorar la usabilidad y la experiencia del usuario.
 
 ### 4.2.1. Organization Systems.
+* **Forma jerarquica (visual hierarchy)**
+
+La aplicación web de LimaPath se organiza jerarquicamente en un tablero principal que proporcionará acceso rápido a las funciones principales, como el pago de pasajes, la búsqueda de rutas por ubicación y horarios en tiempo real. En segunda instancia, los usuarios podrán ver sus pagos y promociones, así como su historial de viajes. Los usuarios en el nivel más alto de la escala podrán administrar su perfil de usuario y configurar notificaciones personalizadas, mientras que una sección de ayuda brindará ayuda y recursos adicionales. La estructura jerárquica facilita la navegación y facilita la búsqueda y gestión de información del transporte público.
+
+* **Organización secuencial (step-by-step to accomplish)**
+
+La organización secuencial se aplicó en la aplicación web de Lima Paths en situaciones donde los usuarios necesiten completar una serie de pasos en un orden específico para lograr un objetivo. Por ejemplo, durante el proceso de registro de un nuevo usuario, se pueden guiar a través de una secuencia de pasos que incluya la creación de una cuenta, la configuración de preferencias y la aceptación de los términos y condiciones, también lo podemos ver al momento de buscar rutas y buses y al pagar pasaje por medio de la aplicación. De esta manera, la organización secuencial ayuda a simplificar y estructurar procesos complejos, facilitando la navegación y la comprensión para los usuarios.
+
+* **Organización matricial**
+
+La organización matricial se utilizó en LimaPaths en situaciones donde una variedad de categorías o dimensiones se superponen y se relacionan entre sí. Por ejemplo, podemos verlo al buscar buses, donde se nos muestra un mapa con información sobre los buses y filtros que podemos usar. La organización visual de las promociones que se dan a los usuarios también lo demuestra.
 
 ### 4.2.2. Labeling Systems.
+Para hacer que la aplicación sea más fácil de entender para los usuarios, hemos utilizado el siguiente sistema de etiquetado.
+
+| Etiqueta            | Descripción                                                                                                                                    |
+|:-------------------:|:----------------------------------------------------------------------------------------------------------------------------------------------:|
+| Buscar Rutas        | En esta sección se le mostrará al usuario avisos por parte de la aplicación                                                                    |
+| Notificaciones      | En esta sección el usuario podrá ingresar su origen y destino y visualizar sus rutas y buses, así como un mapa con información en tiempo real. |
+| Pagar Pasaje        | En esta sección el usuario podrá pagar sus pasajes de su ruta de manera anticipada para ser más eficiente a la hora de abordar el bus.         |
+| Promociones         | En esta sección el usuario podrá acceder a distintas promociones que brindamos a nuestros usuarios premium                                     |
+| Historial de Viajes | En esta sección el usuario podrá visualizar sus viajes anteriores y pasajes pagados.                                                           |
+| Soporte y Ayuda     | En esta sección el usuario accede a ayuda por parte de nuestro equipo de soporte.                                                              |
+| Configuración       | En esta sección el usuario puede configurar sus preferencias y su perfil.                                                                      |
 
 
 
 ### 4.2.3. SEO Tags and Meta Tags
 
+Los tags de optimización de motores de búsqueda (SEO) y los metatags son cruciales porque juegan un papel importante en la optimización de motores de búsqueda y en la mejora de la visibilidad y el ranking de una página web en los resultados de búsqueda. Para optimizar la búsqueda y el posicionamiento de LimaPaths, hemos establecido:
+
+* **Landing Page:**
+  Title: LimaPaths
+  Description: Optimiza tu viaje y libérate del estrés
+  Keywords: Tráfico, Planificador, Seguridad, Comodidad, Precisión, Horario, Buses en Lima, Rutas, Autobús, Metro, Tren, Paradas, Ubicación.
+  Authors: InnovaTech
+
+* **Web Application:**
+  Title:  LimaPaths
+  Description: Optimiza tu viaje y libérate del estrés
+  Keywords: Metro, Tren, Paradas, Autobús, Ubicación, Tráfico, Planificador, Comodidad, Precisión, Horario, Buses en Lima, Seguridad, Rutas, Buses, Seguimiento, Mapas, Transporte, Navegación, Tiempo, Notificaciones, Promociones, Pasajes, Historial.
+  Authors: InnovaTech
+
 
 
 ### 4.2.4. Searching Systems.
 
+El sistema de búsqueda de nuestra aplicación se basa en los buses y sus rutas o paraderos. Este sistema se conectará a una base de datos que contiene información sobre autobuses y rutas, así como los precios de los pasajes. Como resultado, este sistema de búsqueda se mostrará en los apartados "Buscar Rutas", "Pagar Pasajes" e "Historial de Viajes".
+
 
 ### 4.2.5. Navigation Systems.
 
+Los sistemas de navegación implementados en LimaPaths son los siguientes:
+
+Barra de navegación en la Landing Page: El usuario podrá movilizarse a través de nuestra Landing Page y conocera nuestra aplicación y propuesta de valor.
+Barra de navegación en Web Application: El usuario podrá visualizar los diferentes apartados y funcionalidades de nuestra propuesta.
+Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofrecemos.
 
 
 ## 4.3. Landing Page UI Design.
