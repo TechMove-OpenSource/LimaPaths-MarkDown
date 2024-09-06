@@ -1121,9 +1121,40 @@ Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofr
 
 ### 5.2.1. Sprint 1
 
+
+
+
 #### 5.2.1.1. Sprint Planning 1.
 
+| Sprint 1                         | Implementación de funcionalidades y diseño de la aplicación.                                                                                    |
+| -------------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------- |
+| Sprint Planning Background       |
+| Date                             | 29/08/2024                                                                                                                                      |
+| Time                             | 17:00 horas                                                                                                                                          |
+| Location                         | Reunión realizada mediante Google Meet                                                                                                              |
+| Prepared By                      | Santiago Mickelle Olivera Guerra                                                                                                              |
+| Attendees (to planning meeting) | De la Cruz Moreno, Roy Hernan/Casimiro Fernandez, Carlos Oswaldo /Berrocal Ramirez, Omar Christian/Cusimayta Lobo, Alez Gabriel |
+| Sprint n - 1 Review              | Se creará la organización de TechMove en Github y el repositorio de la organización. Además, se implementará el single page landing page.    |
+| Sprint n – 1 Retrospective       | La implementación para el landing se ha realizado mediante html y css. |
+| **Sprint Goal & User Stories**   |
+| Sprint 1 Goal                    | Realizar y desplegar el Landing Page                                                                                                            |
+| Sprint 1 Velocity                | 5                                                                                                                                              |
+| Sum of Story Points              | 21                                                                                                                                              |
+
+
 #### 5.2.1.2. Sprint Backlog 1.
+
+|**Sprint #**|**Sprint 1**| | | | | | |
+|:----|:----|:----|:----|:----|:----|:----|:----|
+|**User Story**| |**Task**| | | | | |
+|id|Title|Id|Title|Description|Estimations(Hours)|Assigned To|Status(To-do /InProcess/ToReview/Done)|
+|HU24|Sección principal de landing page|T001|Desarrollo de Header|Desarrollo e implementación de los estilos que corresponden al encabezado (Header).|3|Omar Berrocal|Done|
+|HU25|Información de beneficios|T002|Desarrollo de Footer|Desarrollo e implementación de los estilos que corresponden a la sección de beneficios de la app|2|Alex Cusimayta|To-do|
+|HU26|Conocer los aliados que respaldan la app|T003|Desarrollo de sección de aliados de la app.|Desarrollo e implementación de los estilos que corresponden a la seccion de aliados de la app con HTML/CSS/JS|3|Roy de la Cruz|Done|
+|HU27|Reseñas de usuarios satisfechos|T004|Desarrollo de sección de reseñas de usuarios de la app|Desarrollo e implementación de los estilos que corresponden a la seccion reseñas con HTML/CSS/JS|2|Roy de la Cruz|Done|
+|HU28|Conocer los planes de suscripción|T005|Desarrollo de sección de planes de suscripción|Desarrollo e implementación de los estilos que corresponden a la seccion de los planes de suscripción con HTML/CSS/JS|3|Santaigo Olivera|Done|
+|HU29|Obtener respuestas a preguntas frecuentes|T006|Desarrollo de sección de preguntas frecuentes|Desarrollo e implementación de los estilos que corresponden a la seccion de preguntas frecuentes con HTML/CSS/JS|3|Carlos Oswaldo|InProcess|
+|HU30|Diseño responsive de Landing Page.|T007|Desarrollo responsive de la Landing Page|Implementación de prácticas y elementos responsive para la adaptabilidad de la Landing Page para diferentes dispositivos.|3|Santiago Olivera|Done|
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
