@@ -74,16 +74,16 @@ Ciclo 2024-02
 <div align="center">
 
  ##### imagen de grafos
- <img src="images/grafo-informe.png">
-
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeXNppHQ-pTJIPX7BcJ64bc6UM8m8H2pIqy-DcwvNBR1uiy6hkAliI24jEno9VtQgIHiqGK9nDCSAx80lFE6yIWk_hqSdw_cI0Z2UsfPsnvCp7b-eQtuFB4DvkjpQP_MOfVZBYHPtATthZdIFchsf3ml0Bf?key=FJE6fvDrMe6VJodRzmACcQ">
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfwjLeLRamkUnXEgkKrCWE7S89TzP3KtyemivatlWLxaP024H2yMw0LeAXP181J_GtJOtrEymaV0-HcNe5bRLfj4tx2IcYVG_IjuzUdu_QLhuSuqJSZaGwNNRqqsLVt2IQ6sJw_AJHE_QuLs0lZVD4WOUb8?key=FJE6fvDrMe6VJodRzmACcQ">
 </div>
 
 <div align="center">
 
  ##### imagen de commit
- <img src="images/commits-informe.png">
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdb4lTFAG7TBlatc5b_X-bk9HEkQavIonSEdBGGdTsRQ82qesODZ-sKCQZaPj_IR-ZPmL95_w8cPA-J8QQe56VeX4B0pRBWgjmTfwAccpEOMLnHQ26Gc7QmTgXH0YurIjiMlezTRQvr6nFgooq3Ku-uQq0?key=FJE6fvDrMe6VJodRzmACcQ">
  
- <img src="images/commits-over.png">
+ 
 
 </div>
 
