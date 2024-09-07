@@ -412,7 +412,7 @@ imagen de sprint 1
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="" alt="Berrocal Ramirez Omar"  style="margin-bottom: 5px;" width="800"/>
+            <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf-PRRhDqg9e8kB8W-ALsJ92WvJY5_oLw2JEXYmeC4DACc75Zr9Nir44Jkb9kD6nUE2Tv8J8KSvTsZIatmfFq21doZO7oHw2tQPvFspsOiPPCrtPoBlOOl2qP-I7RtqAhXHkMJkIUcXgJxwZ-CVU1LE8EX5?key=FJE6fvDrMe6VJodRzmACcQ" alt="Berrocal Ramirez Omar"  style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
