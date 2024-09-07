@@ -1403,11 +1403,11 @@ Y por último, nos encontramos con el Network que ilustra el cómo se fue desarr
 
 ## Anexos
 
-- _**Landing Page Figma:https://www.figma.com/design/6jW2GekC3ZdkY0HtpFkmqZ/LimaPaths-UI?node-id=0-1&node-type=CANVAS&t=FYK3oSbHRZ1bIi8b-0**_
+- _**Landing Page Figma: https://www.figma.com/design/6jW2GekC3ZdkY0HtpFkmqZ/LimaPaths-UI?node-id=0-1&node-type=CANVAS&t=FYK3oSbHRZ1bIi8b-0**_
 
-- _**Wireframes y Mockups Figma:https://www.figma.com/design/6jW2GekC3ZdkY0HtpFkmqZ/LimaPaths-UI?node-id=0-1&node-type=CANVAS&t=FYK3oSbHRZ1bIi8b-0**_ 
+- _**Wireframes y Mockups Figma: https://www.figma.com/design/6jW2GekC3ZdkY0HtpFkmqZ/LimaPaths-UI?node-id=0-1&node-type=CANVAS&t=FYK3oSbHRZ1bIi8b-0**_ 
   
-- _**Tech Move Landing Page:https://techmove-opensource.github.io/LimaPaths-landing-page/**_ 
+- _**Tech Move Landing Page: https://techmove-opensource.github.io/LimaPaths-landing-page/**_ 
 
-- _**Link Video de Exposicion TB1:AGREGAR EN MERGE DEVELOP**_ 
+- _**Link Video de Exposicion TB1: https://youtu.be/3M6LtSQeJS0**_ 
 
