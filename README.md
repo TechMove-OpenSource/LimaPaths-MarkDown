@@ -1062,7 +1062,7 @@ Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofr
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
-- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeEJ3Uzsm6ywQO8BZzmOnVOW7fAklmd7DIgJxMi6gP_eH_voXW3nRpfgotohTgkfg-AmTMneaKphfxcf24G-p09xJHqZror9t5vjVtxSCXk7oMGZ6WAYUopLcySWmn35ae358EwD2odfga5_OFafHUodzs?key=V4z4OyW-qymj93Y2Jmcmzw">
+
 
 ### 4.7.2. Class Dictionary.
 
@@ -1070,7 +1070,7 @@ Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofr
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagram.
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeEJ3Uzsm6ywQO8BZzmOnVOW7fAklmd7DIgJxMi6gP_eH_voXW3nRpfgotohTgkfg-AmTMneaKphfxcf24G-p09xJHqZror9t5vjVtxSCXk7oMGZ6WAYUopLcySWmn35ae358EwD2odfga5_OFafHUodzs?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
