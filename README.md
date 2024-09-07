@@ -799,6 +799,24 @@ En esta sección se han definido una cierta cantidad de preguntas para nuestros 
 
 ### 2.3.1. User Personas
 
+Los User Personas son necesarios para la formación de este proyecto, ya que brindan una perspectiva completa de los usuarios clave. Estos perfiles detallados permiten a la startup diseñar una plataforma y experiencia enfocada y personalizada, abordando de manera efectiva los desafíos específicos de cada segmento objetivo:
+
+**User Persona del segmento:  Pasajeros en busca de un autobús. (Pasajeros)**
+
+<div align="center">
+
+  <img src="https://i.imgur.com/ebiHXz2.png">
+
+</div>
+
+**User Persona del segmento: Empresas de transporte que operan en Lima.**
+
+<div align="center">
+
+  <img src="https://i.imgur.com/Tz0fqBD.png">
+
+</div>
+<br>
 
 ### 2.3.2. User Task Matrix
 
