@@ -164,6 +164,7 @@ imagen de sprint 1
   - [4.2.5. Navigation Systems](#425-navigation-systems)
 - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
   - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+  - https://lh7-rt.googleusercontent.com/docsz/AD_4nXeYXAeHqEWuJN-Y5_wICyXUF58VWVMhAGiQ7Td0WXwN1C_uIy6ig8nzdswKpW6okMRC32pbz1OAzdnpPyhKs6qFQUbrAXd5_ZKoRwSCeI2yHdyKwytiyNL1roFrdPcYnUDuG__drLCX5uCfv_Xgcb0IkQrV?key=V4z4OyW-qymj93Y2Jmcmzw
   - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
 - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
   - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
@@ -1007,27 +1008,41 @@ Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofr
 
 ### 4.3.1. Landing Page Wireframe.
 
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeYXAeHqEWuJN-Y5_wICyXUF58VWVMhAGiQ7Td0WXwN1C_uIy6ig8nzdswKpW6okMRC32pbz1OAzdnpPyhKs6qFQUbrAXd5_ZKoRwSCeI2yHdyKwytiyNL1roFrdPcYnUDuG__drLCX5uCfv_Xgcb0IkQrV?key=V4z4OyW-qymj93Y2Jmcmzw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfzCECclFzmG9vk93MaVXAQ30C_MDpxJWo1lfVjqrhaDBKfQymHUOpFLQd--Psx28eYxQbJrtVCpFeRIDSM-uoiWc97GSescHkFDpvrdzlxi9gtt6jfCDU1lPGLTMLmpZhT0xqfF-qp4SPRuOpiQiVayaw?key=V4z4OyW-qymj93Y2Jmcmzw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcEcy20Df3p3rCTLDLq3-fUGsFY6QU1Xp76IC8cYg8aEHm76pRIcNjX3DRO0WAmz0nMtJ0HRsTMDdAi0NDDcsxCaww3-Tjz4mCl0-Xm0MraQJQ2eG_Cvb5OIPFRR9d6dFfNhVzjTZEMHlyl6hAHtZK5pdn1?key=V4z4OyW-qymj93Y2Jmcmzw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXduifAtVdr88xgvVoJMHGHJDAjY6t_rkjROSUsI4Nvb2RnnlRulW6Vs5Ou_m3qtVHk5RI7LQMAghRVWGFlgrMOrFw3M-zXZUdrk8mzMBRC90DD4esz8ltIyZrQCKYIW-FH4Ck5hcxJ2BTaV_Hef1QWQDcE?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ### 4.3.2. Landing Page Mock-up.
 
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfNZpRhnHTok8MIGrao1n8jdVqUNVYr8h19h5ePSC8QXBQyymUc7qiSpEvFaTKYhKmKjJBHDQMnBkkf99mJzN5tvSOecrL2D8dnN0dr4LKDUznY8NNM4-OuMuylIvuKWoCmRPRJhzH3LYK6yM0VehA-Hodr?key=V4z4OyW-qymj93Y2Jmcmzw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfAKD8kn1VtUwgALa16jo8z_BG7vhwxpMVQERPa3VvgNTJdfw2ze5Rorcy0bq_jmPwGuD-cNvLKh8_qpxBTZdArk4J0bUStSjBrP-B-OvPjaOm_Cx42pBta53WMEDxyi3JTpLjtsIQHEHRJABixpmYz9NCi?key=V4z4OyW-qymj93Y2Jmcmzw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfgLI0IRq9BVGU9Hbx6o9cAvEll9xFOXs554y0QYqLZ3ddGPJoWJVaNfqjb9bAfjyq5Im9A1KZwIdmUFuSJ5lqZM_6vkDvILJQ561gk0806PbmF5gRUlyuuyClYnr0OG7tOyEZAlpxLLodmJ467MNcnkEc?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ## 4.4. Web Applications UX/UI Design.
 
 ### 4.4.1. Web Applications Wireframes.
 
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfzCECclFzmG9vk93MaVXAQ30C_MDpxJWo1lfVjqrhaDBKfQymHUOpFLQd--Psx28eYxQbJrtVCpFeRIDSM-uoiWc97GSescHkFDpvrdzlxi9gtt6jfCDU1lPGLTMLmpZhT0xqfF-qp4SPRuOpiQiVayaw?key=V4z4OyW-qymj93Y2Jmcmzw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcEcy20Df3p3rCTLDLq3-fUGsFY6QU1Xp76IC8cYg8aEHm76pRIcNjX3DRO0WAmz0nMtJ0HRsTMDdAi0NDDcsxCaww3-Tjz4mCl0-Xm0MraQJQ2eG_Cvb5OIPFRR9d6dFfNhVzjTZEMHlyl6hAHtZK5pdn1?key=V4z4OyW-qymj93Y2Jmcmzw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXduifAtVdr88xgvVoJMHGHJDAjY6t_rkjROSUsI4Nvb2RnnlRulW6Vs5Ou_m3qtVHk5RI7LQMAghRVWGFlgrMOrFw3M-zXZUdrk8mzMBRC90DD4esz8ltIyZrQCKYIW-FH4Ck5hcxJ2BTaV_Hef1QWQDcE?key=V4z4OyW-qymj93Y2Jmcmzw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcg_yVQWfqMvW7JCUkHaIEK0iNqIIe0ME4kkMIsR0TTWRLttNrzdzAkg2PbtKCK3oBtG07NpdJu-DMokFc7xG-jlD8PETm1EylFkiOGVZtXH5Z_e3a95kV70ZdHH-SxIsQve2U5EUzHYnNYWCEJAaL7C2E?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeWlSBl_GT4EcVWWdyB1gUcT3K5y3tUkCGuMt5UxJhgjVyIzcgJFBWktIoBV0A3HnqMZq8YeT-uCZzz71J44zQO-NDX6XA4NdkqA5WFefmrpFO1fKE524BktKbLXwU7lZiMWMRMnQyUJ9h3u3ZSYVxeZ1g?key=V4z4OyW-qymj93Y2Jmcmzw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcnVAIsZQgENsEO71qVWNwnRmva4sUdeP5XbStutUB6O3w7olaQ61ZFpN8AvOttfxDROK9O7on0LmMiibhPwuS6jrHvqkogAJfnkgW8d_rXbewDzRrpp20l-6gBx9SdCirIZzg8PGjo_TPiP2XpQhc9bxd4?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ### 4.4.3. Web Applications Mock-ups.
 
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfAKD8kn1VtUwgALa16jo8z_BG7vhwxpMVQERPa3VvgNTJdfw2ze5Rorcy0bq_jmPwGuD-cNvLKh8_qpxBTZdArk4J0bUStSjBrP-B-OvPjaOm_Cx42pBta53WMEDxyi3JTpLjtsIQHEHRJABixpmYz9NCi?key=V4z4OyW-qymj93Y2Jmcmzw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfgLI0IRq9BVGU9Hbx6o9cAvEll9xFOXs554y0QYqLZ3ddGPJoWJVaNfqjb9bAfjyq5Im9A1KZwIdmUFuSJ5lqZM_6vkDvILJQ561gk0806PbmF5gRUlyuuyClYnr0OG7tOyEZAlpxLLodmJ467MNcnkEc?key=V4z4OyW-qymj93Y2Jmcmzw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfUIMUepft7AQGW2mtaVDwV8C1qkrSHVhR6-YtXD431Q4Wg76RXMEz5wTozrxb2PJHEP7tcjgU05YsxPGXLouJaKHfstiu7iAqUKhTBro_eyyOpfkbpQPyZnAr7uRPXZS-2bA8bhIfLI8X1Gn0LMgeWC_g?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdY4SGPb0YNsxq0khSsZX-ZMH6C9P3HBgEXPSuQLVzFHxiuds7V7s5Zoqrs87RBvZSLnyjvOE3fExMUcA5uh06h1sJyu3nkM3gyhQABDevul1xQ8eXXQ06JUuvqIgLfJLR63xvKAD4RiLQx6fDeZiVV-ZBe?key=V4z4OyW-qymj93Y2Jmcmzw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXctWqBtvhyTrTHGs5dEVGcbnXDPmH-wHuaCU9PzmaD-w1yVavhjHNs36zRMsVFsKzdo_aUoYbewrLBzfJWuUYLwrQezpA_bXwhqZhhktQf3D62PLnvgD7yGHFHsY1u1yy-l4cMuTY5vxzWVBqVcujt_qSgh?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ### 4.5. Web Applications Prototyping.
 
@@ -1035,18 +1050,18 @@ Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofr
 ## 4.6. Domain-Driven Software Architecture.
 
 ### 4.6.1. Software Architecture Context Diagram.
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeZEtui-3Eetu8CpQn1qA4S2u0jZWtHg_HOKYqp8LBMpY1yUSyn0-lViW-cG2qqBwh_QahDTcwHouyoJZ9jHcHRVC4yznLpL3TOUHc7kgb09x-LGcgb_dS_hGnhfWI9Weklb1qwNwyNUz2cG22BNpyBeYR1?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ### 4.6.2. Software Architecture Container Diagrams.
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfP69Bep5kk-AO9tRTWK_S8cqiFrWRZMaIaTEAiJhQFWEmxJZCvUlBjw0-XrhB5OIsukGkdg7h4FtzwKsT3qs_I2l-zjLkuzNjEBHx8tobcu7A4bsPnxfWxvH71AXlXbAm4PTLfjbXgxCLmAwn5fNDWQ7hF?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ### 4.6.3. Software Architecture Components Diagrams.
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfSPfbFwSWInsFeKqecvy0nOwtD0ien8eY_dhoR8fdRRTYoAf55DizkMLbjkliCjq_hcYZqrS0dA86rIzsqPsvOkWSlIf8lFwXlX8fLoTOXdlyiR7dGsb2PApm9w-w8ymbWbdNq3U52yl0fs2BGT1jtN9jF?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeEJ3Uzsm6ywQO8BZzmOnVOW7fAklmd7DIgJxMi6gP_eH_voXW3nRpfgotohTgkfg-AmTMneaKphfxcf24G-p09xJHqZror9t5vjVtxSCXk7oMGZ6WAYUopLcySWmn35ae358EwD2odfga5_OFafHUodzs?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ### 4.7.2. Class Dictionary.
 
