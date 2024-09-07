@@ -1046,8 +1046,7 @@ Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofr
 - <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXctWqBtvhyTrTHGs5dEVGcbnXDPmH-wHuaCU9PzmaD-w1yVavhjHNs36zRMsVFsKzdo_aUoYbewrLBzfJWuUYLwrQezpA_bXwhqZhhktQf3D62PLnvgD7yGHFHsY1u1yy-l4cMuTY5vxzWVBqVcujt_qSgh?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ### 4.5. Web Applications Prototyping.
-
-
+[Diseño en Figma](https://www.figma.com/design/6jW2GekC3ZdkY0HtpFkmqZ/LimaPaths-UI?node-id=0-1&t=67kRUlPQBXcKcSu6-1)
 ## 4.6. Domain-Driven Software Architecture.
 
 ### 4.6.1. Software Architecture Context Diagram.
