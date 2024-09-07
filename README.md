@@ -751,6 +751,42 @@ La startup seguirá de cerca lo que hacen sus competidores para poder mantenerse
 
 ### 2.2.1. Diseño de entrevistas
 
+En esta sección se han definido una cierta cantidad de preguntas para nuestros segmentos objetivos. Esta información se usará en el desarrollo de nuestra solución.
+
+**Adquisición de información general**
+
+**Segmento 1: Pasajeros en busca de un autobús. (Pasajeros):**
+
+1. ¿Cómo te llamas?
+2. ¿Cuántos años tienes?
+3. ¿Cuál es tu ocupación?
+4. ¿Qué tan a menudo utilizas el transporte público en Lima para tus desplazamientos diarios?
+5. ¿Qué aspectos consideras más importantes al planificar tus viajes en transporte público?
+6. ¿En qué distrito resides?
+7. ¿Tienes algún dispositivo de preferencia para acceder a aplicaciones móviles?
+8. ¿Qué canales digitales utilizas con mayor frecuencia para interactuar con información relacionada con el transporte público?
+9. ¿Cuáles son tus principales objetivos al utilizar el transporte público en Lima y cuáles son las frustraciones más comunes que experimentas?
+10. ¿Qué aplicaciones o herramientas utilizas actualmente para planificar tus viajes en transporte público?
+11. ¿Qué características te gustaría ver en una aplicación de planificación de rutas de transporte público?
+12. ¿Estarías dispuesto a pagar por una versión premium de una aplicación que ofreciera características adicionales para mejorar tu experiencia de viaje en transporte público?
+13. ¿Cuáles son las funcionalidades más importantes que consideras al elegir una aplicación de transporte público?
+14. ¿Qué aspectos valoras más en términos de usabilidad y diseño de la aplicación?
+15. ¿Cómo prefieres recibir información en la aplicación: a través de notificaciones push, mensajes de texto, correos electrónicos, u otros medios?
+16. ¿Qué opiniones o comentarios tienes sobre aplicaciones similares que has utilizado previamente?
+
+**Segmento 2: Empresas de transporte que operan en Lima.:**
+
+1. ¿Cuál es el nombre de su empresa de transporte público?
+2. ¿Cuál es su rol dentro de la empresa?
+3. ¿Podría describir brevemente las principales operaciones y servicios de transporte que ofrece su empresa en Lima?
+4. ¿Qué desafíos enfrenta actualmente su empresa en términos de operaciones de transporte y atención al cliente?
+5. ¿Está su empresa utilizando alguna aplicación o plataforma tecnológica para gestionar sus servicios de transporte?
+6. ¿Qué características o funcionalidades consideraría más útiles en una aplicación destinada a empresas de transporte público como la suya?
+7. ¿Cómo cree que una aplicación de este tipo podría mejorar la eficiencia y la calidad de los servicios de transporte que ofrece su empresa?
+8. ¿Qué aspectos consideraría más importantes al evaluar y seleccionar una aplicación para su empresa?
+9. ¿Cuál sería su principal preocupación o requisito al considerar la adopción de una nueva aplicación o plataforma tecnológica para su empresa de transporte público?
+10. ¿Tiene alguna experiencia previa en la implementación o uso de aplicaciones similares en su empresa o en la industria del transporte público en general?
+
 
 ### 2.2.2. Registro de entrevistas
 
