@@ -45,7 +45,7 @@ Ciclo 2024-02
 
 | Versión |   Fecha   |                                                                                        Autor                                                                                         | Descripción de modificación                                                                                                                                           |
 | :-----: |:---------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   TB1   | 19/08/2024 | -Santiago Mickelle Olivera Guerra<br> -Carlos Oswaldo Casimiro Fernandez<br> -Omar Christian Berrocal Ramirez  |  CAPITULO I AL V|
+|   TB1   | 19/08/2024 | -Santiago Mickelle Olivera Guerra<br> -Carlos Oswaldo Casimiro Fernandez<br> -Roy Hernan De La Cruz Moreno <br> Cusimayta Lobo Alex Gabriel <br> -Omar Christian Berrocal Ramirez   |  CAPITULO I AL V|
 
 
 <br><br>
