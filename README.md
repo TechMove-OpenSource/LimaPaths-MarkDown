@@ -1063,8 +1063,23 @@ Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofr
 
 ### 4.7.1. Class Diagrams.
 
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfJFgi54THKgIVeDyuFLBMlky_eC5zXB67LOpaseYRvrYVrBJuVzzbgruQgeQj5e8YpMuaA56_h7zNWU9QT4cAppq7JH0AQkACgOIK2YbAxQ9eqpA91__Py6gGGxlibavcwOxV5Q6-FoD5ea-cFLA3L43kS?key=H6EtlmqAgi51tpjibECXOw">
 ### 4.7.2. Class Dictionary.
+| **CLASE**     | **ATRIBUTOS**                                                                                                          | **MÉTODOS**                                                                             |
+|---------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| **Usuario**   | id:int -> id del usuario<br>correo:string -> correo electrónico del usuario<br>contrasenia:string -> contraseña del usuario | registrarUsuario() -> Permite registrar una nueva cuenta<br>iniciarSesion() -> Permite iniciar sesión en el sistema<br>salirSesion() -> Permite salir sesión en el sistema<br>editarPerfil()->Permite al usuario editar su perfil |
+| **Pasajero**  | id:int -> id del pasajero<br>nombre:string -> nombre del pasajero<br>apellidos:string -> apellidos del pasajero<br>celular:string -> celular del pasajero | reservarViaje() -> Reserva un nuevo viaje para el pasajero<br>obtenerHistorialViajes()-> Obtiene una lista de los viajes pasados |
+| **Empresa**   | id:int -> id de la empresa<br>ruc:string -> número de ruc de la empresa<br>razon_social:string -> razón social de la empresa | agregarBus() -> Permite que la empresa pueda agregar buses<br>eliminarBus() -> Permite que la empresa pueda eliminar buses |
+| **Bus**       | id:int -> id del bus<br>placa:string -> número de placa del bus                                                         | agregarRuta() -> Permite que el bus pueda agregar rutas<br>modificarRuta() -> Permite que el bus pueda modificar rutas<br>eliminarRuta() -> Permite que el bus pueda eliminar rutas |
+| **Modelo**    | id:int -> id del modelo de bus<br>nombre:string -> nombre del modelo del bus                                            |                                                                                         |
+| **Marca**     | id:int -> id de la marca de bus<br>nombre:string -> nombre de la marca del bus                                          |                                                                                         |
+| **Ruta**      | id:int -> id de la ruta<br>distancia:float -> distancia en km de la ruta                                                | agregarParadero() -> Permite que la ruta pueda agregar paraderos<br>eliminarParadero() -> Permite que la ruta pueda eliminar paraderos |
+| **Notificacion** | id:int -> id de la notificación<br>mensaje:string -> detalle del mensaje de la notificación                            | enviar() -> Permite hacer el envío de notificaciones a los pasajeros<br>marcarComoLeido() -> Permite marcar como leído las notificaciones |
+| **Promocion** | id:int -> id de la promoción<br>c_viajes:int -> número de viajes<br>c_cupon:string -> código de cupón<br>beneficio:string -> descripción del beneficio | aplicarPromocio() -> Permite aplicar la promoción a un usuario por cierto viaje           |
+| **Viaje**     | id:int -> id del viaje<br>fecha_hora_inicio -> hora y fecha del inicio del viaje<br>fecha_hora_fin -> hora y fecha del fin del viaje |                                                                                         |
+| **Paradero**  | id:int -> id del paradero<br>latitud:string -> coordenada latitud del paradero<br>longitud:string -> coordenada longitud del paradero |                                                                                         |
+| **Distrito**  | id:int -> id del distrito<br>nombre:string -> nombre del distrito                                                      |                                                                                         |
+| **Tarifa**    | id:int -> id de la tarifa<br>precio:float -> precio de la tarifa                                                        |                                                                                         |
 
 
 ## 4.8. Database Design.
