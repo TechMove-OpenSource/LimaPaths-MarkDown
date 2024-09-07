@@ -48,6 +48,7 @@ Ciclo 2024-02
 |   TB1   | 19/08/2024 | -Santiago Mickelle Olivera Guerra<br> -Carlos Oswaldo Casimiro Fernandez<br> -Omar Christian Berrocal Ramirez  |  CAPITULO I AL V|
 
 
+
 <br><br>
 
 # Project Report Collaboration Insights
@@ -366,7 +367,7 @@ imagen de sprint 1
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="images/arian-foto.jpg" alt="De La Cruz Moreno Roy Hernan" style="margin-bottom: 5px;" width="800"/>
+            <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcMDpQFp1Q7TGzM2ltCBit8QJ8LAc2DGr_iqtCdes-KljSRh-s11artVOaicd-Vjq4fDkYSALdTCUexU6BmuTN43puV289sbo8CTqAUFiB6T8mZfmjHlyMAFGKpUbkkNi0bMPWdzifaEF-xB9azIP4gO3kd?key=V4z4OyW-qymj93Y2Jmcmzw" alt="De La Cruz Moreno Roy Hernan" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -385,7 +386,7 @@ imagen de sprint 1
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        Sss
+        Soy Roy De La Cruz Moreno, tengo 19 años. Estudió la carrera de Ingeniería de Software. Considero que soy una persona tranquila y atenta al escuchar las propuestas de los demás integrantes del equipo, ademas tengo conocimientos en SQL, NoSQL y C++.
         </td>
     </tr>
     <tr align="center">
