@@ -54,7 +54,7 @@ Ciclo 2024-02
 
 - **TB1:** Para esta entrega, realizamos como equipo las actividades correspondientes a los capítulos asignados en el siguiente repositorio dentro de nuestra organización de grupo:
 
-    Link del repositorio del Informe Final: --
+    Link del repositorio del Informe Final: https://github.com/TechMove-OpenSource/LimaPaths-MarkDown
 
     <br>
 
@@ -297,11 +297,11 @@ imagen de sprint 1
 
 
 
-| Criterio específico  | Acciones realizadas | Conclusiones |
-|:---------- | :-------------- | :------------- |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.    | <strong>TB1</strong> |-|
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | <strong>TB1</strong>|-|
-<br><br>
+| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
+|-------------------------|-------------------------|------------------|
+| **Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.** | **TB1** <br><br>Santiago Mickelle Olivera Guerra:<br>- Se hizo un análisis para poder identificar a los segmentos objetivos, y de esta manera generar soluciones innovadoras. <br><br>Carlos Oswaldo Casimiro Fernandez:<br>- Se organizó una reunión con el equipo para coordinar el enfoque del trabajo, lo que permitió afinar su definición mediante la contribución de diferentes puntos de vista de todos los miembros. <br><br>Roy Hernan De La Cruz Moreno:<br>- Pude comunicar mis ideas de soluciones, así como los enfoques del proyecto realizado. <br><br>Cusimayta Lobo Alex Gabriel:<br>- Realizamos una reunión, analizamos opciones para realizar el trabajo y definimos requerimientos. <br><br>Omar Christian Berrocal Ramirez:<br>- Se coordinó en reunión con el equipo el enfoque del trabajo para tener una mejor definición, brindando cada uno nuestros puntos de vista. | **TB1**<br><br>Elegimos un servicio para facilitar el transporte, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática.<br><br>La comunicación en el equipo fue crucial para definir claramente los roles y tareas desde el inicio, lo que nos permitió avanzar de manera más organizada y eficiente. |
+| **Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.** | **TB1** <br><br>Santiago Mickelle Olivera Guerra:<br>- Se investigó de los principales competidores de nuestra aplicación. Además, se realizaron distintos planteamientos y gráficos para tener unos segmentos objetivos principales. <br><br>Carlos Oswaldo Casimiro Fernandez:<br>- Se diseñó la Landing Page, siguiendo las directrices de estilo para asegurar una mejor integración de los diseños, además de realizar las secciones que mencionan el propósito y alcance del proyecto. <br><br>Roy Hernan De La Cruz Moreno:<br>- Se propusieron ideas para el desarrollo del proyecto, se investigaron posibles diseños, reglas para el desarrollo y también requerimientos para el proyecto que vamos a realizar. Además, colaboré en las reuniones para coordinar las futuras tareas. <br><br>Cusimayta Lobo Alex Gabriel:<br>- Realicé un análisis de los segmentos de usuarios principales y los requerimientos iniciales del proyecto. <br><br>Omar Christian Berrocal Ramirez:<br>- Desarrollé el diseño inicial de la arquitectura de la aplicación web, enfocándome en su modularidad. | **TB1** <br><br>Recopilamos información necesaria para poder afrontar a los competidores directos, y de esta manera ofrecer un servicio novedoso que solucione las dificultades de los usuarios.<br><br>Este análisis inicial nos permitió establecer una base sólida para el desarrollo de *LimaPaths*, lo que asegura que los próximos pasos se lleven a cabo de manera eficiente y efectiva. |
+
 
 # Capítulo I: Introducción
 
@@ -1126,13 +1126,11 @@ Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofr
 
 ## Anexos
 
-- _**Landing Page Figma:**_
+- _**Landing Page Figma:https://www.figma.com/design/6jW2GekC3ZdkY0HtpFkmqZ/LimaPaths-UI?node-id=0-1&node-type=CANVAS&t=FYK3oSbHRZ1bIi8b-0**_
 
-- _**Wireframes y Mockups Figma:**_ 
-- 
-- _**Trello Sprint 1:**_ 
+- _**Wireframes y Mockups Figma:https://www.figma.com/design/6jW2GekC3ZdkY0HtpFkmqZ/LimaPaths-UI?node-id=0-1&node-type=CANVAS&t=FYK3oSbHRZ1bIi8b-0**_ 
+  
+- _**Tech Move Landing Page:https://techmove-opensource.github.io/LimaPaths-landing-page/**_ 
 
-- _**Tech Move Landing Page:**_ 
-
-- _**Link Video de Exposicion TB1:**_ 
+- _**Link Video de Exposicion TB1:AGREGAR EN MERGE DEVELOP**_ 
 
