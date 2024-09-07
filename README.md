@@ -1009,10 +1009,9 @@ Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofr
 
 ### 4.3.1. Landing Page Wireframe.
 
-- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeYXAeHqEWuJN-Y5_wICyXUF58VWVMhAGiQ7Td0WXwN1C_uIy6ig8nzdswKpW6okMRC32pbz1OAzdnpPyhKs6qFQUbrAXd5_ZKoRwSCeI2yHdyKwytiyNL1roFrdPcYnUDuG__drLCX5uCfv_Xgcb0IkQrV?key=V4z4OyW-qymj93Y2Jmcmzw">
-- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfzCECclFzmG9vk93MaVXAQ30C_MDpxJWo1lfVjqrhaDBKfQymHUOpFLQd--Psx28eYxQbJrtVCpFeRIDSM-uoiWc97GSescHkFDpvrdzlxi9gtt6jfCDU1lPGLTMLmpZhT0xqfF-qp4SPRuOpiQiVayaw?key=V4z4OyW-qymj93Y2Jmcmzw">
-- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcEcy20Df3p3rCTLDLq3-fUGsFY6QU1Xp76IC8cYg8aEHm76pRIcNjX3DRO0WAmz0nMtJ0HRsTMDdAi0NDDcsxCaww3-Tjz4mCl0-Xm0MraQJQ2eG_Cvb5OIPFRR9d6dFfNhVzjTZEMHlyl6hAHtZK5pdn1?key=V4z4OyW-qymj93Y2Jmcmzw">
-- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXduifAtVdr88xgvVoJMHGHJDAjY6t_rkjROSUsI4Nvb2RnnlRulW6Vs5Ou_m3qtVHk5RI7LQMAghRVWGFlgrMOrFw3M-zXZUdrk8mzMBRC90DD4esz8ltIyZrQCKYIW-FH4Ck5hcxJ2BTaV_Hef1QWQDcE?key=V4z4OyW-qymj93Y2Jmcmzw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfuRrO4p1WS8f4ipYoW5dBSghbiJ64ZIn58PNHCbY9GrBRPVPxbJ3edtR6BryaJXn90Rk4DluQLUYpkLHG4qzOGssDoXiR7x_3Awv-uqoksvQV_3-NgtmCgNmkfDAE8ElRfvbYFWE_fUnpbokU8u-hIeh4?key=H6EtlmqAgi51tpjibECXOw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcDbHJk5HAEcjZGC2GdunavWCS-EiX5S4mYJuzFbTA6AbnmNigFm67GYwAuxuviaupGpE9ephewKQO_uOlhING9UfsM42nmR5bE4E1viM221ao5060OaN7BH_q3EllY0LrM_7gj2KkRJx1ZgGEGhr6_i9J9?key=H6EtlmqAgi51tpjibECXOw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeaq_AFw4kvukLIzUsNb0lBvkqYg4xlcQV5lZE_tW5QgBgg-JxQfgLFY--idjU7q_rNbNUZFFPfOW0XT-0Rztf6q2w4c0iEhGUNXXzCwxbjAi_P0_-VFMb67tLER48AxoslUY2wPZNVbdDgV14xkuLaavlF?key=H6EtlmqAgi51tpjibECXOw">
 
 ### 4.3.2. Landing Page Mock-up.
 
