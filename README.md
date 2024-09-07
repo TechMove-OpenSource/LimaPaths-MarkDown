@@ -554,7 +554,9 @@ Implementaremos estos modelos y evaluaremos la generación de ingresos y la acep
 
 #### 1.2.2.4. Lean UX Canvas
 
-![alt text](image-1.png)
+
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXewJ22iU9HKEPla5ekNrq2P1k7wMeewNY79l_NJFDLhrXTikTBl9NpMfgnSe2OANFTwEkB306RmZ-zws4itUzghykiTOnot0cWb7hz6tbVmdJ02FzwQX1wme7HA6yokPMaFMk2B9C4XPQnhRBraNvAiXrEC?key=FJE6fvDrMe6VJodRzmACcQ" alt="LeanUX">
 
 ## 1.3. Segmentos Objetivo
 
