@@ -815,6 +815,9 @@ Nuestro entrevistado fue Fabio Horna, un joven de 24 años que trabaja en una em
 
 ### 2.2.3. Análisis de entrevistas
 
+**Análisis de las Entrevistas: Empresas de transporte que operan en Lima.**
+
+Las empresas de transporte público en Lima han señalado la necesidad de una aplicación que facilite la optimización de la gestión de sus flotas, la coordinación de horarios y la mejora de la eficiencia operativa. Buscan una herramienta fácil de usar que ofrezca información precisa y actualizada sobre las rutas, horarios y ubicaciones de las paradas. Además, valoran funciones adicionales como la gestión eficiente de flotas, la generación de informes de rendimiento y la integración con sistemas de pago electrónico. La fiabilidad y consistencia en el funcionamiento de la aplicación son esenciales para estas empresas, que requieren una herramienta confiable para sus operaciones diarias. Están dispuestas a colaborar estrechamente con los desarrolladores para adaptar la aplicación a sus necesidades específicas y asegurar una implementación exitosa.
 
 ## 2.3. Needfinding
 
