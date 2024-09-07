@@ -753,34 +753,161 @@ La startup seguirá de cerca lo que hacen sus competidores para poder mantenerse
 
 ### 2.2.1. Diseño de entrevistas
 
+En esta sección se han definido una cierta cantidad de preguntas para nuestros segmentos objetivos. Esta información se usará en el desarrollo de nuestra solución.
+
+**Adquisición de información general**
+
+**Segmento 1: Pasajeros en busca de un autobús. (Pasajeros):**
+
+1. ¿Cómo te llamas?
+2. ¿Cuántos años tienes?
+3. ¿Cuál es tu ocupación?
+4. ¿Qué tan a menudo utilizas el transporte público en Lima para tus desplazamientos diarios?
+5. ¿Qué aspectos consideras más importantes al planificar tus viajes en transporte público?
+6. ¿En qué distrito resides?
+7. ¿Tienes algún dispositivo de preferencia para acceder a aplicaciones móviles?
+8. ¿Qué canales digitales utilizas con mayor frecuencia para interactuar con información relacionada con el transporte público?
+9. ¿Cuáles son tus principales objetivos al utilizar el transporte público en Lima y cuáles son las frustraciones más comunes que experimentas?
+10. ¿Qué aplicaciones o herramientas utilizas actualmente para planificar tus viajes en transporte público?
+11. ¿Qué características te gustaría ver en una aplicación de planificación de rutas de transporte público?
+12. ¿Estarías dispuesto a pagar por una versión premium de una aplicación que ofreciera características adicionales para mejorar tu experiencia de viaje en transporte público?
+13. ¿Cuáles son las funcionalidades más importantes que consideras al elegir una aplicación de transporte público?
+14. ¿Qué aspectos valoras más en términos de usabilidad y diseño de la aplicación?
+15. ¿Cómo prefieres recibir información en la aplicación: a través de notificaciones push, mensajes de texto, correos electrónicos, u otros medios?
+16. ¿Qué opiniones o comentarios tienes sobre aplicaciones similares que has utilizado previamente?
+
+**Segmento 2: Empresas de transporte que operan en Lima.:**
+
+1. ¿Cuál es el nombre de su empresa de transporte público?
+2. ¿Cuál es su rol dentro de la empresa?
+3. ¿Podría describir brevemente las principales operaciones y servicios de transporte que ofrece su empresa en Lima?
+4. ¿Qué desafíos enfrenta actualmente su empresa en términos de operaciones de transporte y atención al cliente?
+5. ¿Está su empresa utilizando alguna aplicación o plataforma tecnológica para gestionar sus servicios de transporte?
+6. ¿Qué características o funcionalidades consideraría más útiles en una aplicación destinada a empresas de transporte público como la suya?
+7. ¿Cómo cree que una aplicación de este tipo podría mejorar la eficiencia y la calidad de los servicios de transporte que ofrece su empresa?
+8. ¿Qué aspectos consideraría más importantes al evaluar y seleccionar una aplicación para su empresa?
+9. ¿Cuál sería su principal preocupación o requisito al considerar la adopción de una nueva aplicación o plataforma tecnológica para su empresa de transporte público?
+10. ¿Tiene alguna experiencia previa en la implementación o uso de aplicaciones similares en su empresa o en la industria del transporte público en general?
+
 
 ### 2.2.2. Registro de entrevistas
 
+**Entrevista 01**
+Entrevistado 1:
+
+Nombre y apellidos: Fabio Horna
+
+Edad: 24 años
+
+Ubicación: Lima
+
+Evidencia de la reunión:
+
+<img src="images/entrevista1.jpg" alt="Canvas" width="90%">
+
+Inicio: 00:04
+
+Fin: 02:57
+
+**Enlace de entrevista:** https://upcedupe-my.sharepoint.com/personal/u202018894_upc_edu_pe/_layouts/15/stream.aspx?id=%2Fpersonal%2Fu202018894%5Fupc%5Fedu%5Fpe%2FDocuments%2FOpenSource%2FEntrevista02%20Segmento2%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview
+
+**Resumen de la entrevista:**
+Nuestro entrevistado fue Fabio Horna, un joven de 24 años que trabaja en una empresa de transporte público, discutió varios aspectos de su rol como auditor y las operaciones de la empresa en Lima. Explicó los servicios de transporte que ofrece la empresa, identificando los desafíos actuales en operaciones y atención al cliente, como la eficiencia y la satisfacción del usuario. Además, mencionó que su empresa desea incorporar tecnología para mejorar la gestión de los servicios, y destacó las funcionalidades importantes que debería tener una aplicación para optimizar estos procesos. Fabio valoró características como la usabilidad y la integración de datos al seleccionar tecnología y expresó preocupaciones sobre la implementación efectiva de nuevas plataformas. También compartió experiencias previas con tecnologías similares en el sector del transporte público.
 
 
 ### 2.2.3. Análisis de entrevistas
 
+**Análisis de las Entrevistas: Empresas de transporte que operan en Lima.**
+
+Las empresas de transporte público en Lima han señalado la necesidad de una aplicación que facilite la optimización de la gestión de sus flotas, la coordinación de horarios y la mejora de la eficiencia operativa. Buscan una herramienta fácil de usar que ofrezca información precisa y actualizada sobre las rutas, horarios y ubicaciones de las paradas. Además, valoran funciones adicionales como la gestión eficiente de flotas, la generación de informes de rendimiento y la integración con sistemas de pago electrónico. La fiabilidad y consistencia en el funcionamiento de la aplicación son esenciales para estas empresas, que requieren una herramienta confiable para sus operaciones diarias. Están dispuestas a colaborar estrechamente con los desarrolladores para adaptar la aplicación a sus necesidades específicas y asegurar una implementación exitosa.
 
 ## 2.3. Needfinding
 
 ### 2.3.1. User Personas
 
+Los User Personas son necesarios para la formación de este proyecto, ya que brindan una perspectiva completa de los usuarios clave. Estos perfiles detallados permiten a la startup diseñar una plataforma y experiencia enfocada y personalizada, abordando de manera efectiva los desafíos específicos de cada segmento objetivo:
+
+**User Persona del segmento:  Pasajeros en busca de un autobús. (Pasajeros)**
+
+<div align="center">
+
+  <img src="https://i.imgur.com/ebiHXz2.png">
+
+</div>
+
+**User Persona del segmento: Empresas de transporte que operan en Lima.**
+
+<div align="center">
+
+  <img src="https://i.imgur.com/Tz0fqBD.png">
+
+</div>
+<br>
 
 ### 2.3.2. User Task Matrix
+En esta seccion, se describen las tareas típicas que realizan los dos segmentos objetivos. Se evalúa la frecuencia y la severidad de cada tarea de los user persona, lo que ayuda a priorizar y entender cuáles son las áreas clave en las que el producto podría influir.
 
 
+|                               Tarea                               |  Pasajeros (Frecuencia / Importancia)  | Empresas de transporte (Frecuencia / Importancia) |
+| :---------------------------------------------------------------: | :----------: | :-------: |
+|          Buscar rutas de autobús        | Alta / Alta |   Baja / Media   |
+|               Ver horarios de autobuses           | Alta / Alta |  Baja / Baja     |
+|         Obtener información sobre el estado del tráfico y las rutas        |  Alta / Alta   |   Media / Alta    |
+|             Planificar viajes            |   Alta / Alta |   Baja / Media   |
+|  Acceder a información en tiempo real sobre la disponibilidad de autobuses  | Alta / Alta |   Media / Alta   |
+|    Analizar datos de rendimiento de las rutas   |   Baja / Baja    |   Alta / Alta   |
+|          Comunicarse con conductores         |   Baja / Baja    |  Alta / Media  |
+| Gestionar flotas de autobuses  |   Baja / Baja    |   Alta / Alta   |
+|Obtener información sobre tarifas y descuentos |   Media / Media    |   Baja / Media   |
+| Reportar problemas o incidentes relacionados con el transporte público  |   Media / Alta    |  Media / Alta   |
+|Configurar notificaciones personalizadas |  Baja / Media    |   Media / Alta  |
 
 ### 2.3.3. User Journey Mapping
 
+**User Journey Mapping del segmento:  Pasajeros en busca de un autobús. (Pasajeros)**
 
+<div align="center">
+
+  <img src="https://i.imgur.com/beG78Qf.png">
+
+</div>
+
+**User Journey Mapping del segmento: Empresas de transporte que operan en Lima.**
+
+<div align="center">
+
+  <img src="https://i.imgur.com/ZtwuyG4.png">
+
+</div>
 
 ### 2.3.4. Empathy Mapping
 
+**Pasajeros en busca de un autobús. (Pasajeros)**
+
+<div align="center">
+  <img src="images/empathy1.jpeg">
+</div>
+
+**Empresas de transporte que operan en Lima**
+
+<div align="center">
+  <img src="images/empathy2.jpeg">
+</div>
 
 
 ### 2.3.5. As-is Scenario Mapping
 
+**Pasajeros en busca de un autobús. (Pasajeros)**
+<div align="center">
+  <img src="images\asismap.jpg">
+</div>
 
+<br>
+
+**Empresas de transporte que operan en Lima**
+<div align="center">
+  <img src="images\asismap2.jpg">
+</div>
 
 ## 3.1 To-Be Scenario Mapping
 
