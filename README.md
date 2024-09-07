@@ -67,39 +67,26 @@ Ciclo 2024-02
     - Capítulo V: Product Implementation, Validation & Deployment
 
 
-<div align="center">imagen de grafico de barras
+<div align="center"> Gráfico de barras
 
 </div>
 
 <div align="center">
 
- imagen de grafos
+ ##### imagen de grafos
+ <img src="images/grafo-informe.png">
 
 </div>
 
 <div align="center">
 
- imagen de commit
+ ##### imagen de commit
+ <img src="images/commits-informe.png">
+ 
+ <img src="images/commits-over.png">
 
 </div>
 
-
-
-
-
-<div align="center">
-
-  <img src="images/commitSprint2.0.PNG">
-imagen de sprint 1
-
-</div>
-
-<div align="center">
-
-  <img src="images/commitSprint2.1.PNG">
-
-
-</div>
 
 
 # Contenido
