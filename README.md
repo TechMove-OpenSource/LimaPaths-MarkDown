@@ -1113,17 +1113,56 @@ Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofr
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
+
+| Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| LimaPaths-Landing-Page | feature/Plans  |e8da3f4 | feat: Plans Section |-| 07/09/2024|
+|LimaPaths-Landing-Page | feature/Questions | bb761fb  | feat:Repited questions added  |-|07/09/2024|
+|LimaPaths-Landing-Page | feature/Recomendations | 7f67f67  | feat:Recomendations added  |-|07/09/2024|
+|LimaPaths-Landing-Page | feature/Hero | 90ccb6c  | feat:hero completed  |-|07/09/2024|
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+Para esta entrega, no se implementó el conjunto de apartados relacionados con Web Services, ya que el desarrollo se hizo en base al Landing Page.
 
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdWjeAYLacSFmaTOJkjnReuv3yiAi0w4q6GwH1HL_nHt9YziZmj4CYViS0IiDttCTB0x-mcY7aIUey9gPRoqDeduMrUX10RQiIpZDp_VooCUsmmZHKs3QX5qcQTdhElRkMbOlHdRxvOk1N92YRapG7UXPZJ?key=FJE6fvDrMe6VJodRzmACcQ" alt="landing deployed">
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos concentrado exclusivamente en la creación de la página de inicio estática. Por lo tanto, en esta presentación no se proporciona documentación relacionada con la utilización de servicios web.
 
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
+Para realizar el despliegue automático de nuestra Landing Page, utilizamos la herramienta Github Pages, el cual permite generar páginas web desde un repositorio público dentro del cual se aloja el código con el que se implementa la página.
+
+El link de nuestra Landing Page es el siguiente: https://techmove-opensource.github.io/LimaPaths-landing-page/
+
+
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+El primer gráfico que obtenemos es el de barras el cual nos indica y compara la cantidad de commits realizados por integrante en el Landing Page.
+<div align="center">
+
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe5G0PSmv4PjK8Jl7pd7XcjfuWlT8vxYpiqV579a4NghuRgfF5JhEmq8VXcj1Ip2ltfnvokRLjvv-meZE6KXbXUFxuQXB_autEcMmQI2AYoINa0QcPkfiCDqnqe-6vP8NSMhHk2N5l3cwxh0YiYoKXNVG-a?key=FJE6fvDrMe6VJodRzmACcQ">
+
+</div>
+
+Seguido de este, nos encontramos con un análisis de aporte de los contribuidores.
+<div align="center">
+
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd3CQ-Vp7lEw9gJ70TCAIaCFR8HSTdjlpgMAEKg4NgAbm22itos_h5fF1J3_9zY4K6uzu9mpSJdxeiLu9UtqtmhaW-rAoqPQBJ3KUhAp99tHLWi_7TCnzwyiMZFeB5n2QgfJpZAncC9DuAfjoWuPiIlDpC3?key=FJE6fvDrMe6VJodRzmACcQ">
+
+</div>
+
+Y por último, nos encontramos con el Network que ilustra el cómo se fue desarrollando la aplicación.
+<div align="center">
+
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc-Jp8NK3y3KAvCA96bQrQ4J-QY714XU-jak33HRo8aJWJHagodNbve002VMRcnVmhAupJzdLMZOVwyABFB6TQ_uuOS8XdKoT-dJL5IwqkPSivRr7V7sBAtg4y2bJxnn-xhXCE4jLsV6f1AVSj52tQJevo?key=FJE6fvDrMe6VJodRzmACcQ">
+
+</div>
 
 ## Conclusiones
 
