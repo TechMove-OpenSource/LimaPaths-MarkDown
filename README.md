@@ -838,7 +838,21 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 
 ### 2.3.3. User Journey Mapping
 
+**User Journey Mapping del segmento:  Pasajeros en busca de un autobús. (Pasajeros)**
 
+<div align="center">
+
+  <img src="https://i.imgur.com/beG78Qf.png">
+
+</div>
+
+**User Journey Mapping del segmento: Empresas de transporte que operan en Lima.**
+
+<div align="center">
+
+  <img src="https://i.imgur.com/ZtwuyG4.png">
+
+</div>
 
 ### 2.3.4. Empathy Mapping
 
