@@ -22,9 +22,9 @@
 | Member                            | Code       |
 |:----------------------------------|------------|
 | Santiago Mickelle Olivera Guerra  | U20201A821 |
-| Roy Hernan De La Cruz Moreno                 | U202218634        |
+| Roy Hernan De La Cruz Moreno       | U202218634        |
 | Omar Christian Berrocal Ramirez   | U20201B529 |
-| -                                 | -          |
+| Cusimayta Lobo Alex Gabriel        | u20201e921         |
 | Carlos Oswaldo Casimiro Fernandez | U202115412 |
 
 <br>
@@ -317,7 +317,7 @@ imagen de sprint 1
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tr align="center">
         <td rowspan="3">
-            <img src="images/fotointegrante1.png" alt="Olivera Guerra Santiago Mickelle" style="margin-bottom: 5px;" width="800"/>
+            <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdkdL5xUzpciL073r5vjqxTD1Ef9aBDc9pC9Lhq63YWN9BMxeGUARQfms80fHCvJN0rrnptpecdRmN9yNGVIQHETkG2HNYyK8hkyhMVMwLQg8Af_fxktTno4Vf_vrlX5eLC4fUCUrKi8gcLGcFp-rXg9Lg?key=FJE6fvDrMe6VJodRzmACcQ" alt="Olivera Guerra Santiago Mickelle" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -336,12 +336,12 @@ imagen de sprint 1
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        Sssssss
+        Tengo 22 años actualmente y me considero una persona de confiar y con facilidad para organizar un proyecto como lider de grupo en anteriores trabajos, capaz de potenciar a mis compañeros y además de un fuerte compromiso propio.
         </td>
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="images/Captura.PNG" alt="Carlos Oswaldo Casimiro Fernandez" style="margin-bottom: 5px;" width="800"/>
+            <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdzZiJNceTb-rwjFSJ8sW97TK9q_vB7WTkRk9s8fH9c_Q0yRea1fjjZrmD3VlVUEhP7Chng90vDvGhDHfkSLFctHrDyzBNSXcSYKhiWC5cvJRHBocYeOLbWoi9NCvtK_VnOiTQRleLlZ0wpm1ZNxEi84joj?key=FJE6fvDrMe6VJodRzmACcQ" alt="Carlos Oswaldo Casimiro Fernandez" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -360,7 +360,7 @@ imagen de sprint 1
         <td align="left">
         <b>Acerca de:</b>
         <br>
-       Tengo 20 años y soy estudiante de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Me considero una persona proactiva, educada y sociable con los que me rodean. Además cuento con habilidades peculiares como la animación en 3d, edición de videos cinematográficos y conocimiento en lenguajes como c + +, Python.
+       Tengo 21 años y soy estudiante de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Me considero una persona proactiva, educada y sociable con los que me rodean. Además cuento con habilidades peculiares como la animación en 3d, edición de videos cinematográficos y conocimiento en lenguajes como c + +, Python.
         </td>
     </tr>
     <tr align="center">
@@ -384,12 +384,12 @@ imagen de sprint 1
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        Sss
+       Tengo 21 años y soy estudiante de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Me considero una persona proactiva, educada y sociable con los que me rodean. Además cuento con habilidades peculiares como la animación en 3d, edición de videos cinematográficos y conocimiento en lenguajes como c + +, Python.
         </td>
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="images/javier-foto.jpg" alt="Cusimayta Lobo Alex Gabriel"  style="margin-bottom: 5px;" width="800"/>
+            <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeqj0eoMah9pd866CPlnT6OVlVLaJICSjmptxpmrNNnld2AbUq9eUguUEM9gBzqoyHpc0IN39C1YlxQDdRVsamXyRHro6IRPFMNH0fHr8WucgQvsfJfQ8on0Jv19Kb8ia5iYQYKXSXqWjo8QHfJHQs5-c0?key=FJE6fvDrMe6VJodRzmACcQ" alt="Cusimayta Lobo Alex Gabriel"  style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -408,11 +408,11 @@ imagen de sprint 1
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        ssss</td>
+        Tengo 20 años y soy estudiante de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. ME considero un apasionado de los videojuegos y de la programación, me gustaría desarrollar videojuegos a futuro.
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="images/picprof.jpg" alt="Berrocal Ramirez Omar"  style="margin-bottom: 5px;" width="800"/>
+            <img src="" alt="Berrocal Ramirez Omar"  style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -434,31 +434,6 @@ imagen de sprint 1
          Desde pequeño me han llamado la atención las máquinas y la tecnología, por ello es que elegí esta carrera y así satisfacer mi curiosidad sobre nuevas tecnologías. Tengo conocimientos en lenguajes de programación tales como C++, Python, y lo básico Java y C#. Además, cuento con conocimiento de Bases de Datos (SQL Server y MongoDB) y habilidades básicas HTML y CSS.
         </td>
     </tr>
-<tr align="center">
-        <td rowspan="3">
-            <img src="/images/marcelo-foto.jpg" alt="MMM"  style="margin-bottom: 5px;" width="800"/>
-        </td>
-        <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>
-            MM
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Carrera:</b>
-        <br>
-        INGENIERIA DE SOFTWARE
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Acerca de:</b>
-        <br>
-        SSS
-        </td>
-    </tr>
- 
 </table>
 
 
