@@ -892,7 +892,17 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 
 ### 2.3.5. As-is Scenario Mapping
 
+**Pasajeros en busca de un autobús. (Pasajeros)**
+<div align="center">
+  <img src="images\asismap.jpg">
+</div>
 
+<br>
+
+**Empresas de transporte que operan en Lima**
+<div align="center">
+  <img src="images\asismap2.jpg">
+</div>
 
 ## 3.1 To-Be Scenario Mapping
 
