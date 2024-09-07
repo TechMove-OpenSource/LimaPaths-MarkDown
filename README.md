@@ -819,8 +819,22 @@ Los User Personas son necesarios para la formación de este proyecto, ya que bri
 <br>
 
 ### 2.3.2. User Task Matrix
+En esta seccion, se describen las tareas típicas que realizan los dos segmentos objetivos. Se evalúa la frecuencia y la severidad de cada tarea de los user persona, lo que ayuda a priorizar y entender cuáles son las áreas clave en las que el producto podría influir.
 
 
+|                               Tarea                               |  Pasajeros (Frecuencia / Importancia)  | Empresas de transporte (Frecuencia / Importancia) |
+| :---------------------------------------------------------------: | :----------: | :-------: |
+|          Buscar rutas de autobús        | Alta / Alta |   Baja / Media   |
+|               Ver horarios de autobuses           | Alta / Alta |  Baja / Baja     |
+|         Obtener información sobre el estado del tráfico y las rutas        |  Alta / Alta   |   Media / Alta    |
+|             Planificar viajes            |   Alta / Alta |   Baja / Media   |
+|  Acceder a información en tiempo real sobre la disponibilidad de autobuses  | Alta / Alta |   Media / Alta   |
+|    Analizar datos de rendimiento de las rutas   |   Baja / Baja    |   Alta / Alta   |
+|          Comunicarse con conductores         |   Baja / Baja    |  Alta / Media  |
+| Gestionar flotas de autobuses  |   Baja / Baja    |   Alta / Alta   |
+|Obtener información sobre tarifas y descuentos |   Media / Media    |   Baja / Media   |
+| Reportar problemas o incidentes relacionados con el transporte público  |   Media / Alta    |  Media / Alta   |
+|Configurar notificaciones personalizadas |  Baja / Media    |   Media / Alta  |
 
 ### 2.3.3. User Journey Mapping
 
