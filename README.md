@@ -22,9 +22,9 @@
 | Member                            | Code       |
 |:----------------------------------|------------|
 | Santiago Mickelle Olivera Guerra  | U20201A821 |
-| Roy Hernan De La Cruz Moreno                 | U202218634        |
+| Roy Hernan De La Cruz Moreno       | U202218634        |
 | Omar Christian Berrocal Ramirez   | U20201B529 |
-| -                                 | -          |
+| Cusimayta Lobo Alex Gabriel        | u20201e921         |
 | Carlos Oswaldo Casimiro Fernandez | U202115412 |
 
 <br>
@@ -45,8 +45,7 @@ Ciclo 2024-02
 
 | Versión |   Fecha   |                                                                                        Autor                                                                                         | Descripción de modificación                                                                                                                                           |
 | :-----: |:---------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   TB1   | 19/08/2024 | -Santiago Mickelle Olivera Guerra<br> -Carlos Oswaldo Casimiro Fernandez<br> -Omar Christian Berrocal Ramirez  |  CAPITULO I AL V|
-
+|   TB1   | 19/08/2024 | -Santiago Mickelle Olivera Guerra<br> -Carlos Oswaldo Casimiro Fernandez<br> -Roy Hernan De La Cruz Moreno <br> Cusimayta Lobo Alex Gabriel <br> -Omar Christian Berrocal Ramirez   |  CAPITULO I AL V|
 
 
 <br><br>
@@ -55,7 +54,7 @@ Ciclo 2024-02
 
 - **TB1:** Para esta entrega, realizamos como equipo las actividades correspondientes a los capítulos asignados en el siguiente repositorio dentro de nuestra organización de grupo:
 
-    Link del repositorio del Informe Final: --
+    Link del repositorio del Informe Final: https://github.com/TechMove-OpenSource/LimaPaths-MarkDown
 
     <br>
 
@@ -299,11 +298,11 @@ imagen de sprint 1
 
 
 
-| Criterio específico  | Acciones realizadas | Conclusiones |
-|:---------- | :-------------- | :------------- |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.    | <strong>TB1</strong> |-|
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | <strong>TB1</strong>|-|
-<br><br>
+| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
+|-------------------------|-------------------------|------------------|
+| **Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.** | **TB1** <br><br>Santiago Mickelle Olivera Guerra:<br>- Se hizo un análisis para poder identificar a los segmentos objetivos, y de esta manera generar soluciones innovadoras. <br><br>Carlos Oswaldo Casimiro Fernandez:<br>- Se organizó una reunión con el equipo para coordinar el enfoque del trabajo, lo que permitió afinar su definición mediante la contribución de diferentes puntos de vista de todos los miembros. <br><br>Roy Hernan De La Cruz Moreno:<br>- Pude comunicar mis ideas de soluciones, así como los enfoques del proyecto realizado. <br><br>Cusimayta Lobo Alex Gabriel:<br>- Realizamos una reunión, analizamos opciones para realizar el trabajo y definimos requerimientos. <br><br>Omar Christian Berrocal Ramirez:<br>- Se coordinó en reunión con el equipo el enfoque del trabajo para tener una mejor definición, brindando cada uno nuestros puntos de vista. | **TB1**<br><br>Elegimos un servicio para facilitar el transporte, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática.<br><br>La comunicación en el equipo fue crucial para definir claramente los roles y tareas desde el inicio, lo que nos permitió avanzar de manera más organizada y eficiente. |
+| **Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.** | **TB1** <br><br>Santiago Mickelle Olivera Guerra:<br>- Se investigó de los principales competidores de nuestra aplicación. Además, se realizaron distintos planteamientos y gráficos para tener unos segmentos objetivos principales. <br><br>Carlos Oswaldo Casimiro Fernandez:<br>- Se diseñó la Landing Page, siguiendo las directrices de estilo para asegurar una mejor integración de los diseños, además de realizar las secciones que mencionan el propósito y alcance del proyecto. <br><br>Roy Hernan De La Cruz Moreno:<br>- Se propusieron ideas para el desarrollo del proyecto, se investigaron posibles diseños, reglas para el desarrollo y también requerimientos para el proyecto que vamos a realizar. Además, colaboré en las reuniones para coordinar las futuras tareas. <br><br>Cusimayta Lobo Alex Gabriel:<br>- Realicé un análisis de los segmentos de usuarios principales y los requerimientos iniciales del proyecto. <br><br>Omar Christian Berrocal Ramirez:<br>- Desarrollé el diseño inicial de la arquitectura de la aplicación web, enfocándome en su modularidad. | **TB1** <br><br>Recopilamos información necesaria para poder afrontar a los competidores directos, y de esta manera ofrecer un servicio novedoso que solucione las dificultades de los usuarios.<br><br>Este análisis inicial nos permitió establecer una base sólida para el desarrollo de *LimaPaths*, lo que asegura que los próximos pasos se lleven a cabo de manera eficiente y efectiva. |
+
 
 # Capítulo I: Introducción
 
@@ -319,7 +318,7 @@ imagen de sprint 1
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tr align="center">
         <td rowspan="3">
-            <img src="images/fotointegrante1.png" alt="Olivera Guerra Santiago Mickelle" style="margin-bottom: 5px;" width="800"/>
+            <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdkdL5xUzpciL073r5vjqxTD1Ef9aBDc9pC9Lhq63YWN9BMxeGUARQfms80fHCvJN0rrnptpecdRmN9yNGVIQHETkG2HNYyK8hkyhMVMwLQg8Af_fxktTno4Vf_vrlX5eLC4fUCUrKi8gcLGcFp-rXg9Lg?key=FJE6fvDrMe6VJodRzmACcQ" alt="Olivera Guerra Santiago Mickelle" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -338,12 +337,12 @@ imagen de sprint 1
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        Sssssss
+        Tengo 22 años actualmente y me considero una persona de confiar y con facilidad para organizar un proyecto como lider de grupo en anteriores trabajos, capaz de potenciar a mis compañeros y además de un fuerte compromiso propio.
         </td>
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="images/Captura.PNG" alt="Carlos Oswaldo Casimiro Fernandez" style="margin-bottom: 5px;" width="800"/>
+            <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdzZiJNceTb-rwjFSJ8sW97TK9q_vB7WTkRk9s8fH9c_Q0yRea1fjjZrmD3VlVUEhP7Chng90vDvGhDHfkSLFctHrDyzBNSXcSYKhiWC5cvJRHBocYeOLbWoi9NCvtK_VnOiTQRleLlZ0wpm1ZNxEi84joj?key=FJE6fvDrMe6VJodRzmACcQ" alt="Carlos Oswaldo Casimiro Fernandez" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -362,7 +361,7 @@ imagen de sprint 1
         <td align="left">
         <b>Acerca de:</b>
         <br>
-       Tengo 20 años y soy estudiante de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Me considero una persona proactiva, educada y sociable con los que me rodean. Además cuento con habilidades peculiares como la animación en 3d, edición de videos cinematográficos y conocimiento en lenguajes como c + +, Python.
+       Tengo 21 años y soy estudiante de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Me considero una persona proactiva, educada y sociable con los que me rodean. Además cuento con habilidades peculiares como la animación en 3d, edición de videos cinematográficos y conocimiento en lenguajes como c + +, Python.
         </td>
     </tr>
     <tr align="center">
@@ -391,7 +390,7 @@ imagen de sprint 1
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="images/javier-foto.jpg" alt="Cusimayta Lobo Alex Gabriel"  style="margin-bottom: 5px;" width="800"/>
+            <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeqj0eoMah9pd866CPlnT6OVlVLaJICSjmptxpmrNNnld2AbUq9eUguUEM9gBzqoyHpc0IN39C1YlxQDdRVsamXyRHro6IRPFMNH0fHr8WucgQvsfJfQ8on0Jv19Kb8ia5iYQYKXSXqWjo8QHfJHQs5-c0?key=FJE6fvDrMe6VJodRzmACcQ" alt="Cusimayta Lobo Alex Gabriel"  style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -410,11 +409,11 @@ imagen de sprint 1
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        ssss</td>
+        Tengo 20 años y soy estudiante de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. ME considero un apasionado de los videojuegos y de la programación, me gustaría desarrollar videojuegos a futuro.
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="images/picprof.jpg" alt="Berrocal Ramirez Omar"  style="margin-bottom: 5px;" width="800"/>
+            <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf-PRRhDqg9e8kB8W-ALsJ92WvJY5_oLw2JEXYmeC4DACc75Zr9Nir44Jkb9kD6nUE2Tv8J8KSvTsZIatmfFq21doZO7oHw2tQPvFspsOiPPCrtPoBlOOl2qP-I7RtqAhXHkMJkIUcXgJxwZ-CVU1LE8EX5?key=FJE6fvDrMe6VJodRzmACcQ" alt="Berrocal Ramirez Omar"  style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -436,31 +435,6 @@ imagen de sprint 1
          Desde pequeño me han llamado la atención las máquinas y la tecnología, por ello es que elegí esta carrera y así satisfacer mi curiosidad sobre nuevas tecnologías. Tengo conocimientos en lenguajes de programación tales como C++, Python, y lo básico Java y C#. Además, cuento con conocimiento de Bases de Datos (SQL Server y MongoDB) y habilidades básicas HTML y CSS.
         </td>
     </tr>
-<tr align="center">
-        <td rowspan="3">
-            <img src="/images/marcelo-foto.jpg" alt="MMM"  style="margin-bottom: 5px;" width="800"/>
-        </td>
-        <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>
-            MM
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Carrera:</b>
-        <br>
-        INGENIERIA DE SOFTWARE
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Acerca de:</b>
-        <br>
-        SSS
-        </td>
-    </tr>
- 
 </table>
 
 
@@ -827,6 +801,8 @@ Las empresas de transporte público en Lima han señalado la necesidad de una ap
 
 ### 2.3.1. User Personas
 
+
+
 Los User Personas son necesarios para la formación de este proyecto, ya que brindan una perspectiva completa de los usuarios clave. Estos perfiles detallados permiten a la startup diseñar una plataforma y experiencia enfocada y personalizada, abordando de manera efectiva los desafíos específicos de cada segmento objetivo:
 
 **User Persona del segmento:  Pasajeros en busca de un autobús. (Pasajeros)**
@@ -917,13 +893,13 @@ Exploramos las mejoras y nuevas funcionalidades que se incorporarán a la aplica
 
 **Pasajeros en busca de un autobús. (Pasajeros)**
 <div align="center">
-  <img src="images\tobemap.jpg">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdM7jXlnZLqiokMR2QxpgUuA9f1W9BfFry3RqMTQAlQ503R-Zbke6I3izyzIbbS-nuA9tBzPG6RhN2Bm_3CJvFPydcVEe7Bd1RhkGRislvPLPfsosls8EABPhR8GI2F5NOLA5fhN2P-792Il32r85-E1hGs?key=FJE6fvDrMe6VJodRzmACcQ">
 </div>
 <br>
 
 **Empresas de transporte que operan en Lima**
 <div align="center">
-  <img src="images\tobe2.jpeg">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXecU-_itwlr7HrXLu-4I3nw3ieBlB07TH5i21mR26hITLE7SoyZn96fSclzpeZMoqFr_B43J6aTKiSZifKlinVhv-CGKlk65oAXPebk615_cUdAm4SVJJ82a5EjpvjmWeDHoJQii81mpxwYmxwithR2NQIC?key=FJE6fvDrMe6VJodRzmACcQ">
 </div>
 <br>
 
@@ -985,13 +961,13 @@ largo plazo.
 
 <div align="center">
 
-  <img src="images/impact_map_user.png">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe5reeWoGmpMghTPAw89KaAp3UNXsXELHbWWUwCLe0bql93QM9jYanEdMSUB2fYgxTAQUJyrHhrd3-elUlJ8TkzY37tYBvyvZFLLkvbHLA36cafJxVJjgG4g4-UA1bzqh3-TxkgxpPPoJiyEDW50qm5VI-6?key=FJE6fvDrMe6VJodRzmACcQ">
 
 </div>
 
 <div align="center">
 
-  <img src="images/impact_map_driver.png">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdXvncn5eXCFq5BgxYQ7HSV2CtuFJmeuPYF3FGuOJAp9N_98yfxIn3g8n3F3pE6JTJHVUaebvWttNQTKPgCQPD1uH-pGJFVc1tJSQQRdhjKavNvEeHrSRsSsancNTJDyUukwTvG0xl0_4kGIHB6oRxfr2ui?key=FJE6fvDrMe6VJodRzmACcQ">
 
 </div>
 
@@ -1039,7 +1015,7 @@ div
 
 <div align="center">
 
-  <img src="images/colors.png">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfYElguwABYNRUJBahFkpj4yWL5yG734PECxGKBkoucIeBGuU94j5Potyx6y8dAieoqpJ4yJ_BHIdKbMNaDV7C4lttDck8zvVkhbW88PF_gn-Le0_ZylPOijIVRPReU8yFnDZaf6GzTWEzirrstgHQuFLdz?key=FJE6fvDrMe6VJodRzmACcQ">
 
 </div>
 
@@ -1050,7 +1026,7 @@ Las fuentes elegidas para la Landing Page y la aplicación web son MuseoModerno 
 
 <div align="center">
 
-  <img src="images/Fonts.png">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcR1qss4CTX-M7Nt5ZtgRzZSeA6We16rGimdcQUGJtbkNJKWf3LU0md63wL0qP3TpWxiSrWUzY8NBY7_TocOVL8NRjfS48NjJyZmGXQYeKfF28N_PslFhLPraoS3BnDOmk89I_U1V4xvpF8a5vTx8miURix?key=FJE6fvDrMe6VJodRzmACcQ">
 
 </div>
 
@@ -1067,7 +1043,7 @@ También utilizamos iconos para la parte del dashboard.
 
 <div align="center">
 
-  <img src="images/iconos.jpeg">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdM7jXlnZLqiokMR2QxpgUuA9f1W9BfFry3RqMTQAlQ503R-Zbke6I3izyzIbbS-nuA9tBzPG6RhN2Bm_3CJvFPydcVEe7Bd1RhkGRislvPLPfsosls8EABPhR8GI2F5NOLA5fhN2P-792Il32r85-E1hGs?key=FJE6fvDrMe6VJodRzmACcQ">
 
 </div>
 
@@ -1440,13 +1416,11 @@ Y por último, nos encontramos con el Network que ilustra el cómo se fue desarr
 
 ## Anexos
 
-- _**Landing Page Figma:**_
+- _**Landing Page Figma:https://www.figma.com/design/6jW2GekC3ZdkY0HtpFkmqZ/LimaPaths-UI?node-id=0-1&node-type=CANVAS&t=FYK3oSbHRZ1bIi8b-0**_
 
-- _**Wireframes y Mockups Figma:**_ 
-- 
-- _**Trello Sprint 1:**_ 
+- _**Wireframes y Mockups Figma:https://www.figma.com/design/6jW2GekC3ZdkY0HtpFkmqZ/LimaPaths-UI?node-id=0-1&node-type=CANVAS&t=FYK3oSbHRZ1bIi8b-0**_ 
+  
+- _**Tech Move Landing Page:https://techmove-opensource.github.io/LimaPaths-landing-page/**_ 
 
-- _**Tech Move Landing Page:**_ 
-
-- _**Link Video de Exposicion TB1:**_ 
+- _**Link Video de Exposicion TB1:AGREGAR EN MERGE DEVELOP**_ 
 
