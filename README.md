@@ -764,6 +764,8 @@ La startup seguirá de cerca lo que hacen sus competidores para poder mantenerse
 ### 2.3.1. User Personas
 
 
+
+
 ### 2.3.2. User Task Matrix
 
 
@@ -786,13 +788,13 @@ Exploramos las mejoras y nuevas funcionalidades que se incorporarán a la aplica
 
 **Pasajeros en busca de un autobús. (Pasajeros)**
 <div align="center">
-  <img src="images\tobemap.jpg">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdM7jXlnZLqiokMR2QxpgUuA9f1W9BfFry3RqMTQAlQ503R-Zbke6I3izyzIbbS-nuA9tBzPG6RhN2Bm_3CJvFPydcVEe7Bd1RhkGRislvPLPfsosls8EABPhR8GI2F5NOLA5fhN2P-792Il32r85-E1hGs?key=FJE6fvDrMe6VJodRzmACcQ">
 </div>
 <br>
 
 **Empresas de transporte que operan en Lima**
 <div align="center">
-  <img src="images\tobe2.jpeg">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXecU-_itwlr7HrXLu-4I3nw3ieBlB07TH5i21mR26hITLE7SoyZn96fSclzpeZMoqFr_B43J6aTKiSZifKlinVhv-CGKlk65oAXPebk615_cUdAm4SVJJ82a5EjpvjmWeDHoJQii81mpxwYmxwithR2NQIC?key=FJE6fvDrMe6VJodRzmACcQ">
 </div>
 <br>
 
@@ -854,13 +856,13 @@ largo plazo.
 
 <div align="center">
 
-  <img src="images/impact_map_user.png">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe5reeWoGmpMghTPAw89KaAp3UNXsXELHbWWUwCLe0bql93QM9jYanEdMSUB2fYgxTAQUJyrHhrd3-elUlJ8TkzY37tYBvyvZFLLkvbHLA36cafJxVJjgG4g4-UA1bzqh3-TxkgxpPPoJiyEDW50qm5VI-6?key=FJE6fvDrMe6VJodRzmACcQ">
 
 </div>
 
 <div align="center">
 
-  <img src="images/impact_map_driver.png">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdXvncn5eXCFq5BgxYQ7HSV2CtuFJmeuPYF3FGuOJAp9N_98yfxIn3g8n3F3pE6JTJHVUaebvWttNQTKPgCQPD1uH-pGJFVc1tJSQQRdhjKavNvEeHrSRsSsancNTJDyUukwTvG0xl0_4kGIHB6oRxfr2ui?key=FJE6fvDrMe6VJodRzmACcQ">
 
 </div>
 
@@ -908,7 +910,7 @@ div
 
 <div align="center">
 
-  <img src="images/colors.png">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfYElguwABYNRUJBahFkpj4yWL5yG734PECxGKBkoucIeBGuU94j5Potyx6y8dAieoqpJ4yJ_BHIdKbMNaDV7C4lttDck8zvVkhbW88PF_gn-Le0_ZylPOijIVRPReU8yFnDZaf6GzTWEzirrstgHQuFLdz?key=FJE6fvDrMe6VJodRzmACcQ">
 
 </div>
 
@@ -919,7 +921,7 @@ Las fuentes elegidas para la Landing Page y la aplicación web son MuseoModerno 
 
 <div align="center">
 
-  <img src="images/Fonts.png">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcR1qss4CTX-M7Nt5ZtgRzZSeA6We16rGimdcQUGJtbkNJKWf3LU0md63wL0qP3TpWxiSrWUzY8NBY7_TocOVL8NRjfS48NjJyZmGXQYeKfF28N_PslFhLPraoS3BnDOmk89I_U1V4xvpF8a5vTx8miURix?key=FJE6fvDrMe6VJodRzmACcQ">
 
 </div>
 
@@ -936,7 +938,7 @@ También utilizamos iconos para la parte del dashboard.
 
 <div align="center">
 
-  <img src="images/iconos.jpeg">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdM7jXlnZLqiokMR2QxpgUuA9f1W9BfFry3RqMTQAlQ503R-Zbke6I3izyzIbbS-nuA9tBzPG6RhN2Bm_3CJvFPydcVEe7Bd1RhkGRislvPLPfsosls8EABPhR8GI2F5NOLA5fhN2P-792Il32r85-E1hGs?key=FJE6fvDrMe6VJodRzmACcQ">
 
 </div>
 
