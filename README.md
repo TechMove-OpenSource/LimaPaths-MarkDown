@@ -877,6 +877,17 @@ En esta seccion, se describen las tareas típicas que realizan los dos segmentos
 
 ### 2.3.4. Empathy Mapping
 
+**Pasajeros en busca de un autobús. (Pasajeros)**
+
+<div align="center">
+  <img src="images/empathy1.jpeg">
+</div>
+
+**Empresas de transporte que operan en Lima**
+
+<div align="center">
+  <img src="images/empathy2.jpeg">
+</div>
 
 
 ### 2.3.5. As-is Scenario Mapping
