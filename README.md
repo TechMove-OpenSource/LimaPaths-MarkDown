@@ -48,6 +48,7 @@ Ciclo 2024-02
 |   TB1   | 19/08/2024 | -Santiago Mickelle Olivera Guerra<br> -Carlos Oswaldo Casimiro Fernandez<br> -Omar Christian Berrocal Ramirez  |  CAPITULO I AL V|
 
 
+
 <br><br>
 
 # Project Report Collaboration Insights
@@ -164,6 +165,7 @@ imagen de sprint 1
   - [4.2.5. Navigation Systems](#425-navigation-systems)
 - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
   - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+  - https://lh7-rt.googleusercontent.com/docsz/AD_4nXeYXAeHqEWuJN-Y5_wICyXUF58VWVMhAGiQ7Td0WXwN1C_uIy6ig8nzdswKpW6okMRC32pbz1OAzdnpPyhKs6qFQUbrAXd5_ZKoRwSCeI2yHdyKwytiyNL1roFrdPcYnUDuG__drLCX5uCfv_Xgcb0IkQrV?key=V4z4OyW-qymj93Y2Jmcmzw
   - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
 - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
   - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
@@ -365,7 +367,7 @@ imagen de sprint 1
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="images/arian-foto.jpg" alt="De La Cruz Moreno Roy Hernan" style="margin-bottom: 5px;" width="800"/>
+            <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcMDpQFp1Q7TGzM2ltCBit8QJ8LAc2DGr_iqtCdes-KljSRh-s11artVOaicd-Vjq4fDkYSALdTCUexU6BmuTN43puV289sbo8CTqAUFiB6T8mZfmjHlyMAFGKpUbkkNi0bMPWdzifaEF-xB9azIP4gO3kd?key=V4z4OyW-qymj93Y2Jmcmzw" alt="De La Cruz Moreno Roy Hernan" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -384,7 +386,7 @@ imagen de sprint 1
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        Sss
+        Soy Roy De La Cruz Moreno, tengo 19 años. Estudió la carrera de Ingeniería de Software. Considero que soy una persona tranquila y atenta al escuchar las propuestas de los demás integrantes del equipo, ademas tengo conocimientos en SQL, NoSQL y C++.
         </td>
     </tr>
     <tr align="center">
@@ -1136,54 +1138,82 @@ Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofr
 
 ### 4.3.1. Landing Page Wireframe.
 
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfuRrO4p1WS8f4ipYoW5dBSghbiJ64ZIn58PNHCbY9GrBRPVPxbJ3edtR6BryaJXn90Rk4DluQLUYpkLHG4qzOGssDoXiR7x_3Awv-uqoksvQV_3-NgtmCgNmkfDAE8ElRfvbYFWE_fUnpbokU8u-hIeh4?key=H6EtlmqAgi51tpjibECXOw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcDbHJk5HAEcjZGC2GdunavWCS-EiX5S4mYJuzFbTA6AbnmNigFm67GYwAuxuviaupGpE9ephewKQO_uOlhING9UfsM42nmR5bE4E1viM221ao5060OaN7BH_q3EllY0LrM_7gj2KkRJx1ZgGEGhr6_i9J9?key=H6EtlmqAgi51tpjibECXOw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeaq_AFw4kvukLIzUsNb0lBvkqYg4xlcQV5lZE_tW5QgBgg-JxQfgLFY--idjU7q_rNbNUZFFPfOW0XT-0Rztf6q2w4c0iEhGUNXXzCwxbjAi_P0_-VFMb67tLER48AxoslUY2wPZNVbdDgV14xkuLaavlF?key=H6EtlmqAgi51tpjibECXOw">
 
 ### 4.3.2. Landing Page Mock-up.
 
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXePKWNo3CZ0Blpz6W86Z_tJzIM-ZMKI3XsWxoOZe6C4e7nZgdyPaiE4xVf1xeeoaY75UNrNCYsqxzGblvjqM725_Fe9N7ZybcriuV8Q5p0nEExOeYqRM9ZLsADYPqfOurwpfZL8s7tU59qOFM557CLRyqtn?key=H6EtlmqAgi51tpjibECXOw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdaMfvtPkVO0bNtuP0sYLDCIfvNYMMZGVFOSuf9TXLFmWL4QJszpfdlgGdk83y-nsDehfPfykdrkFb4xGWqbbrPRfhFkmeWOGlOGAoCDLBdLgypo4WrerOXjMBF0zvjU5FbeMmRTPPyqvwQIl5YRL04mxNT?key=H6EtlmqAgi51tpjibECXOw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfbVfkmM808yJIBAJ5OEAg8jNsGyJROJAv0sNjIUdP0AiRpqCqjr9swjzHn0x6jTUQxVepeQmCAy_shrheghZCwi59M76MdWz9EZxoBLfI-b-NVgMfuFpQa4V5obwe_CzeOVkaBMTEvpyRcNiM0pOkI7Gpv?key=H6EtlmqAgi51tpjibECXOw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfl0aUQeq_xHj7gZyqsR7ZRuy5_YKnBIheOcnBzphiFSxNik6xDOjLriG46XDQSWjtSzJWyuRl5i6u7tvin3BYeVH56djV9-ZBYyHDc7HIWARbkm4BxhQ6fKw0HHGIg7XTLmld_-oQgiRHVrbxTzoUfqw?key=H6EtlmqAgi51tpjibECXOw">
 
 ## 4.4. Web Applications UX/UI Design.
 
 ### 4.4.1. Web Applications Wireframes.
 
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcDbHJk5HAEcjZGC2GdunavWCS-EiX5S4mYJuzFbTA6AbnmNigFm67GYwAuxuviaupGpE9ephewKQO_uOlhING9UfsM42nmR5bE4E1viM221ao5060OaN7BH_q3EllY0LrM_7gj2KkRJx1ZgGEGhr6_i9J9?key=H6EtlmqAgi51tpjibECXOw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeaq_AFw4kvukLIzUsNb0lBvkqYg4xlcQV5lZE_tW5QgBgg-JxQfgLFY--idjU7q_rNbNUZFFPfOW0XT-0Rztf6q2w4c0iEhGUNXXzCwxbjAi_P0_-VFMb67tLER48AxoslUY2wPZNVbdDgV14xkuLaavlF?key=H6EtlmqAgi51tpjibECXOw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcg_yVQWfqMvW7JCUkHaIEK0iNqIIe0ME4kkMIsR0TTWRLttNrzdzAkg2PbtKCK3oBtG07NpdJu-DMokFc7xG-jlD8PETm1EylFkiOGVZtXH5Z_e3a95kV70ZdHH-SxIsQve2U5EUzHYnNYWCEJAaL7C2E?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeWlSBl_GT4EcVWWdyB1gUcT3K5y3tUkCGuMt5UxJhgjVyIzcgJFBWktIoBV0A3HnqMZq8YeT-uCZzz71J44zQO-NDX6XA4NdkqA5WFefmrpFO1fKE524BktKbLXwU7lZiMWMRMnQyUJ9h3u3ZSYVxeZ1g?key=V4z4OyW-qymj93Y2Jmcmzw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcnVAIsZQgENsEO71qVWNwnRmva4sUdeP5XbStutUB6O3w7olaQ61ZFpN8AvOttfxDROK9O7on0LmMiibhPwuS6jrHvqkogAJfnkgW8d_rXbewDzRrpp20l-6gBx9SdCirIZzg8PGjo_TPiP2XpQhc9bxd4?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ### 4.4.3. Web Applications Mock-ups.
 
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdaMfvtPkVO0bNtuP0sYLDCIfvNYMMZGVFOSuf9TXLFmWL4QJszpfdlgGdk83y-nsDehfPfykdrkFb4xGWqbbrPRfhFkmeWOGlOGAoCDLBdLgypo4WrerOXjMBF0zvjU5FbeMmRTPPyqvwQIl5YRL04mxNT?key=H6EtlmqAgi51tpjibECXOw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfbVfkmM808yJIBAJ5OEAg8jNsGyJROJAv0sNjIUdP0AiRpqCqjr9swjzHn0x6jTUQxVepeQmCAy_shrheghZCwi59M76MdWz9EZxoBLfI-b-NVgMfuFpQa4V5obwe_CzeOVkaBMTEvpyRcNiM0pOkI7Gpv?key=H6EtlmqAgi51tpjibECXOw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfl0aUQeq_xHj7gZyqsR7ZRuy5_YKnBIheOcnBzphiFSxNik6xDOjLriG46XDQSWjtSzJWyuRl5i6u7tvin3BYeVH56djV9-ZBYyHDc7HIWARbkm4BxhQ6fKw0HHGIg7XTLmld_-oQgiRHVrbxTzoUfqw?key=H6EtlmqAgi51tpjibECXOw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfUIMUepft7AQGW2mtaVDwV8C1qkrSHVhR6-YtXD431Q4Wg76RXMEz5wTozrxb2PJHEP7tcjgU05YsxPGXLouJaKHfstiu7iAqUKhTBro_eyyOpfkbpQPyZnAr7uRPXZS-2bA8bhIfLI8X1Gn0LMgeWC_g?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdY4SGPb0YNsxq0khSsZX-ZMH6C9P3HBgEXPSuQLVzFHxiuds7V7s5Zoqrs87RBvZSLnyjvOE3fExMUcA5uh06h1sJyu3nkM3gyhQABDevul1xQ8eXXQ06JUuvqIgLfJLR63xvKAD4RiLQx6fDeZiVV-ZBe?key=V4z4OyW-qymj93Y2Jmcmzw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXctWqBtvhyTrTHGs5dEVGcbnXDPmH-wHuaCU9PzmaD-w1yVavhjHNs36zRMsVFsKzdo_aUoYbewrLBzfJWuUYLwrQezpA_bXwhqZhhktQf3D62PLnvgD7yGHFHsY1u1yy-l4cMuTY5vxzWVBqVcujt_qSgh?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ### 4.5. Web Applications Prototyping.
-
-
+[Diseño en Figma](https://www.figma.com/design/6jW2GekC3ZdkY0HtpFkmqZ/LimaPaths-UI?node-id=0-1&t=67kRUlPQBXcKcSu6-1)
 ## 4.6. Domain-Driven Software Architecture.
 
 ### 4.6.1. Software Architecture Context Diagram.
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeZEtui-3Eetu8CpQn1qA4S2u0jZWtHg_HOKYqp8LBMpY1yUSyn0-lViW-cG2qqBwh_QahDTcwHouyoJZ9jHcHRVC4yznLpL3TOUHc7kgb09x-LGcgb_dS_hGnhfWI9Weklb1qwNwyNUz2cG22BNpyBeYR1?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ### 4.6.2. Software Architecture Container Diagrams.
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfP69Bep5kk-AO9tRTWK_S8cqiFrWRZMaIaTEAiJhQFWEmxJZCvUlBjw0-XrhB5OIsukGkdg7h4FtzwKsT3qs_I2l-zjLkuzNjEBHx8tobcu7A4bsPnxfWxvH71AXlXbAm4PTLfjbXgxCLmAwn5fNDWQ7hF?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ### 4.6.3. Software Architecture Components Diagrams.
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfSPfbFwSWInsFeKqecvy0nOwtD0ien8eY_dhoR8fdRRTYoAf55DizkMLbjkliCjq_hcYZqrS0dA86rIzsqPsvOkWSlIf8lFwXlX8fLoTOXdlyiR7dGsb2PApm9w-w8ymbWbdNq3U52yl0fs2BGT1jtN9jF?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
 
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfJFgi54THKgIVeDyuFLBMlky_eC5zXB67LOpaseYRvrYVrBJuVzzbgruQgeQj5e8YpMuaA56_h7zNWU9QT4cAppq7JH0AQkACgOIK2YbAxQ9eqpA91__Py6gGGxlibavcwOxV5Q6-FoD5ea-cFLA3L43kS?key=H6EtlmqAgi51tpjibECXOw">
 ### 4.7.2. Class Dictionary.
+| **CLASE**     | **ATRIBUTOS**                                                                                                          | **MÉTODOS**                                                                             |
+|---------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| **Usuario**   | id:int -> id del usuario<br>correo:string -> correo electrónico del usuario<br>contrasenia:string -> contraseña del usuario | registrarUsuario() -> Permite registrar una nueva cuenta<br>iniciarSesion() -> Permite iniciar sesión en el sistema<br>salirSesion() -> Permite salir sesión en el sistema<br>editarPerfil()->Permite al usuario editar su perfil |
+| **Pasajero**  | id:int -> id del pasajero<br>nombre:string -> nombre del pasajero<br>apellidos:string -> apellidos del pasajero<br>celular:string -> celular del pasajero | reservarViaje() -> Reserva un nuevo viaje para el pasajero<br>obtenerHistorialViajes()-> Obtiene una lista de los viajes pasados |
+| **Empresa**   | id:int -> id de la empresa<br>ruc:string -> número de ruc de la empresa<br>razon_social:string -> razón social de la empresa | agregarBus() -> Permite que la empresa pueda agregar buses<br>eliminarBus() -> Permite que la empresa pueda eliminar buses |
+| **Bus**       | id:int -> id del bus<br>placa:string -> número de placa del bus                                                         | agregarRuta() -> Permite que el bus pueda agregar rutas<br>modificarRuta() -> Permite que el bus pueda modificar rutas<br>eliminarRuta() -> Permite que el bus pueda eliminar rutas |
+| **Modelo**    | id:int -> id del modelo de bus<br>nombre:string -> nombre del modelo del bus                                            |                                                                                         |
+| **Marca**     | id:int -> id de la marca de bus<br>nombre:string -> nombre de la marca del bus                                          |                                                                                         |
+| **Ruta**      | id:int -> id de la ruta<br>distancia:float -> distancia en km de la ruta                                                | agregarParadero() -> Permite que la ruta pueda agregar paraderos<br>eliminarParadero() -> Permite que la ruta pueda eliminar paraderos |
+| **Notificacion** | id:int -> id de la notificación<br>mensaje:string -> detalle del mensaje de la notificación                            | enviar() -> Permite hacer el envío de notificaciones a los pasajeros<br>marcarComoLeido() -> Permite marcar como leído las notificaciones |
+| **Promocion** | id:int -> id de la promoción<br>c_viajes:int -> número de viajes<br>c_cupon:string -> código de cupón<br>beneficio:string -> descripción del beneficio | aplicarPromocio() -> Permite aplicar la promoción a un usuario por cierto viaje           |
+| **Viaje**     | id:int -> id del viaje<br>fecha_hora_inicio -> hora y fecha del inicio del viaje<br>fecha_hora_fin -> hora y fecha del fin del viaje |                                                                                         |
+| **Paradero**  | id:int -> id del paradero<br>latitud:string -> coordenada latitud del paradero<br>longitud:string -> coordenada longitud del paradero |                                                                                         |
+| **Distrito**  | id:int -> id del distrito<br>nombre:string -> nombre del distrito                                                      |                                                                                         |
+| **Tarifa**    | id:int -> id de la tarifa<br>precio:float -> precio de la tarifa                                                        |                                                                                         |
 
 
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagram.
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeEJ3Uzsm6ywQO8BZzmOnVOW7fAklmd7DIgJxMi6gP_eH_voXW3nRpfgotohTgkfg-AmTMneaKphfxcf24G-p09xJHqZror9t5vjVtxSCXk7oMGZ6WAYUopLcySWmn35ae358EwD2odfga5_OFafHUodzs?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
