@@ -165,7 +165,6 @@ imagen de sprint 1
   - [4.2.5. Navigation Systems](#425-navigation-systems)
 - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
   - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
-  - https://lh7-rt.googleusercontent.com/docsz/AD_4nXeYXAeHqEWuJN-Y5_wICyXUF58VWVMhAGiQ7Td0WXwN1C_uIy6ig8nzdswKpW6okMRC32pbz1OAzdnpPyhKs6qFQUbrAXd5_ZKoRwSCeI2yHdyKwytiyNL1roFrdPcYnUDuG__drLCX5uCfv_Xgcb0IkQrV?key=V4z4OyW-qymj93Y2Jmcmzw
   - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
 - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
   - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
@@ -1026,7 +1025,6 @@ Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofr
 
 - <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcDbHJk5HAEcjZGC2GdunavWCS-EiX5S4mYJuzFbTA6AbnmNigFm67GYwAuxuviaupGpE9ephewKQO_uOlhING9UfsM42nmR5bE4E1viM221ao5060OaN7BH_q3EllY0LrM_7gj2KkRJx1ZgGEGhr6_i9J9?key=H6EtlmqAgi51tpjibECXOw">
 - <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeaq_AFw4kvukLIzUsNb0lBvkqYg4xlcQV5lZE_tW5QgBgg-JxQfgLFY--idjU7q_rNbNUZFFPfOW0XT-0Rztf6q2w4c0iEhGUNXXzCwxbjAi_P0_-VFMb67tLER48AxoslUY2wPZNVbdDgV14xkuLaavlF?key=H6EtlmqAgi51tpjibECXOw">
-- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcg_yVQWfqMvW7JCUkHaIEK0iNqIIe0ME4kkMIsR0TTWRLttNrzdzAkg2PbtKCK3oBtG07NpdJu-DMokFc7xG-jlD8PETm1EylFkiOGVZtXH5Z_e3a95kV70ZdHH-SxIsQve2U5EUzHYnNYWCEJAaL7C2E?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
@@ -1038,12 +1036,19 @@ Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofr
 - <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdaMfvtPkVO0bNtuP0sYLDCIfvNYMMZGVFOSuf9TXLFmWL4QJszpfdlgGdk83y-nsDehfPfykdrkFb4xGWqbbrPRfhFkmeWOGlOGAoCDLBdLgypo4WrerOXjMBF0zvjU5FbeMmRTPPyqvwQIl5YRL04mxNT?key=H6EtlmqAgi51tpjibECXOw">
 - <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfbVfkmM808yJIBAJ5OEAg8jNsGyJROJAv0sNjIUdP0AiRpqCqjr9swjzHn0x6jTUQxVepeQmCAy_shrheghZCwi59M76MdWz9EZxoBLfI-b-NVgMfuFpQa4V5obwe_CzeOVkaBMTEvpyRcNiM0pOkI7Gpv?key=H6EtlmqAgi51tpjibECXOw">
 - <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfl0aUQeq_xHj7gZyqsR7ZRuy5_YKnBIheOcnBzphiFSxNik6xDOjLriG46XDQSWjtSzJWyuRl5i6u7tvin3BYeVH56djV9-ZBYyHDc7HIWARbkm4BxhQ6fKw0HHGIg7XTLmld_-oQgiRHVrbxTzoUfqw?key=H6EtlmqAgi51tpjibECXOw">
-- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfUIMUepft7AQGW2mtaVDwV8C1qkrSHVhR6-YtXD431Q4Wg76RXMEz5wTozrxb2PJHEP7tcjgU05YsxPGXLouJaKHfstiu7iAqUKhTBro_eyyOpfkbpQPyZnAr7uRPXZS-2bA8bhIfLI8X1Gn0LMgeWC_g?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
 - <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdY4SGPb0YNsxq0khSsZX-ZMH6C9P3HBgEXPSuQLVzFHxiuds7V7s5Zoqrs87RBvZSLnyjvOE3fExMUcA5uh06h1sJyu3nkM3gyhQABDevul1xQ8eXXQ06JUuvqIgLfJLR63xvKAD4RiLQx6fDeZiVV-ZBe?key=V4z4OyW-qymj93Y2Jmcmzw">
 - <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXctWqBtvhyTrTHGs5dEVGcbnXDPmH-wHuaCU9PzmaD-w1yVavhjHNs36zRMsVFsKzdo_aUoYbewrLBzfJWuUYLwrQezpA_bXwhqZhhktQf3D62PLnvgD7yGHFHsY1u1yy-l4cMuTY5vxzWVBqVcujt_qSgh?key=V4z4OyW-qymj93Y2Jmcmzw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXerfcOl-kY_OlzSuFZMLHuXMEoUB3iF8S5JHeulamesLcsg3MnbMreJy7brVwAlyJsevrHaWdIIEJwcsNjy096vyn9Swe7GT7R-34tbTahNJYWMc7D3mUXE-d3K6PcO4n1Np7zPUjFS3tHZi005g2lbwJtu?key=JO7iLtadoAdnOJELhbqvmg">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXckVlPN-5o9WZNmTQoaL_yOMkqzN-akTQhs4dAnfnn51cu9Y7U02P75Gb2aCOp0FAr11yIJoG9e2ER03N5BRQujOaNiRONDK8tv2n43Z6SoArcF09z-Ua7ZheeyfCapXaPsvLSde1HiLFF04bSuHvJL1jdV?key=JO7iLtadoAdnOJELhbqvmg">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfyxJ2qWPFl-Z7nTB3TfJ5-QE5gaPQjZLWE1pwNn3nqn3kH7ehZOpwOJYCoCKbdPGbj_wp9spRy267iXWgsD2fHpAABbk8MkyJ0lLYcx7uwNqyozEr6-A96djGnNV8pdB2y93rJ96pfCCpI-YiYlWJAUyup?key=JO7iLtadoAdnOJELhbqvmg">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfNKYWHMYF_spJXYZgoG7yAmGAMSPsripXP6xS7TeMqYDqGxbTsFJ6rRvEM6VzRqKwr2FixWSDS5l1hYr1-moXDmLd-RkIQ4pCldbf4DjUeEjo3_yz3edIJGBSi4I5g8im3k9cv6eMNktp_q0wFvhbASvRp?key=JO7iLtadoAdnOJELhbqvmg">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcf431vupxUokkHGi6_1VinmsgqsQ8D646ahnnDRRImXeXX0YbzqKBudVR93DqxqN5LkaQzquPjnTq2INzRm-zP2UMxtB_wEIPKjTInxzT1_nkFniZfmzeGGtqHvSxFxGj0UcKao3pa5dhr9TP_UC595vLu?key=JO7iLtadoAdnOJELhbqvmg">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeYBTo2a1Y2WN2aLGyrLeGorEWPFRpzn_D-sKExUB2rWTPro4cOKqnpktQpzfwmzFMTXKgOnlj5BzzeW-ut-xjnKV2mXpc2IjUewAgKUevLxzlIDiQ1bTebyIK75MmSZVGvHDhw-fur9FKC0ZNl40fgcGxS?key=JO7iLtadoAdnOJELhbqvmg">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdJO5GrL1YKubyl4RqCx7ZPAdRHqpUR741iII25zzMja8Ql_6w8UVQDMPFtxk2lwTeJP9RqruN_-SS97Pyo6Urzdw6VO8ZPnTDD7cXDRCOEollvSq2rIqpZeTVmBCVzvE-PsTsBp86IUuQR6bdv7DpCPC8?key=JO7iLtadoAdnOJELhbqvmg">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfvTZoIPfk7erYgSUbf-NDGCLCboQ5YzmVeFT7zMl4ZApT5na3AmDoBB8JA7c26BXvAz2fTaYDpdal8jQhO7C6ofSLHzyVxXNZoTED7glM5AQ87EUdu0bGEbjb_FfsswctEpfard8mqDmYuzWi5IaBSKuCo?key=JO7iLtadoAdnOJELhbqvmg">
 
 ### 4.5. Web Applications Prototyping.
 [Diseño en Figma](https://www.figma.com/design/6jW2GekC3ZdkY0HtpFkmqZ/LimaPaths-UI?node-id=0-1&t=67kRUlPQBXcKcSu6-1)
