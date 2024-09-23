@@ -812,6 +812,27 @@ Fin: 02:57
 **Resumen de la entrevista:**
 Nuestro entrevistado fue Fabio Horna, un joven de 24 años que trabaja en una empresa de transporte público, discutió varios aspectos de su rol como auditor y las operaciones de la empresa en Lima. Explicó los servicios de transporte que ofrece la empresa, identificando los desafíos actuales en operaciones y atención al cliente, como la eficiencia y la satisfacción del usuario. Además, mencionó que su empresa desea incorporar tecnología para mejorar la gestión de los servicios, y destacó las funcionalidades importantes que debería tener una aplicación para optimizar estos procesos. Fabio valoró características como la usabilidad y la integración de datos al seleccionar tecnología y expresó preocupaciones sobre la implementación efectiva de nuevas plataformas. También compartió experiencias previas con tecnologías similares en el sector del transporte público.
 
+**Entrevista 02**
+Entrevistado 2:
+
+Nombre y apellidos: Jean Pierre Morin Fuentes
+
+Edad: 23 años
+
+Ubicación: Lima
+
+Evidencia de la reunión:
+
+<img src="images/entrevista1.jpg" alt="Canvas" width="90%">
+
+Inicio: 00:04
+
+Fin: 03:40
+
+**Enlace de entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115412_upc_edu_pe/EfRdlU1NcfpDuWvEzpw5I8kBA4o1PFR8LWkjRvppdi5rgQ?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=QFhBXJ
+
+**Resumen de la entrevista:**
+Nuestro entrevistado fue Jean Pierre Morin Fuentes, un joven de 23 años que trabaja en ETULSA, una empresa de transporte público en Lima que enfrenta desafíos como la optimización de rutas, gestión de tráfico, puntualidad y modernización de la flota. Actualmente, utilizan un sistema tradicional de gestión, pero están explorando plataformas avanzadas que incluyan seguimiento en tiempo real, notificaciones, pago electrónico, y sistemas integrados para quejas y sugerencias, con el fin de mejorar la eficiencia operativa y la experiencia del usuario. Fuentes destacó la importancia de la facilidad de uso, integración con sistemas existentes, costos y seguridad de datos, mencionando que la principal preocupación es minimizar interrupciones durante la implementación y garantizar estabilidad en situaciones de alta demanda. Aunque aún no han adoptado nuevas tecnologías, están interesados en hacerlo para mejorar su gestión y la interacción con los usuarios.
 
 ### 2.2.3. Análisis de entrevistas
 
