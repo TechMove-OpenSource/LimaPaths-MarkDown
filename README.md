@@ -799,6 +799,29 @@ Fin: 03:40
 **Resumen de la entrevista:**
 Nuestro entrevistado fue Jean Pierre Morin Fuentes, un joven de 23 años que trabaja en ETULSA, una empresa de transporte público en Lima que enfrenta desafíos como la optimización de rutas, gestión de tráfico, puntualidad y modernización de la flota. Actualmente, utilizan un sistema tradicional de gestión, pero están explorando plataformas avanzadas que incluyan seguimiento en tiempo real, notificaciones, pago electrónico, y sistemas integrados para quejas y sugerencias, con el fin de mejorar la eficiencia operativa y la experiencia del usuario. Fuentes destacó la importancia de la facilidad de uso, integración con sistemas existentes, costos y seguridad de datos, mencionando que la principal preocupación es minimizar interrupciones durante la implementación y garantizar estabilidad en situaciones de alta demanda. Aunque aún no han adoptado nuevas tecnologías, están interesados en hacerlo para mejorar su gestión y la interacción con los usuarios.
 
+**Entrevista 03**
+Entrevistado 3:
+
+Nombre y apellidos: Diego Acuña
+
+Edad: 20 años
+
+Ubicación: Lima
+
+Evidencia de la reunión:
+
+<img src="images/entrevista1.jpg" alt="Canvas" width="90%">
+
+Inicio: 00:04
+
+Fin: 07:48
+
+**Enlace de entrevista:** https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115412_upc_edu_pe/EdzX9iTWhe1LgmT-MWOxz8IBds59WsM_JyZw3jAq9Ue0Hg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=utvUXd
+
+**Resumen de la entrevista:**
+La entrevista fue con Diego Acuña, quien utiliza el transporte público en Lima algunos días a la semana principalmente por razones económicas, especialmente los lunes, miércoles y jueves para ir a la universidad. Aunque ha experimentado retrasos ocasionales, en general no encuentra mayores problemas. Describe la seguridad del transporte público en Lima como buena, sin haber tenido experiencias negativas. Está satisfecho con la accesibilidad en términos de paradas y rutas, pero sugiere mejorar la comodidad de los asientos. Utiliza la app Ruta Simplificada para planificar sus rutas y califica nuestra aplicación de transporte público como buena, proponiendo mejoras como información en tiempo real y la opción de seleccionar ubicaciones de casa. También sugiere añadir la capacidad de calcular costos de viaje y acceso automático a la información de ubicaci
+
+
 ### 2.2.3. Análisis de entrevistas
 
 **Análisis de las Entrevistas: Empresas de transporte que operan en Lima.**
