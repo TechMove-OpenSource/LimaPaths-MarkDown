@@ -22,9 +22,9 @@
 | Member                            | Code       |
 |:----------------------------------|------------|
 | Santiago Mickelle Olivera Guerra  | U20201A821 |
-| Roy Hernan De La Cruz Moreno                 | U202218634        |
+| Roy Hernan De La Cruz Moreno       | U202218634        |
 | Omar Christian Berrocal Ramirez   | U20201B529 |
-| -                                 | -          |
+| Cusimayta Lobo Alex Gabriel        | u20201e921         |
 | Carlos Oswaldo Casimiro Fernandez | U202115412 |
 
 <br>
@@ -45,7 +45,7 @@ Ciclo 2024-02
 
 | Versión |   Fecha   |                                                                                        Autor                                                                                         | Descripción de modificación                                                                                                                                           |
 | :-----: |:---------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   TB1   | 19/08/2024 | -Santiago Mickelle Olivera Guerra<br> -Carlos Oswaldo Casimiro Fernandez<br> -Omar Christian Berrocal Ramirez  |  CAPITULO I AL V|
+|   TB1   | 19/08/2024 | -Santiago Mickelle Olivera Guerra<br> -Carlos Oswaldo Casimiro Fernandez<br> -Roy Hernan De La Cruz Moreno <br> Cusimayta Lobo Alex Gabriel <br> -Omar Christian Berrocal Ramirez   |  CAPITULO I AL V|
 
 
 <br><br>
@@ -54,7 +54,7 @@ Ciclo 2024-02
 
 - **TB1:** Para esta entrega, realizamos como equipo las actividades correspondientes a los capítulos asignados en el siguiente repositorio dentro de nuestra organización de grupo:
 
-    Link del repositorio del Informe Final: --
+    Link del repositorio del Informe Final: https://github.com/TechMove-OpenSource/LimaPaths-MarkDown
 
     <br>
 
@@ -67,39 +67,26 @@ Ciclo 2024-02
     - Capítulo V: Product Implementation, Validation & Deployment
 
 
-<div align="center">imagen de grafico de barras
+<div align="center"> Gráfico de barras
 
 </div>
 
 <div align="center">
 
- imagen de grafos
-
+ ##### imagen de grafos
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeXNppHQ-pTJIPX7BcJ64bc6UM8m8H2pIqy-DcwvNBR1uiy6hkAliI24jEno9VtQgIHiqGK9nDCSAx80lFE6yIWk_hqSdw_cI0Z2UsfPsnvCp7b-eQtuFB4DvkjpQP_MOfVZBYHPtATthZdIFchsf3ml0Bf?key=FJE6fvDrMe6VJodRzmACcQ">
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfwjLeLRamkUnXEgkKrCWE7S89TzP3KtyemivatlWLxaP024H2yMw0LeAXP181J_GtJOtrEymaV0-HcNe5bRLfj4tx2IcYVG_IjuzUdu_QLhuSuqJSZaGwNNRqqsLVt2IQ6sJw_AJHE_QuLs0lZVD4WOUb8?key=FJE6fvDrMe6VJodRzmACcQ">
 </div>
 
 <div align="center">
 
- imagen de commit
+ ##### imagen de commit
+ <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdb4lTFAG7TBlatc5b_X-bk9HEkQavIonSEdBGGdTsRQ82qesODZ-sKCQZaPj_IR-ZPmL95_w8cPA-J8QQe56VeX4B0pRBWgjmTfwAccpEOMLnHQ26Gc7QmTgXH0YurIjiMlezTRQvr6nFgooq3Ku-uQq0?key=FJE6fvDrMe6VJodRzmACcQ">
+ 
+ 
 
 </div>
 
-
-
-
-
-<div align="center">
-
-  <img src="images/commitSprint2.0.PNG">
-imagen de sprint 1
-
-</div>
-
-<div align="center">
-
-  <img src="images/commitSprint2.1.PNG">
-
-
-</div>
 
 
 # Contenido
@@ -164,6 +151,7 @@ imagen de sprint 1
   - [4.2.5. Navigation Systems](#425-navigation-systems)
 - [4.3. Landing Page UI Design](#43-landing-page-ui-design)
   - [4.3.1. Landing Page Wireframe](#431-landing-page-wireframe)
+  - https://lh7-rt.googleusercontent.com/docsz/AD_4nXeYXAeHqEWuJN-Y5_wICyXUF58VWVMhAGiQ7Td0WXwN1C_uIy6ig8nzdswKpW6okMRC32pbz1OAzdnpPyhKs6qFQUbrAXd5_ZKoRwSCeI2yHdyKwytiyNL1roFrdPcYnUDuG__drLCX5uCfv_Xgcb0IkQrV?key=V4z4OyW-qymj93Y2Jmcmzw
   - [4.3.2. Landing Page Mock-up](#432-landing-page-mock-up)
 - [4.4. Web Applications UX/UI Design](#44-web-applications-uxui-design)
   - [4.4.1. Web Applications Wireframes](#441-web-applications-wireframes)
@@ -297,11 +285,11 @@ imagen de sprint 1
 
 
 
-| Criterio específico  | Acciones realizadas | Conclusiones |
-|:---------- | :-------------- | :------------- |
-| Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.    | <strong>TB1</strong> |-|
-| Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería. | <strong>TB1</strong>|-|
-<br><br>
+| **Criterio específico** | **Acciones realizadas** | **Conclusiones** |
+|-------------------------|-------------------------|------------------|
+| **Comunica oralmente sus ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.** | **TB1** <br><br>Santiago Mickelle Olivera Guerra:<br>- Se hizo un análisis para poder identificar a los segmentos objetivos, y de esta manera generar soluciones innovadoras. <br><br>Carlos Oswaldo Casimiro Fernandez:<br>- Se organizó una reunión con el equipo para coordinar el enfoque del trabajo, lo que permitió afinar su definición mediante la contribución de diferentes puntos de vista de todos los miembros. <br><br>Roy Hernan De La Cruz Moreno:<br>- Pude comunicar mis ideas de soluciones, así como los enfoques del proyecto realizado. <br><br>Cusimayta Lobo Alex Gabriel:<br>- Realizamos una reunión, analizamos opciones para realizar el trabajo y definimos requerimientos. <br><br>Omar Christian Berrocal Ramirez:<br>- Se coordinó en reunión con el equipo el enfoque del trabajo para tener una mejor definición, brindando cada uno nuestros puntos de vista. | **TB1**<br><br>Elegimos un servicio para facilitar el transporte, en el cual desarrollamos el problem statement y las hypothesis statements para dimensionar el desarrollo y solución de la problemática.<br><br>La comunicación en el equipo fue crucial para definir claramente los roles y tareas desde el inicio, lo que nos permitió avanzar de manera más organizada y eficiente. |
+| **Comunica en forma escrita ideas y/o resultados con objetividad a público de diferentes especialidades y niveles jerárquicos, en el marco del desarrollo de un proyecto en ingeniería.** | **TB1** <br><br>Santiago Mickelle Olivera Guerra:<br>- Se investigó de los principales competidores de nuestra aplicación. Además, se realizaron distintos planteamientos y gráficos para tener unos segmentos objetivos principales. <br><br>Carlos Oswaldo Casimiro Fernandez:<br>- Se diseñó la Landing Page, siguiendo las directrices de estilo para asegurar una mejor integración de los diseños, además de realizar las secciones que mencionan el propósito y alcance del proyecto. <br><br>Roy Hernan De La Cruz Moreno:<br>- Se propusieron ideas para el desarrollo del proyecto, se investigaron posibles diseños, reglas para el desarrollo y también requerimientos para el proyecto que vamos a realizar. Además, colaboré en las reuniones para coordinar las futuras tareas. <br><br>Cusimayta Lobo Alex Gabriel:<br>- Realicé un análisis de los segmentos de usuarios principales y los requerimientos iniciales del proyecto. <br><br>Omar Christian Berrocal Ramirez:<br>- Desarrollé el diseño inicial de la arquitectura de la aplicación web, enfocándome en su modularidad. | **TB1** <br><br>Recopilamos información necesaria para poder afrontar a los competidores directos, y de esta manera ofrecer un servicio novedoso que solucione las dificultades de los usuarios.<br><br>Este análisis inicial nos permitió establecer una base sólida para el desarrollo de *LimaPaths*, lo que asegura que los próximos pasos se lleven a cabo de manera eficiente y efectiva. |
+
 
 # Capítulo I: Introducción
 
@@ -317,7 +305,7 @@ imagen de sprint 1
 <table align="center"  border="1" width="70%" style="text-align:center;">
     <tr align="center">
         <td rowspan="3">
-            <img src="images/fotointegrante1.png" alt="Olivera Guerra Santiago Mickelle" style="margin-bottom: 5px;" width="800"/>
+            <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdkdL5xUzpciL073r5vjqxTD1Ef9aBDc9pC9Lhq63YWN9BMxeGUARQfms80fHCvJN0rrnptpecdRmN9yNGVIQHETkG2HNYyK8hkyhMVMwLQg8Af_fxktTno4Vf_vrlX5eLC4fUCUrKi8gcLGcFp-rXg9Lg?key=FJE6fvDrMe6VJodRzmACcQ" alt="Olivera Guerra Santiago Mickelle" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -336,12 +324,12 @@ imagen de sprint 1
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        Sssssss
+        Tengo 22 años actualmente y me considero una persona de confiar y con facilidad para organizar un proyecto como lider de grupo en anteriores trabajos, capaz de potenciar a mis compañeros y además de un fuerte compromiso propio.
         </td>
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="images/Captura.PNG" alt="Carlos Oswaldo Casimiro Fernandez" style="margin-bottom: 5px;" width="800"/>
+            <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdzZiJNceTb-rwjFSJ8sW97TK9q_vB7WTkRk9s8fH9c_Q0yRea1fjjZrmD3VlVUEhP7Chng90vDvGhDHfkSLFctHrDyzBNSXcSYKhiWC5cvJRHBocYeOLbWoi9NCvtK_VnOiTQRleLlZ0wpm1ZNxEi84joj?key=FJE6fvDrMe6VJodRzmACcQ" alt="Carlos Oswaldo Casimiro Fernandez" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -360,12 +348,12 @@ imagen de sprint 1
         <td align="left">
         <b>Acerca de:</b>
         <br>
-       Tengo 20 años y soy estudiante de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Me considero una persona proactiva, educada y sociable con los que me rodean. Además cuento con habilidades peculiares como la animación en 3d, edición de videos cinematográficos y conocimiento en lenguajes como c + +, Python.
+       Tengo 21 años y soy estudiante de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. Me considero una persona proactiva, educada y sociable con los que me rodean. Además cuento con habilidades peculiares como la animación en 3d, edición de videos cinematográficos y conocimiento en lenguajes como c + +, Python.
         </td>
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="images/arian-foto.jpg" alt="De La Cruz Moreno Roy Hernan" style="margin-bottom: 5px;" width="800"/>
+            <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcMDpQFp1Q7TGzM2ltCBit8QJ8LAc2DGr_iqtCdes-KljSRh-s11artVOaicd-Vjq4fDkYSALdTCUexU6BmuTN43puV289sbo8CTqAUFiB6T8mZfmjHlyMAFGKpUbkkNi0bMPWdzifaEF-xB9azIP4gO3kd?key=V4z4OyW-qymj93Y2Jmcmzw" alt="De La Cruz Moreno Roy Hernan" style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -384,12 +372,12 @@ imagen de sprint 1
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        Sss
+        Soy Roy De La Cruz Moreno, tengo 19 años. Estudió la carrera de Ingeniería de Software. Considero que soy una persona tranquila y atenta al escuchar las propuestas de los demás integrantes del equipo, ademas tengo conocimientos en SQL, NoSQL y C++.
         </td>
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="images/javier-foto.jpg" alt="Cusimayta Lobo Alex Gabriel"  style="margin-bottom: 5px;" width="800"/>
+            <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeqj0eoMah9pd866CPlnT6OVlVLaJICSjmptxpmrNNnld2AbUq9eUguUEM9gBzqoyHpc0IN39C1YlxQDdRVsamXyRHro6IRPFMNH0fHr8WucgQvsfJfQ8on0Jv19Kb8ia5iYQYKXSXqWjo8QHfJHQs5-c0?key=FJE6fvDrMe6VJodRzmACcQ" alt="Cusimayta Lobo Alex Gabriel"  style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -408,11 +396,11 @@ imagen de sprint 1
         <td align="left">
         <b>Acerca de:</b>
         <br>
-        ssss</td>
+        Tengo 20 años y soy estudiante de Ingeniería de Software de la Universidad Peruana de Ciencias Aplicadas. ME considero un apasionado de los videojuegos y de la programación, me gustaría desarrollar videojuegos a futuro.
     </tr>
     <tr align="center">
         <td rowspan="3">
-            <img src="images/picprof.jpg" alt="Berrocal Ramirez Omar"  style="margin-bottom: 5px;" width="800"/>
+            <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf-PRRhDqg9e8kB8W-ALsJ92WvJY5_oLw2JEXYmeC4DACc75Zr9Nir44Jkb9kD6nUE2Tv8J8KSvTsZIatmfFq21doZO7oHw2tQPvFspsOiPPCrtPoBlOOl2qP-I7RtqAhXHkMJkIUcXgJxwZ-CVU1LE8EX5?key=FJE6fvDrMe6VJodRzmACcQ" alt="Berrocal Ramirez Omar"  style="margin-bottom: 5px;" width="800"/>
         </td>
         <td align="left">
             <b>Nombre y Apellido:</b>
@@ -434,31 +422,6 @@ imagen de sprint 1
          Desde pequeño me han llamado la atención las máquinas y la tecnología, por ello es que elegí esta carrera y así satisfacer mi curiosidad sobre nuevas tecnologías. Tengo conocimientos en lenguajes de programación tales como C++, Python, y lo básico Java y C#. Además, cuento con conocimiento de Bases de Datos (SQL Server y MongoDB) y habilidades básicas HTML y CSS.
         </td>
     </tr>
-<tr align="center">
-        <td rowspan="3">
-            <img src="/images/marcelo-foto.jpg" alt="MMM"  style="margin-bottom: 5px;" width="800"/>
-        </td>
-        <td align="left">
-            <b>Nombre y Apellido:</b>
-            <br>
-            MM
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Carrera:</b>
-        <br>
-        INGENIERIA DE SOFTWARE
-        </td>
-    </tr>
-    <tr>
-        <td align="left">
-        <b>Acerca de:</b>
-        <br>
-        SSS
-        </td>
-    </tr>
- 
 </table>
 
 
@@ -554,7 +517,9 @@ Implementaremos estos modelos y evaluaremos la generación de ingresos y la acep
 
 #### 1.2.2.4. Lean UX Canvas
 
-![alt text](image-1.png)
+
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXewJ22iU9HKEPla5ekNrq2P1k7wMeewNY79l_NJFDLhrXTikTBl9NpMfgnSe2OANFTwEkB306RmZ-zws4itUzghykiTOnot0cWb7hz6tbVmdJ02FzwQX1wme7HA6yokPMaFMk2B9C4XPQnhRBraNvAiXrEC?key=FJE6fvDrMe6VJodRzmACcQ" alt="LeanUX">
 
 ## 1.3. Segmentos Objetivo
 
@@ -844,6 +809,8 @@ Las empresas de transporte público en Lima han señalado la necesidad de una ap
 
 ### 2.3.1. User Personas
 
+
+
 Los User Personas son necesarios para la formación de este proyecto, ya que brindan una perspectiva completa de los usuarios clave. Estos perfiles detallados permiten a la startup diseñar una plataforma y experiencia enfocada y personalizada, abordando de manera efectiva los desafíos específicos de cada segmento objetivo:
 
 **User Persona del segmento:  Pasajeros en busca de un autobús. (Pasajeros)**
@@ -934,13 +901,13 @@ Exploramos las mejoras y nuevas funcionalidades que se incorporarán a la aplica
 
 **Pasajeros en busca de un autobús. (Pasajeros)**
 <div align="center">
-  <img src="images\tobemap.jpg">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdM7jXlnZLqiokMR2QxpgUuA9f1W9BfFry3RqMTQAlQ503R-Zbke6I3izyzIbbS-nuA9tBzPG6RhN2Bm_3CJvFPydcVEe7Bd1RhkGRislvPLPfsosls8EABPhR8GI2F5NOLA5fhN2P-792Il32r85-E1hGs?key=FJE6fvDrMe6VJodRzmACcQ">
 </div>
 <br>
 
 **Empresas de transporte que operan en Lima**
 <div align="center">
-  <img src="images\tobe2.jpeg">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXecU-_itwlr7HrXLu-4I3nw3ieBlB07TH5i21mR26hITLE7SoyZn96fSclzpeZMoqFr_B43J6aTKiSZifKlinVhv-CGKlk65oAXPebk615_cUdAm4SVJJ82a5EjpvjmWeDHoJQii81mpxwYmxwithR2NQIC?key=FJE6fvDrMe6VJodRzmACcQ">
 </div>
 <br>
 
@@ -1002,13 +969,13 @@ largo plazo.
 
 <div align="center">
 
-  <img src="images/impact_map_user.png">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe5reeWoGmpMghTPAw89KaAp3UNXsXELHbWWUwCLe0bql93QM9jYanEdMSUB2fYgxTAQUJyrHhrd3-elUlJ8TkzY37tYBvyvZFLLkvbHLA36cafJxVJjgG4g4-UA1bzqh3-TxkgxpPPoJiyEDW50qm5VI-6?key=FJE6fvDrMe6VJodRzmACcQ">
 
 </div>
 
 <div align="center">
 
-  <img src="images/impact_map_driver.png">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdXvncn5eXCFq5BgxYQ7HSV2CtuFJmeuPYF3FGuOJAp9N_98yfxIn3g8n3F3pE6JTJHVUaebvWttNQTKPgCQPD1uH-pGJFVc1tJSQQRdhjKavNvEeHrSRsSsancNTJDyUukwTvG0xl0_4kGIHB6oRxfr2ui?key=FJE6fvDrMe6VJodRzmACcQ">
 
 </div>
 
@@ -1056,7 +1023,7 @@ div
 
 <div align="center">
 
-  <img src="images/colors.png">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfYElguwABYNRUJBahFkpj4yWL5yG734PECxGKBkoucIeBGuU94j5Potyx6y8dAieoqpJ4yJ_BHIdKbMNaDV7C4lttDck8zvVkhbW88PF_gn-Le0_ZylPOijIVRPReU8yFnDZaf6GzTWEzirrstgHQuFLdz?key=FJE6fvDrMe6VJodRzmACcQ">
 
 </div>
 
@@ -1067,7 +1034,7 @@ Las fuentes elegidas para la Landing Page y la aplicación web son MuseoModerno 
 
 <div align="center">
 
-  <img src="images/Fonts.png">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcR1qss4CTX-M7Nt5ZtgRzZSeA6We16rGimdcQUGJtbkNJKWf3LU0md63wL0qP3TpWxiSrWUzY8NBY7_TocOVL8NRjfS48NjJyZmGXQYeKfF28N_PslFhLPraoS3BnDOmk89I_U1V4xvpF8a5vTx8miURix?key=FJE6fvDrMe6VJodRzmACcQ">
 
 </div>
 
@@ -1084,7 +1051,7 @@ También utilizamos iconos para la parte del dashboard.
 
 <div align="center">
 
-  <img src="images/iconos.jpeg">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdM7jXlnZLqiokMR2QxpgUuA9f1W9BfFry3RqMTQAlQ503R-Zbke6I3izyzIbbS-nuA9tBzPG6RhN2Bm_3CJvFPydcVEe7Bd1RhkGRislvPLPfsosls8EABPhR8GI2F5NOLA5fhN2P-792Il32r85-E1hGs?key=FJE6fvDrMe6VJodRzmACcQ">
 
 </div>
 
@@ -1155,54 +1122,82 @@ Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofr
 
 ### 4.3.1. Landing Page Wireframe.
 
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfuRrO4p1WS8f4ipYoW5dBSghbiJ64ZIn58PNHCbY9GrBRPVPxbJ3edtR6BryaJXn90Rk4DluQLUYpkLHG4qzOGssDoXiR7x_3Awv-uqoksvQV_3-NgtmCgNmkfDAE8ElRfvbYFWE_fUnpbokU8u-hIeh4?key=H6EtlmqAgi51tpjibECXOw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcDbHJk5HAEcjZGC2GdunavWCS-EiX5S4mYJuzFbTA6AbnmNigFm67GYwAuxuviaupGpE9ephewKQO_uOlhING9UfsM42nmR5bE4E1viM221ao5060OaN7BH_q3EllY0LrM_7gj2KkRJx1ZgGEGhr6_i9J9?key=H6EtlmqAgi51tpjibECXOw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeaq_AFw4kvukLIzUsNb0lBvkqYg4xlcQV5lZE_tW5QgBgg-JxQfgLFY--idjU7q_rNbNUZFFPfOW0XT-0Rztf6q2w4c0iEhGUNXXzCwxbjAi_P0_-VFMb67tLER48AxoslUY2wPZNVbdDgV14xkuLaavlF?key=H6EtlmqAgi51tpjibECXOw">
 
 ### 4.3.2. Landing Page Mock-up.
 
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXePKWNo3CZ0Blpz6W86Z_tJzIM-ZMKI3XsWxoOZe6C4e7nZgdyPaiE4xVf1xeeoaY75UNrNCYsqxzGblvjqM725_Fe9N7ZybcriuV8Q5p0nEExOeYqRM9ZLsADYPqfOurwpfZL8s7tU59qOFM557CLRyqtn?key=H6EtlmqAgi51tpjibECXOw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdaMfvtPkVO0bNtuP0sYLDCIfvNYMMZGVFOSuf9TXLFmWL4QJszpfdlgGdk83y-nsDehfPfykdrkFb4xGWqbbrPRfhFkmeWOGlOGAoCDLBdLgypo4WrerOXjMBF0zvjU5FbeMmRTPPyqvwQIl5YRL04mxNT?key=H6EtlmqAgi51tpjibECXOw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfbVfkmM808yJIBAJ5OEAg8jNsGyJROJAv0sNjIUdP0AiRpqCqjr9swjzHn0x6jTUQxVepeQmCAy_shrheghZCwi59M76MdWz9EZxoBLfI-b-NVgMfuFpQa4V5obwe_CzeOVkaBMTEvpyRcNiM0pOkI7Gpv?key=H6EtlmqAgi51tpjibECXOw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfl0aUQeq_xHj7gZyqsR7ZRuy5_YKnBIheOcnBzphiFSxNik6xDOjLriG46XDQSWjtSzJWyuRl5i6u7tvin3BYeVH56djV9-ZBYyHDc7HIWARbkm4BxhQ6fKw0HHGIg7XTLmld_-oQgiRHVrbxTzoUfqw?key=H6EtlmqAgi51tpjibECXOw">
 
 ## 4.4. Web Applications UX/UI Design.
 
 ### 4.4.1. Web Applications Wireframes.
 
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcDbHJk5HAEcjZGC2GdunavWCS-EiX5S4mYJuzFbTA6AbnmNigFm67GYwAuxuviaupGpE9ephewKQO_uOlhING9UfsM42nmR5bE4E1viM221ao5060OaN7BH_q3EllY0LrM_7gj2KkRJx1ZgGEGhr6_i9J9?key=H6EtlmqAgi51tpjibECXOw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeaq_AFw4kvukLIzUsNb0lBvkqYg4xlcQV5lZE_tW5QgBgg-JxQfgLFY--idjU7q_rNbNUZFFPfOW0XT-0Rztf6q2w4c0iEhGUNXXzCwxbjAi_P0_-VFMb67tLER48AxoslUY2wPZNVbdDgV14xkuLaavlF?key=H6EtlmqAgi51tpjibECXOw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcg_yVQWfqMvW7JCUkHaIEK0iNqIIe0ME4kkMIsR0TTWRLttNrzdzAkg2PbtKCK3oBtG07NpdJu-DMokFc7xG-jlD8PETm1EylFkiOGVZtXH5Z_e3a95kV70ZdHH-SxIsQve2U5EUzHYnNYWCEJAaL7C2E?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ### 4.4.2. Web Applications Wireflow Diagrams.
 
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeWlSBl_GT4EcVWWdyB1gUcT3K5y3tUkCGuMt5UxJhgjVyIzcgJFBWktIoBV0A3HnqMZq8YeT-uCZzz71J44zQO-NDX6XA4NdkqA5WFefmrpFO1fKE524BktKbLXwU7lZiMWMRMnQyUJ9h3u3ZSYVxeZ1g?key=V4z4OyW-qymj93Y2Jmcmzw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcnVAIsZQgENsEO71qVWNwnRmva4sUdeP5XbStutUB6O3w7olaQ61ZFpN8AvOttfxDROK9O7on0LmMiibhPwuS6jrHvqkogAJfnkgW8d_rXbewDzRrpp20l-6gBx9SdCirIZzg8PGjo_TPiP2XpQhc9bxd4?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ### 4.4.3. Web Applications Mock-ups.
 
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdaMfvtPkVO0bNtuP0sYLDCIfvNYMMZGVFOSuf9TXLFmWL4QJszpfdlgGdk83y-nsDehfPfykdrkFb4xGWqbbrPRfhFkmeWOGlOGAoCDLBdLgypo4WrerOXjMBF0zvjU5FbeMmRTPPyqvwQIl5YRL04mxNT?key=H6EtlmqAgi51tpjibECXOw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfbVfkmM808yJIBAJ5OEAg8jNsGyJROJAv0sNjIUdP0AiRpqCqjr9swjzHn0x6jTUQxVepeQmCAy_shrheghZCwi59M76MdWz9EZxoBLfI-b-NVgMfuFpQa4V5obwe_CzeOVkaBMTEvpyRcNiM0pOkI7Gpv?key=H6EtlmqAgi51tpjibECXOw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfl0aUQeq_xHj7gZyqsR7ZRuy5_YKnBIheOcnBzphiFSxNik6xDOjLriG46XDQSWjtSzJWyuRl5i6u7tvin3BYeVH56djV9-ZBYyHDc7HIWARbkm4BxhQ6fKw0HHGIg7XTLmld_-oQgiRHVrbxTzoUfqw?key=H6EtlmqAgi51tpjibECXOw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfUIMUepft7AQGW2mtaVDwV8C1qkrSHVhR6-YtXD431Q4Wg76RXMEz5wTozrxb2PJHEP7tcjgU05YsxPGXLouJaKHfstiu7iAqUKhTBro_eyyOpfkbpQPyZnAr7uRPXZS-2bA8bhIfLI8X1Gn0LMgeWC_g?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ### 4.4.4. Web Applications User Flow Diagrams.
 
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdY4SGPb0YNsxq0khSsZX-ZMH6C9P3HBgEXPSuQLVzFHxiuds7V7s5Zoqrs87RBvZSLnyjvOE3fExMUcA5uh06h1sJyu3nkM3gyhQABDevul1xQ8eXXQ06JUuvqIgLfJLR63xvKAD4RiLQx6fDeZiVV-ZBe?key=V4z4OyW-qymj93Y2Jmcmzw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXctWqBtvhyTrTHGs5dEVGcbnXDPmH-wHuaCU9PzmaD-w1yVavhjHNs36zRMsVFsKzdo_aUoYbewrLBzfJWuUYLwrQezpA_bXwhqZhhktQf3D62PLnvgD7yGHFHsY1u1yy-l4cMuTY5vxzWVBqVcujt_qSgh?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ### 4.5. Web Applications Prototyping.
-
-
+[Diseño en Figma](https://www.figma.com/design/6jW2GekC3ZdkY0HtpFkmqZ/LimaPaths-UI?node-id=0-1&t=67kRUlPQBXcKcSu6-1)
 ## 4.6. Domain-Driven Software Architecture.
 
 ### 4.6.1. Software Architecture Context Diagram.
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeZEtui-3Eetu8CpQn1qA4S2u0jZWtHg_HOKYqp8LBMpY1yUSyn0-lViW-cG2qqBwh_QahDTcwHouyoJZ9jHcHRVC4yznLpL3TOUHc7kgb09x-LGcgb_dS_hGnhfWI9Weklb1qwNwyNUz2cG22BNpyBeYR1?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ### 4.6.2. Software Architecture Container Diagrams.
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfP69Bep5kk-AO9tRTWK_S8cqiFrWRZMaIaTEAiJhQFWEmxJZCvUlBjw0-XrhB5OIsukGkdg7h4FtzwKsT3qs_I2l-zjLkuzNjEBHx8tobcu7A4bsPnxfWxvH71AXlXbAm4PTLfjbXgxCLmAwn5fNDWQ7hF?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ### 4.6.3. Software Architecture Components Diagrams.
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfSPfbFwSWInsFeKqecvy0nOwtD0ien8eY_dhoR8fdRRTYoAf55DizkMLbjkliCjq_hcYZqrS0dA86rIzsqPsvOkWSlIf8lFwXlX8fLoTOXdlyiR7dGsb2PApm9w-w8ymbWbdNq3U52yl0fs2BGT1jtN9jF?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 ## 4.7. Software Object-Oriented Design.
 
 ### 4.7.1. Class Diagrams.
 
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfJFgi54THKgIVeDyuFLBMlky_eC5zXB67LOpaseYRvrYVrBJuVzzbgruQgeQj5e8YpMuaA56_h7zNWU9QT4cAppq7JH0AQkACgOIK2YbAxQ9eqpA91__Py6gGGxlibavcwOxV5Q6-FoD5ea-cFLA3L43kS?key=H6EtlmqAgi51tpjibECXOw">
 ### 4.7.2. Class Dictionary.
+| **CLASE**     | **ATRIBUTOS**                                                                                                          | **MÉTODOS**                                                                             |
+|---------------|------------------------------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------|
+| **Usuario**   | id:int -> id del usuario<br>correo:string -> correo electrónico del usuario<br>contrasenia:string -> contraseña del usuario | registrarUsuario() -> Permite registrar una nueva cuenta<br>iniciarSesion() -> Permite iniciar sesión en el sistema<br>salirSesion() -> Permite salir sesión en el sistema<br>editarPerfil()->Permite al usuario editar su perfil |
+| **Pasajero**  | id:int -> id del pasajero<br>nombre:string -> nombre del pasajero<br>apellidos:string -> apellidos del pasajero<br>celular:string -> celular del pasajero | reservarViaje() -> Reserva un nuevo viaje para el pasajero<br>obtenerHistorialViajes()-> Obtiene una lista de los viajes pasados |
+| **Empresa**   | id:int -> id de la empresa<br>ruc:string -> número de ruc de la empresa<br>razon_social:string -> razón social de la empresa | agregarBus() -> Permite que la empresa pueda agregar buses<br>eliminarBus() -> Permite que la empresa pueda eliminar buses |
+| **Bus**       | id:int -> id del bus<br>placa:string -> número de placa del bus                                                         | agregarRuta() -> Permite que el bus pueda agregar rutas<br>modificarRuta() -> Permite que el bus pueda modificar rutas<br>eliminarRuta() -> Permite que el bus pueda eliminar rutas |
+| **Modelo**    | id:int -> id del modelo de bus<br>nombre:string -> nombre del modelo del bus                                            |                                                                                         |
+| **Marca**     | id:int -> id de la marca de bus<br>nombre:string -> nombre de la marca del bus                                          |                                                                                         |
+| **Ruta**      | id:int -> id de la ruta<br>distancia:float -> distancia en km de la ruta                                                | agregarParadero() -> Permite que la ruta pueda agregar paraderos<br>eliminarParadero() -> Permite que la ruta pueda eliminar paraderos |
+| **Notificacion** | id:int -> id de la notificación<br>mensaje:string -> detalle del mensaje de la notificación                            | enviar() -> Permite hacer el envío de notificaciones a los pasajeros<br>marcarComoLeido() -> Permite marcar como leído las notificaciones |
+| **Promocion** | id:int -> id de la promoción<br>c_viajes:int -> número de viajes<br>c_cupon:string -> código de cupón<br>beneficio:string -> descripción del beneficio | aplicarPromocio() -> Permite aplicar la promoción a un usuario por cierto viaje           |
+| **Viaje**     | id:int -> id del viaje<br>fecha_hora_inicio -> hora y fecha del inicio del viaje<br>fecha_hora_fin -> hora y fecha del fin del viaje |                                                                                         |
+| **Paradero**  | id:int -> id del paradero<br>latitud:string -> coordenada latitud del paradero<br>longitud:string -> coordenada longitud del paradero |                                                                                         |
+| **Distrito**  | id:int -> id del distrito<br>nombre:string -> nombre del distrito                                                      |                                                                                         |
+| **Tarifa**    | id:int -> id de la tarifa<br>precio:float -> precio de la tarifa                                                        |                                                                                         |
 
 
 ## 4.8. Database Design.
 
 ### 4.8.1. Database Diagram.
-
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeEJ3Uzsm6ywQO8BZzmOnVOW7fAklmd7DIgJxMi6gP_eH_voXW3nRpfgotohTgkfg-AmTMneaKphfxcf24G-p09xJHqZror9t5vjVtxSCXk7oMGZ6WAYUopLcySWmn35ae358EwD2odfga5_OFafHUodzs?key=V4z4OyW-qymj93Y2Jmcmzw">
 
 # Capítulo V: Product Implementation, Validation & Deployment
 
@@ -1210,14 +1205,107 @@ Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofr
 
 ### 5.1.1. Software Development Environment Configuration.
 
+**Requirements Management**
+
+1. Trello: Es una herramienta utilizada para gestionar el flujo de trabajo de proyectos principalmente basados en marcos detrabajos ágiles. Será empleado para visualizar y actualizar el estado actual de las tareas e historias de usuariopertenecientes al sprint a desarrollar. Ruta de referencia https://trello.com/es
+2. Google docs: Google Docs es una suite de aplicaciones de procesamiento de texto, hojas de cálculo y presentaciones en línea. Aunque no es específicamente una herramienta de gestión de requisitos, se puede utilizar para documentar y colaborar en la definición y seguimiento de requisitos de proyectos. docs.google.com
+
+**Product UX/UI Design**
+
+1. Figma: Plataforma de elaboración de prototipos y edición gráfica, principalmente utilizado para el diseño digital. En elcaso del proyecto, será utilizado para el prototipado de la aplicación y sus versiones de Desktop y Mobile Web Browser.Ruta de referencia https://www.figma.com
+2. UXPressia: UXPressia es una herramienta especializada en la creación de mapas de experiencia de usuario, perfiles de clientes y otros elementos relacionados con el diseño de UX. Ayuda a visualizar y comprender la experiencia del usuario en un producto o servicio. https://uxpressia.com
+
+**Software Testing**
+
+1. Gherkin:  El lenguaje Gherkin es un lenguaje de dominio específico utilizado para escribir pruebas de aceptación en un formato legible por humanos. Se utiliza junto con herramientas de prueba de comportamiento, como Cucumber, para automatizar pruebas funcionales. https://cucumber.io/docs/gherkin/
+
+**Software Development**
+
+1. WebStorm: Entorno de desarrollo integrado elegido para la elaboración y compilación del código por motivos dedominio por parte de los integrantes del equipo de trabajo. Utilizar este IDE supone de valor para el desarrollo del proyecto puesto que incluye la posibilidad de agregar extensiones de utilidad, soporte de edición de texto en múltipleslenguajes de programación, disponibilidades en múltiples sistemas operativos, entre otros beneficios. Ruta de referencia https://www.jetbrains.com/webstorm/
+2. HTML5: HyperText Markup Language, o por sus siglas HTML, es un lenguaje de etiquetado para páginas web. Seráempleado en el desarrollo del proyecto para la presentación del contenido en la aplicación. Ruta de referencia https://www.w3schools.com/html/html5_syntax.asp
+3. CSS: Cascading Style Sheets es un lenguaje que maneja el diseño y presentación de las páginas web, el cual va de la manocon HTML. Ruta de referencia https://google.github.io/styleguide/htmlcssguide.html
+4. JavaScript: Es un lenguaje de programación interpretado y orientado a objetos. Se utilizará para elaborar la interfaz deusuario dentro de la aplicación. Ruta de referencia https://developer.mozilla.org/es/docs/Web/JavaScript
+5. Angular: Angular es un framework de desarrollo de aplicaciones web de código abierto y basado en TypeScript, mantenido por Google y una comunidad de desarrolladores. Es utilizado para crear aplicaciones web de una sola página (SPA) y aplicaciones web dinámicas. Angular proporciona un conjunto de herramientas y bibliotecas que simplifican el desarrollo de aplicaciones web complejas al seguir el patrón de arquitectura Modelo-Vista-Controlador (MVC) y ofrecer funcionalidades como enlace de datos bidireccional, inyección de dependencias, rutas, formularios reactivos, animaciones y mucho más https://angular.io/
+
+**Software Deployment**
+
+1. Git: Herramienta de control de versiones que permite registrar y gestionar las diferentes versiones del programa. Seutilizará para mantener un historial de cambios y simplificar la corrección de errores. Los miembros del equipo accederána través de la línea de comandos en sus sistemas locales. Ruta de referencia https://git-scm.com/
+
+**Software Documentation and Project Management**
+
+1. Github: GitHub es una plataforma de desarrollo colaborativo que utiliza el sistema de control de versiones Git. Se utiliza para alojar, revisar y colaborar en proyectos de desarrollo de software, lo que facilita la colaboración entre desarrolladores. Ruta de referencia https://github.com/
+
 
 ### 5.1.2. Source Code Management.
+
+Para mantener el orden al desarrollar una solución y evitar conflictos o superposiciones de información, los proyectos se trabajaron en un organización de GitHub y dentro de esta se encuentran los diferentes repositorios para cada proyecto cuyos enlaces de los repositorios son los siguientes:
+
+**Liks del repositorio de GitHub**:
+
+- Link de la organización: https://github.com/TechMove-OpenSource
+- Link de la landing page: https://github.com/TechMove-OpenSource/LimaPaths-landing-page
+- Link del informe: https://github.com/TechMove-OpenSource/LimaPaths-MarkDown
+
+
+Estrucutra de las ramas:
+
+- **Main Branch:** Esta rama es la principal de la aplicación. Donde se encontrarán las versiones más estables del desarrollo. Solo se admiten cambios que hayan sido probados en otras ramas.
+- **Develop Branch:** Esta rama es donde se realizarán los avances del proyecto y desarollo.
+- **Feature Branch:** Esta rama es donde se implementarán nuevas características de la aplicación, para luego ser enviada a la rama de desarrollo.
+- **Release Branch:** Esta rama es una instancia de la rama Develop, para posteriormente ser enviada a la rama Main.
+- **Hotfix Branch:** Estas ramas son creadas con la finalidad de corregir errores puntuales que puedan estar perjudicando al usuario en su experiencia de uso de la aplicación.
 
 
 ### 5.1.3. Source Code Style Guide & Conventions.
 
+**HTML**: Unas de las prácticas que hemos seguido para alcanzar un código limpio, conciso, coherente, legible y escalable son las siguientes:
+
+- Se usan elementos HTML que tengan un significado claro y preciso para el contenido que se está marcando. Por ejemplo, utiliza header, nav, main, article, section, aside, footer, entre otros, para estructurar la landing page de forma semántica.
+- Aunque HTML5 permite algunas etiquetas sin cierre (como "img" y "input"), utilizamos la buena práctica de cerrar todas las etiquetas correctamente para evitar problemas de renderizado. Por ejemplo: `<p> Código claro y legible.</p>`
+- Para mejorar la accesibilidad, siempre incluye el atributo alt en las etiquetas "img" para describir brevemente el contenido de la imagen. Por ejemplo: `<img src="image.img" alt="brief image name">`
+- HTML permite combinar mayúsculas y minúsculas en los nombres de los elementos y atributos, pero limitamos dar
+  al uso de solo minúsculas para preservar el orden y asegurar la legibilidad del código.
+- No omitir las etiquetas `<html>`, `<body>` y `<header>`.
+- Escribir en una línea los comentarios cortos.
+
+**CSS**: Entre las prácticas se mencionan:
+
+- Los nombres de clases son intuitivos, legibles y autodescriptivos.
+- Separar las declaraciones y selectores en nuevas líneas para agilizar la legibilidad.
+- Usar comentarios para explicar el código.
+- Aplicar sangría a todo el contenido de un bloque.
+
+**JavaScript**: Principales prácticas aplicadas:
+
+- Uso de camelCase para nombrar variables y funciones. Por ejemplo, `myVariable` y `myFunction`.
+- Uso de PascalCase para nombrar clases y constructores.Por ejemplo, `myClass`.
+- Evitar el uso de nombres de variables genéricos o ambiguos.
+- Uso general de comentarios para explicar el propósito y funcionalidad de la porción del código.
+- Uso de punto y coma al final de cada declaración.
+- Uso de comillas simples ('') o comillas dobles ("") de forma consistente para las cadenas de texto.
+- Organización del código en bloques lógicos separados por líneas en blanco para mejorar la legibilidad.
+- Uso de el operador ternario `(condición ? resultadoTrue : resultadoFalse)` de manera adecuada y legible.
+- Evitar el uso de funciones obsoletas o en desuso.
+- Uso de try-catch para manejar y gestionar errores de manera adecuada.
+
+**Gherking Language:** Lenguaje de dominio específico utilizado en Behavior Driven Development (BDD), se enfoca en facilitar la comunicación entre los equipos de negocios y técnicos al abordar los problemas concretos. Para mejorar la legibilidad y la organización de nuestrosd escenarios, se emplean saltos de línea y palabras clave como "Given", "When", "Then" y "And". Estas prácticas nos ayudan a estructurar de manera clara y efectiva los diferentes tipos de escenarios en BDD.
+
 
 ### 5.1.4. Software Deployment Configuration.
+
+<p align="justify">
+  Para la implementación de la aplicación LimaPaths, se utilizará la plataforma de Github Pages y Github Actions para la implementación y despliegue de la aplicación.
+  Donde en cada cambio que se realice en nuestra rama pricipal (main), se desplegará automáticamente en la plataforma de Github Pages.
+</p>
+
+- Paso uno: Asegurarnos de que el repositorio de GitHub contenga todos los archivos necesarios para el sitio web.
+
+- Paso dos: Ir a la configuración del repositorio en GitHub y habilitar GitHub Pages, seleccionando la rama principal (main) y la carpeta desde la que se desea publicar el sitio web.
+  <img align="center" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfXhRWh5mKx6uCqHlEJqWLF0s21N_wh6cCfyTKCdAWVlsW3yRX8FN7cCNu2NhFqwZd8Tsyr5r1PFBottYs6CzkP6Z9YpJNPDVjf8OflGgAWPvn7RgGdrDMHE8jvEcyB9eZ5LW_jNjTOxOoDw9KPA_lU5ns?key=FJE6fvDrMe6VJodRzmACcQ" width="90%">
+
+- Paso tres: Verificar que se haya desplegado correctamente en la plataforma de Github Pages.
+  <img align="center" src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdWjeAYLacSFmaTOJkjnReuv3yiAi0w4q6GwH1HL_nHt9YziZmj4CYViS0IiDttCTB0x-mcY7aIUey9gPRoqDeduMrUX10RQiIpZDp_VooCUsmmZHKs3QX5qcQTdhElRkMbOlHdRxvOk1N92YRapG7UXPZJ?key=FJE6fvDrMe6VJodRzmACcQ" alt="Despliegue en Github Pages" width="90%">
+
 
 
 ## 5.2. Landing Page, Services & Applications Implementation.
@@ -1261,17 +1349,56 @@ Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofr
 
 #### 5.2.1.3. Development Evidence for Sprint Review.
 
+
+| Repository   | Branch                                      | Commit Id | Commit Message                   | Commit Message Body | Commited on (Date) |
+| ------------ | ------------------------------------------- | --------- | -------------------------------- | ------------------- | ------------------ |
+| LimaPaths-Landing-Page | feature/Plans  |e8da3f4 | feat: Plans Section |-| 07/09/2024|
+|LimaPaths-Landing-Page | feature/Questions | bb761fb  | feat:Repited questions added  |-|07/09/2024|
+|LimaPaths-Landing-Page | feature/Recomendations | 7f67f67  | feat:Recomendations added  |-|07/09/2024|
+|LimaPaths-Landing-Page | feature/Hero | 90ccb6c  | feat:hero completed  |-|07/09/2024|
+
 #### 5.2.1.4. Testing Suite Evidence for Sprint Review.
+
+Para esta entrega, no se implementó el conjunto de apartados relacionados con Web Services, ya que el desarrollo se hizo en base al Landing Page.
 
 ### 5.2.1.5. Execution Evidence for Sprint Review.
 
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdWjeAYLacSFmaTOJkjnReuv3yiAi0w4q6GwH1HL_nHt9YziZmj4CYViS0IiDttCTB0x-mcY7aIUey9gPRoqDeduMrUX10RQiIpZDp_VooCUsmmZHKs3QX5qcQTdhElRkMbOlHdRxvOk1N92YRapG7UXPZJ?key=FJE6fvDrMe6VJodRzmACcQ" alt="landing deployed">
 
 ### 5.2.1.6. Services Documentation Evidence for Sprint Review.
+
+En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos concentrado exclusivamente en la creación de la página de inicio estática. Por lo tanto, en esta presentación no se proporciona documentación relacionada con la utilización de servicios web.
 
 
 ### 5.2.1.7. Software Deployment Evidence for Sprint Review.
 
+Para realizar el despliegue automático de nuestra Landing Page, utilizamos la herramienta Github Pages, el cual permite generar páginas web desde un repositorio público dentro del cual se aloja el código con el que se implementa la página.
+
+El link de nuestra Landing Page es el siguiente: https://techmove-opensource.github.io/LimaPaths-landing-page/
+
+
 ### 5.2.1.8. Team Collaboration Insights during Sprint.
+
+El primer gráfico que obtenemos es el de barras el cual nos indica y compara la cantidad de commits realizados por integrante en el Landing Page.
+<div align="center">
+
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe5G0PSmv4PjK8Jl7pd7XcjfuWlT8vxYpiqV579a4NghuRgfF5JhEmq8VXcj1Ip2ltfnvokRLjvv-meZE6KXbXUFxuQXB_autEcMmQI2AYoINa0QcPkfiCDqnqe-6vP8NSMhHk2N5l3cwxh0YiYoKXNVG-a?key=FJE6fvDrMe6VJodRzmACcQ">
+
+</div>
+
+Seguido de este, nos encontramos con un análisis de aporte de los contribuidores.
+<div align="center">
+
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd3CQ-Vp7lEw9gJ70TCAIaCFR8HSTdjlpgMAEKg4NgAbm22itos_h5fF1J3_9zY4K6uzu9mpSJdxeiLu9UtqtmhaW-rAoqPQBJ3KUhAp99tHLWi_7TCnzwyiMZFeB5n2QgfJpZAncC9DuAfjoWuPiIlDpC3?key=FJE6fvDrMe6VJodRzmACcQ">
+
+</div>
+
+Y por último, nos encontramos con el Network que ilustra el cómo se fue desarrollando la aplicación.
+<div align="center">
+
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc-Jp8NK3y3KAvCA96bQrQ4J-QY714XU-jak33HRo8aJWJHagodNbve002VMRcnVmhAupJzdLMZOVwyABFB6TQ_uuOS8XdKoT-dJL5IwqkPSivRr7V7sBAtg4y2bJxnn-xhXCE4jLsV6f1AVSj52tQJevo?key=FJE6fvDrMe6VJodRzmACcQ">
+
+</div>
 
 ## Conclusiones
 
@@ -1297,13 +1424,11 @@ Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofr
 
 ## Anexos
 
-- _**Landing Page Figma:**_
+- _**Landing Page Figma: https://www.figma.com/design/6jW2GekC3ZdkY0HtpFkmqZ/LimaPaths-UI?node-id=0-1&node-type=CANVAS&t=FYK3oSbHRZ1bIi8b-0**_
 
-- _**Wireframes y Mockups Figma:**_ 
-- 
-- _**Trello Sprint 1:**_ 
+- _**Wireframes y Mockups Figma: https://www.figma.com/design/6jW2GekC3ZdkY0HtpFkmqZ/LimaPaths-UI?node-id=0-1&node-type=CANVAS&t=FYK3oSbHRZ1bIi8b-0**_ 
+  
+- _**Tech Move Landing Page: https://techmove-opensource.github.io/LimaPaths-landing-page/**_ 
 
-- _**Tech Move Landing Page:**_ 
-
-- _**Link Video de Exposicion TB1:**_ 
+- _**Link Video de Exposicion TB1: https://youtu.be/3M6LtSQeJS0**_ 
 
