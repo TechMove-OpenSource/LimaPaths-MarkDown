@@ -1058,7 +1058,7 @@ Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofr
 - <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc2u1eTfesiFn5lkHduTqI4KVh-h5OHwyw8CXn0o5ngHk5qHjEg2ndw0PaA8BUZOcp5aUhaAnjpB_wyGNQgC-lc1X0idLQnvmrvxXpEz9sxmpm26_-yUOYHUUZGcyu_-1tNl2ZmIhrwSidUyz9GAQ9ElhX7?key=Z-Rf2dfqlF43qok2gW92Kg">
 
 ### 4.6.2. Software Architecture Container Diagrams.
-- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfP69Bep5kk-AO9tRTWK_S8cqiFrWRZMaIaTEAiJhQFWEmxJZCvUlBjw0-XrhB5OIsukGkdg7h4FtzwKsT3qs_I2l-zjLkuzNjEBHx8tobcu7A4bsPnxfWxvH71AXlXbAm4PTLfjbXgxCLmAwn5fNDWQ7hF?key=V4z4OyW-qymj93Y2Jmcmzw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdC15jRxfCV-oAtpO7bEAEymwIqunF5KS4uqyE90CXijUpYBE1qDERpC5ODE6s9MBMn9Puif-utLVpGqJvswLDfi7CaIf9TXRQg18Wmd41hK724ZUMuNsPCj1tcVMfCJSp2dA19DuM0-mQI21QQpTlcH4-u?key=Z-Rf2dfqlF43qok2gW92Kg">
 
 ### 4.6.3. Software Architecture Components Diagrams.
 - <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfSPfbFwSWInsFeKqecvy0nOwtD0ien8eY_dhoR8fdRRTYoAf55DizkMLbjkliCjq_hcYZqrS0dA86rIzsqPsvOkWSlIf8lFwXlX8fLoTOXdlyiR7dGsb2PApm9w-w8ymbWbdNq3U52yl0fs2BGT1jtN9jF?key=V4z4OyW-qymj93Y2Jmcmzw">
