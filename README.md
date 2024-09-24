@@ -1055,7 +1055,7 @@ Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofr
 ## 4.6. Domain-Driven Software Architecture.
 
 ### 4.6.1. Software Architecture Context Diagram.
-- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeZEtui-3Eetu8CpQn1qA4S2u0jZWtHg_HOKYqp8LBMpY1yUSyn0-lViW-cG2qqBwh_QahDTcwHouyoJZ9jHcHRVC4yznLpL3TOUHc7kgb09x-LGcgb_dS_hGnhfWI9Weklb1qwNwyNUz2cG22BNpyBeYR1?key=V4z4OyW-qymj93Y2Jmcmzw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXc2u1eTfesiFn5lkHduTqI4KVh-h5OHwyw8CXn0o5ngHk5qHjEg2ndw0PaA8BUZOcp5aUhaAnjpB_wyGNQgC-lc1X0idLQnvmrvxXpEz9sxmpm26_-yUOYHUUZGcyu_-1tNl2ZmIhrwSidUyz9GAQ9ElhX7?key=Z-Rf2dfqlF43qok2gW92Kg">
 
 ### 4.6.2. Software Architecture Container Diagrams.
 - <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfP69Bep5kk-AO9tRTWK_S8cqiFrWRZMaIaTEAiJhQFWEmxJZCvUlBjw0-XrhB5OIsukGkdg7h4FtzwKsT3qs_I2l-zjLkuzNjEBHx8tobcu7A4bsPnxfWxvH71AXlXbAm4PTLfjbXgxCLmAwn5fNDWQ7hF?key=V4z4OyW-qymj93Y2Jmcmzw">
