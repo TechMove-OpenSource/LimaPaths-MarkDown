@@ -1061,7 +1061,7 @@ Tarjetas de promociones: El usuario podrá visualizar las promociones que le ofr
 - <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdC15jRxfCV-oAtpO7bEAEymwIqunF5KS4uqyE90CXijUpYBE1qDERpC5ODE6s9MBMn9Puif-utLVpGqJvswLDfi7CaIf9TXRQg18Wmd41hK724ZUMuNsPCj1tcVMfCJSp2dA19DuM0-mQI21QQpTlcH4-u?key=Z-Rf2dfqlF43qok2gW92Kg">
 
 ### 4.6.3. Software Architecture Components Diagrams.
-- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfSPfbFwSWInsFeKqecvy0nOwtD0ien8eY_dhoR8fdRRTYoAf55DizkMLbjkliCjq_hcYZqrS0dA86rIzsqPsvOkWSlIf8lFwXlX8fLoTOXdlyiR7dGsb2PApm9w-w8ymbWbdNq3U52yl0fs2BGT1jtN9jF?key=V4z4OyW-qymj93Y2Jmcmzw">
+- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd0UYu5bhGpAYMqjCSnhRManXQV6jQAPE31AjhpYNJP8Bt-0uj9FtK1bX_HKzdZ6SrVxxTGpj-wnZH8RnL4u-uA-2iPGfqsz2zY44cETRKmgGMC9dIOyVFFMzpxxInqYBxXYqp7h363E578lwXY_xqqrb5m?key=Z-Rf2dfqlF43qok2gW92Kg">
 
 ## 4.7. Software Object-Oriented Design.
 
