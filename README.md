@@ -810,7 +810,7 @@ Ubicación: Lima
 
 Evidencia de la reunión:
 
-<img src="images/entrevista1.jpg" alt="Canvas" width="90%">
+<img src="images/diego.jpeg" alt="Canvas" width="90%">
 
 Inicio: 00:04
 
