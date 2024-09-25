@@ -821,6 +821,28 @@ Fin: 07:48
 **Resumen de la entrevista:**
 La entrevista fue con Diego Acuña, quien utiliza el transporte público en Lima algunos días a la semana principalmente por razones económicas, especialmente los lunes, miércoles y jueves para ir a la universidad. Aunque ha experimentado retrasos ocasionales, en general no encuentra mayores problemas. Describe la seguridad del transporte público en Lima como buena, sin haber tenido experiencias negativas. Está satisfecho con la accesibilidad en términos de paradas y rutas, pero sugiere mejorar la comodidad de los asientos. Utiliza la app Ruta Simplificada para planificar sus rutas y califica nuestra aplicación de transporte público como buena, proponiendo mejoras como información en tiempo real y la opción de seleccionar ubicaciones de casa. También sugiere añadir la capacidad de calcular costos de viaje y acceso automático a la información de ubicaci
 
+**Entrevista 04**
+Entrevistado 4:
+
+Nombre y apellidos: Romina Lopa
+
+Edad: 20
+
+Ubicacion: Lima
+
+Evidencia de la reunion:
+
+<img src="images/entrevista-segmento1-romina.png" alt="Canvas" width="90%">
+
+Inicio: 00:04
+
+Fin: 04:22
+
+**Enlace de entrevista:** https://drive.google.com/file/d/1CQv7zoRAfoWdhNFb6tsHW9J7Z8RH4LqL/view?usp=sharing
+
+**Resumen de la entrevista:**
+La entrevistada fue Romina Lopa, ella utiliza el transporte publico todas las mañanas de lunes a viernes de camino de su casa a la universidad, primero usa el tren y luego el bus, el recorrido en total le dura cerca de 2 horas. Considera que un aspecto importante al escoger es saber que tan rapido va a llegar al destino teniendo en cuenta las aradas del bus y la informacion del trafico que escucha por la radio. Algunas frustraciones por las que pasa es el trafico en algunos lugares y la informalidad. Romina no usa aplicativos de rutas pero esta interesada en usar alguna que le permita ver el trafico en tiempo real, ademas nu plataforma sementada y sencilla de usar, ademas del precio de los planes ya que estaria dispuesta a pagar alguna version premiun para obtener mejores experiencias al usar transporte publico usando una app.
+
 
 ### 2.2.3. Análisis de entrevistas
 
