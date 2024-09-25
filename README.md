@@ -832,7 +832,7 @@ Ubicacion: Lima
 
 Evidencia de la reunion:
 
-<img src="images/entrevista-segmento1-romina.png" alt="Canvas" width="90%">
+<img src="images/Jean.jpeg" alt="Canvas" width="90%">
 
 Inicio: 00:04
 
