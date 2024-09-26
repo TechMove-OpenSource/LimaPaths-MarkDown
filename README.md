@@ -843,6 +843,26 @@ Fin: 04:22
 **Resumen de la entrevista:**
 La entrevistada fue Romina Lopa, ella utiliza el transporte publico todas las mañanas de lunes a viernes de camino de su casa a la universidad, primero usa el tren y luego el bus, el recorrido en total le dura cerca de 2 horas. Considera que un aspecto importante al escoger es saber que tan rapido va a llegar al destino teniendo en cuenta las aradas del bus y la informacion del trafico que escucha por la radio. Algunas frustraciones por las que pasa es el trafico en algunos lugares y la informalidad. Romina no usa aplicativos de rutas pero esta interesada en usar alguna que le permita ver el trafico en tiempo real, ademas nu plataforma sementada y sencilla de usar, ademas del precio de los planes ya que estaria dispuesta a pagar alguna version premiun para obtener mejores experiencias al usar transporte publico usando una app.
 
+**Entrevista 05**
+Entrevistado 5:
+
+Nombre y apellidos: Rony Colos Alarcon
+
+Edad: 19
+
+Ubicacion: Lima
+
+Evidencia de la reunion: 
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdzkdlnGsYYFGagWJAFCNR-92GpBIeS73OFXMMw6Y95s9q9TivyaXWpZqrQrM0p7fWWMR-eGaWTpouksRFn8JlG1Y9t9XYu2Uvisj_uxu0wm8GQpEZkI-vOVcYOOLHiD5x8mptUMf_GoiZZgoak_GnN0biY?key=zNAN-enWOLGtd4_CUJb0SA" alt="Canvas" width="90%">
+
+Inicio: 00:02
+
+Fin: 04:38
+
+**Enlace de entrevista:** [https://drive.google.com/file/d/1CQv7zoRAfoWdhNFb6tsHW9J7Z8RH4LqL/view?usp=sharing](https://1drv.ms/v/c/a4fac2a283bcaa83/EU59QSlJRxRIlLkef3fjaIUB7LEvAj37CiLr8k8vKOUzMg?e=HjQMZY)
+
+**Resumen de la entrevista:**
+Nuestro entrevistado fue Rony Frank Colos Alarcón, estudiante de Ingeniería de Sistemas en la Universidad Tecnológica del Perú (UTP), quien se desplaza a su centro educativo utilizando principalmente el transporte público. Hasta el momento, no ha tenido experiencias negativas significativas en este medio de transporte, salvo la creciente preocupación por la inseguridad que afecta a las empresas de transporte en el país. Rony utiliza principalmente Google Maps para planificar sus rutas y la aplicación Turuta para identificar los buses que debe tomar para llegar a su destino. Sin embargo, considera que sería muy útil que nuestra aplicación incorporara opciones para visualizar el estado del tráfico en tiempo real, además de sugerir rutas alternativas que le permitan llegar más rápido a su destino en caso de congestión u otros imprevistos. Además, expresó que le gustaría que la aplicación fuera más intuitiva y estuviera libre de anuncios, ya que esto facilitaría su uso y permitiría una experiencia más fluida y eficiente durante sus desplazamientos diarios.
 
 ### 2.2.3. Análisis de entrevistas
 
