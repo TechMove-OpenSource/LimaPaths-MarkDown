@@ -1452,6 +1452,232 @@ Y por último, nos encontramos con el Network que ilustra el cómo se fue desarr
 
 </div>
 
+### 5.2.2. Sprint 2
+
+#### 5.2.2.1. Sprint Planning 2
+<table>
+  <caption>Sprint #2</caption>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Backlog</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fecha</td>
+      <td>22/04/2024</td>
+    </tr>
+    <tr>
+      <td>Hora</td>
+      <td>16:00 horas (GMT -5)</td>
+    </tr>
+    <tr>
+      <td>Ubicación</td>
+      <td>Modalidad remota a través de plataforma Discord</td>
+    </tr>
+    <tr>
+      <td>Preparado por</td>
+      <td>Mancilla Ordaya, Eduardo</td>
+    </tr>
+    <tr>
+      <td>Asistentes (a la reunión de planificación)</td>
+      <td>Todos los miembros de InnovaTech</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 2 Review</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        Se creará el repositorio del aplicativo web. Además, se asignarán las tareas a realizar como las secciones del aplicativo a desarrollar y las correcciones al informe.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 2 Retrospective</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        La implementación para el aplicativo web se desarrolló con html, css y TypeScript junto con Angular.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint Goal and User Stories</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 2 Velocity</td>
+      <td>20</td>
+    </tr>
+    <tr>
+      <td>Sum of Story Points</td>
+      <td>35</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.2.2. Sprint Backlog 2
+
+|Sprint#|Sprint 2| | | | | | |
+|:----|:----|:----|:----|:----|:----|:----|:----|
+|User Story| |Task| | | | | |
+|id|title|id|title|description|Estimations(Hours)|Assigned To|Status(To-do /InProcess/ToReview/Done)|
+|HU10|Visualización del mapa|T008|Desarrollo de vista del  mapa|Desarrollo e implementación de la vista del mapa con los campos de  ingreso de origen y destino|5 hrs|Oscar Sebastian|In Process|
+|HU15|Compra de boletos|T009|Desarrollo de vista pay-ticket|Desarrollo e implementación de la vista de la sección para pagar pasaje de algun bus seleccionado|3 hrs|Carlos Arian|Done|
+|HU08|Visualización del menú de opciones|T010|Desarrollo de menu de opciones|Desarrollo e implementación del side nav con opciones para el usuario|2 hrs|Carlos Arian|Done|
+|HU01|Registrar al usuario|T011|Desarrollo de pantalla de registro|Desarrollo e implementación del la vista de registro de usuario|2 hrs|Carlos Casimiro|In Process|
+|HU02|Inicio de sesión en la aplicación|T012|Desarrollo de pantalla de inicio de sesion|Desarrollo e implementación de la vista de inicio de sesión|2 hrs|Carlos Casimiro|Done|
+|HU16|Notificaciones personalizadas|TO13|Desarrollo de pagina de notificaciones|Desarrollo e implementación de la vista de notificaciones|3 hrs|Oscar Sebastian|Done|
+|HU30|Promociones |T014|Desarrollo de pagina de promociones|Desarrollo e implementación de la vista de promociones que se le ofreceran al usuario premiun|4 hrs|Javier Sharvel|Done|
+|HU31|Soporte y Ayuda|T015|Desarrollo de pagina de ayuda|Desarrollo e implementación de la vista de soporte y ayuda|1 hrs|Carlos Arian|Done|
+|HU32|Configuración|T016|Desarrollo de pagina de configuración|Desarrollo e implementación de la pagina de configuración|2 hrs|Eduardo Mancilla|Done|
+|HU33|Historial de Viajes|T017|Desarrollo de pagina de historial de viajes|Desarrollo e implementación de la pagina de historial de viajes|3 hrs|Eduardo Mancilla|Done|
+|HU34|Recuperación de contraseña|T018|Desarrollo de pagina de recuperación de contraseña|Desarrollo e implementacion de la pagina de recuperación de contraseña|3 hrs|Javier Sharvel|Done|
+
+
+En el segundo Sprint, se implementará el aplicativo web de TrackMyRoute. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
+
+<img src="images/trello2.PNG" alt="Trello" width="100%">
+
+Aqui podra encontrar la evidencia de Trelo:
+https://trello.com/invite/b/756h2IOV/ATTIc8bab2f3b40f3200913856fe774913650C1EF44E/sprint-2-trackmyroute
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+<p align="justify">A continuación se presentan informacion de los commits del FrontedEnd del nuestro Aplicativo TrackMyRoute, con el uso de HTML, CSS, Typescript y Angular</p>
+
+<table border="0" width="100%" height="100%">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commited on</th>
+  </tr>
+  <tr>
+    <td>track-my-route</td>
+    <td>feature/config-page</td>
+    <td>c3335184d447136208cd4d1f5df6270bae10d2da</td>
+    <td>feat: config page</td>
+    <td>29/04/2024</td>
+  </tr>
+   <tr>
+    <td>track-my-route</td>
+    <td>feature/history-page</td>
+    <td>709dd269e56577fab66088fae8a18b8dcc505ed6</td>
+    <td>feat: history page</td>
+    <td>29/04/2024</td>
+  </tr>
+  <tr>
+    <td>track-my-route</td>
+    <td>feature/help</td>
+    <td>41c730eca2d029e3f1c9182d91a9cd0c6e33a7bf</td>
+    <td>feat: help view added</td>
+    <td>29/04/2024</td>
+  </tr>
+  <tr>
+    <td>track-my-route</td>
+    <td>feature/pay-tickets</td>
+    <td>fd0ff40fbbfda5c3a6ccac64a3efa2f584d1c506</td>
+    <td>feat: pay ticket page</td>
+    <td>27/04/2024</td>
+  </tr>
+  <tr>
+    <td>track-my-route</td>
+    <td>feature/side-nav</td>
+    <td>793e7fa57444e2adbdc8d5b45e4a3c3ee6258980</td>
+    <td>feat: side nav added</td>
+    <td>25/04/2024</td>
+  </tr>
+  <tr>
+    <td>track-my-route</td>
+    <td>feature/promo</td>
+    <td>e919387281c92c0261c01bc13f3ab1581d621947</td>
+    <td>feat: seccion de promociones</td>
+    <td>30/04/2024</td>
+  </tr>
+  <tr>
+    <td>track-my-route</td>
+    <td>feature/notifications</td>
+    <td>d473368537e6501d72884c94f228f41d134ccb59</td>
+    <td>feat: added notifications page</td>
+    <td>30/04/2024</td>
+  </tr>
+  <tr>
+    <td>track-my-route</td>
+    <td>feature/dashboard</td>
+    <td>f01822bf6427b663d29e8671f8f2a4c16334ed06</td>
+    <td>feat: added search route page</td>
+    <td>29/04/2024</td>
+  </tr>
+  </table>
+
+
+#### 5.2.2.4. Testing Suite Evidence for Sprint Review
+
+<p align="justify">En el transcurso del segundo sprint, no se realizaron pruebas en la aplicación ya que nuestro enfoque estuvo dirigido exclusivamente a la construcción de la interfaz de la aplicación web.</p>
+
+#### 5.2.2.5. Execution Evidence for Sprint Review
+
+<div align="center">
+
+  <img src="images/app_deploy.png">
+
+</div>
+
+#### 5.2.2.6. Services Documentation Evidence for Sprint Review
+
+En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos concentrado exclusivamente en la creación del frontend de la aplicación web. Por lo tanto, en esta presentación no se proporciona documentación relacionada con la utilización de servicios web.
+
+
+#### 5.2.2.7. Software Deployment Evidence for Sprint Review
+
+**Paso 1:** desplegarlo localmente usando lite server
+
+<div align="center">
+
+  <img src="images/deploy_1.jpg">
+
+</div>
+
+**Paso 2:** instalar Firebase tools en nuestro proyecto, y loguearse en firebase
+
+<div align="center">
+
+  <img src="images/deploy_2.jpeg">
+
+</div>
+
+**Paso 3** realizar el deploy a traves de firebase
+
+<div align="center">
+
+  <img src="images/deploy_3.jpg">
+
+</div>
+
+**Paso 4:** ng deploy
+
+<div align="center">
+
+  <img src="images/deploy_4.jpg">
+
+</div>
+
+Link de la app desplegada: https://track-my-route-12342468.web.app/sidebar/history
+
+
+#### 5.2.2.8. Team Collaboration Insights during Sprint
+
+<img src="images/commitSprint2.0.PNG" alt="Spring2.0Evidence" width="100%">
+<img src="images/sprint-2-insight2.png" alt="Spring2.0Evidence" width="100%">
+<img src="images/sprint-2-insight3.png" alt="Spring2.0Evidence" width="100%">
+<img src="images/sprint-2-insight4.png" alt="Spring2.0Evidence" width="100%">
+
 ## Conclusiones
 
 **TB1:**
