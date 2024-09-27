@@ -1682,7 +1682,7 @@ En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos
 
 <div align="center">
 
-  <img src="images/deploy_3.jpg">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdRDTLIvriQhsR5rZLncVjr997WM6M6RHvhXf_gdQeCD-pMMpxmwivNZC1GWDu4A8sgXGor4eze1LVpIChUTDLE2uUG-sd4sDVt7LSVsBZB8qtBHhoCIcBKDzwPTqoxA_tVMaZQ-F-kS1C0ET8alXsqck8?key=FJE6fvDrMe6VJodRzmACcQ">
 
 </div>
 
@@ -1690,19 +1690,19 @@ En este sprint en particular, no hemos utilizado servicios web, ya que nos hemos
 
 <div align="center">
 
-  <img src="images/deploy_4.jpg">
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdN0cKF124OD9htGZw8JxDT0Gl7uWZ1Hag9QKH1_7GYJ2RFXJeeYUaETSxMn8UOoVNL408qm3o3fLfulQwm2z10Ae4G5Hpo0kGgGCDif63Nkz8ZzTyPQdo3lLoumly3pj0FrmfORsw3-MTV3lZxgVFxbMzq?key=FJE6fvDrMe6VJodRzmACcQ">
 
 </div>
 
-Link de la app desplegada: https://track-my-route-12342468.web.app/sidebar/history
+Link de la app desplegada:  https://limapaths.web.app 
 
 
 #### 5.2.2.8. Team Collaboration Insights during Sprint
 
-<img src="images/commitSprint2.0.PNG" alt="Spring2.0Evidence" width="100%">
-<img src="images/sprint-2-insight2.png" alt="Spring2.0Evidence" width="100%">
-<img src="images/sprint-2-insight3.png" alt="Spring2.0Evidence" width="100%">
-<img src="images/sprint-2-insight4.png" alt="Spring2.0Evidence" width="100%">
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf6t0Urfv2wiNlMyHWZ_L9SphBOSsQvE8L2GXT4EXrRIrfDv56eo8kHhhu6tM7PH2y46ckloEa7AzxOnuVECCQSUP1XkKYIg1i22tvKPbaNPIpTg82N22QC8aj-HRMZfmTTcAHN6YFqTr_VOgNMQT5u35w?key=FJE6fvDrMe6VJodRzmACcQ">
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeYN2dRr5kLtWnyGCYK1x2BgqFsX9YPTxTw6iykNFKzU-P8MkqxVWor699YQyCWUfMfskgwSKI1AnLgAQEkiu34YehlbauO2f4iRCFxCmkIqpfZdvC8nX-TGe1Ga10z3cjTQ8M-TSIHT_KY10j8Cd_tHVnY?key=FJE6fvDrMe6VJodRzmACcQ">
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfaNdqJakgHyD1n4lbZzqzzvWsKc7_gdxdPEVrb9jftspDprQr_z0SWbi8Rqwo-buTnikvH0OzBByzIkDy1-lhNskvZmQGQmcboRa2hd_IpZ3s1TRr4HTVhOXT4j2RfvIPBqYzwzMb-0Z4jj2-_95O8YqTF?key=FJE6fvDrMe6VJodRzmACcQ">
+
 
 ## Conclusiones
 
@@ -1732,7 +1732,9 @@ Link de la app desplegada: https://track-my-route-12342468.web.app/sidebar/histo
 
 - _**Wireframes y Mockups Figma: https://www.figma.com/design/6jW2GekC3ZdkY0HtpFkmqZ/LimaPaths-UI?node-id=0-1&node-type=CANVAS&t=FYK3oSbHRZ1bIi8b-0**_ 
   
-- _**Tech Move Landing Page: https://techmove-opensource.github.io/LimaPaths-landing-page/**_ 
+- _**Tech Move Landing Page: https://techmove-opensource.github.io/LimaPaths-landing-page/**_
+
+- _**Tech Move FrontEnd: https://limapaths.web.app**_ 
 
 - _**Link Video de Exposicion TB1: https://youtu.be/3M6LtSQeJS0**_
   
