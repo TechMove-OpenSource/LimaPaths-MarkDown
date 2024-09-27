@@ -1571,7 +1571,7 @@ En el segundo Sprint, se implementará el aplicativo web de TrackMyRoute. La her
 <img src="images/trello2.PNG" alt="Trello" width="100%">
 
 Aqui podra encontrar la evidencia de Trelo:
-https://trello.com/invite/b/756h2IOV/ATTIc8bab2f3b40f3200913856fe774913650C1EF44E/sprint-2-trackmyroute
+https://trello.com/b/0o7DzZW5/limapaths
 
 #### 5.2.2.3. Development Evidence for Sprint Review
 <p align="justify">A continuación se presentan informacion de los commits del FrontedEnd del nuestro Aplicativo TrackMyRoute, con el uso de HTML, CSS, Typescript y Angular</p>
