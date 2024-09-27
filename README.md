@@ -1734,5 +1734,7 @@ Link de la app desplegada: https://track-my-route-12342468.web.app/sidebar/histo
   
 - _**Tech Move Landing Page: https://techmove-opensource.github.io/LimaPaths-landing-page/**_ 
 
-- _**Link Video de Exposicion TB1: https://youtu.be/3M6LtSQeJS0**_ 
+- _**Link Video de Exposicion TB1: https://youtu.be/3M6LtSQeJS0**_
+  
+- _**Trello: https://trello.com/b/0o7DzZW5/limapaths**_ 
 
