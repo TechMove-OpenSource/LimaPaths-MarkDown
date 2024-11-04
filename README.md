@@ -2009,5 +2009,7 @@ Durante el Sprint 3, el equipo se centró en el desarrollo del backend y endpoin
 
 - _**Link Video de Exposicion TB1: https://youtu.be/3M6LtSQeJS0**_
   
-- _**Trello: https://trello.com/b/0o7DzZW5/limapaths**_ 
+- _**Trello: https://trello.com/b/0o7DzZW5/limapaths**_
+  
+- _**Video About the product: https://youtu.be/A9vVqHkI8pg**_
 
