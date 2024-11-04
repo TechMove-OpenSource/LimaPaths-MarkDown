@@ -43,10 +43,11 @@ Ciclo 2024-02
 
 # Registro de Versiones del Informe
 
-| Versión |   Fecha   |                                                                                        Autor                                                                                         | Descripción de modificación                                                                                                                                           |
-| :-----: |:---------:|:------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------:| :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-|   TB1   | 19/08/2024 | -Santiago Mickelle Olivera Guerra<br> -Carlos Oswaldo Casimiro Fernandez<br> -Roy Hernan De La Cruz Moreno <br> Cusimayta Lobo Alex Gabriel <br> -Omar Christian Berrocal Ramirez   |  CAPITULO I AL V|
-|   TB2   | 27/09/2024 | -Santiago Mickelle Olivera Guerra<br> -Carlos Oswaldo Casimiro Fernandez<br> -Roy Hernan De La Cruz Moreno <br> Cusimayta Lobo Alex Gabriel <br> -Omar Christian Berrocal Ramirez   |  sprint 2|
+| Versión |   Fecha    |                                                                                       Autor                                                                                        | Descripción de modificación                                                                                                                                           |
+| :-----: | :--------: | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: | :-------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
+|   TB1   | 05/09/2024 |-Santiago Mickelle Olivera Guerra <br>-Roy Hernan De La Cruz Moreno <br> -Omar Christian Berrocal Ramirez <br> -Cusimayta Lobo Alex Gabriel  <br> -Carlos Oswaldo Casimiro Fernandez|  CAPITULO I AL V|
+|   TP1   | 28/10/2024 |-Santiago Mickelle Olivera Guerra <br>-Roy Hernan De La Cruz Moreno <br> -Omar Christian Berrocal Ramirez <br> -Cusimayta Lobo Alex Gabriel  <br> -Carlos Oswaldo Casimiro Fernandez|  Correciones del TB1, y desarrollo del Sprint 2|
+| TB2 | 04/11/2024 | -Santiago Mickelle Olivera Guerra <br>-Roy Hernan De La Cruz Moreno <br> -Omar Christian Berrocal Ramirez <br> -Carlos Oswaldo Casimiro Fernandez | Sprint 3, correcciones de entregas TB1 y TP1 |
 
 
 <br><br>
@@ -1980,6 +1981,13 @@ Mostraremos los pasos y evidencias para realizar el despliegue del backend.
 - La primera entrega del proyecto no solo nos permitió presentar soluciones iniciales, sino que también nos brindó la oportunidad de explorar diversas alternativas para abordar nuestra problemática. Fue un momento de reflexión en el que buscamos satisfacer las necesidades de nuestros segmentos objetivo de manera innovadora y efectiva.<br><br>
 
 - A través del análisis de competidores y las entrevistas con los usuarios, hemos identificado los elementos cruciales que se presentarán en este informe. Hemos profundizado en una amplia variedad de aspectos, centrándonos especialmente en la problemática que nos impulsa a encontrar soluciones significativas y efectivas. Este proceso de investigación nos ha proporcionado una base sólida para la toma de decisiones informadas en el desarrollo de nuestro producto.<br><br>
+
+**TP1:**
+<p align="justify">Durante el Sprint 2, el equipo se centró en el desarrollo del frontend del sitio web de LimaPaths. Pudimos notar esto a través de las múltiples confirmaciones de código relacionadas con la adición de estilos, componentes de interfaz de usuario y funcionalidades específicas, como la creación de una barra de navegación y una página de inicio de sesión. </p>
+
+**TB2:**
+<p align="justify">
+Durante el Sprint 3, el equipo se centró en el desarrollo del backend y endpoints de LimaPaths. Concluimos que Spring Boot es una herramienta sólida para crear el backend de nuestra aplicación, también notamos que tener el proyecto estructurado de forma correcta es una gran ayuda al momento de identificar lo más importante del negocio. </p>
 
 
 ## Bibliografía
