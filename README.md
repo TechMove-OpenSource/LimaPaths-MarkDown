@@ -1702,6 +1702,270 @@ Link de la app desplegada:  https://limapaths.web.app
 <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeYN2dRr5kLtWnyGCYK1x2BgqFsX9YPTxTw6iykNFKzU-P8MkqxVWor699YQyCWUfMfskgwSKI1AnLgAQEkiu34YehlbauO2f4iRCFxCmkIqpfZdvC8nX-TGe1Ga10z3cjTQ8M-TSIHT_KY10j8Cd_tHVnY?key=FJE6fvDrMe6VJodRzmACcQ">
 <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfaNdqJakgHyD1n4lbZzqzzvWsKc7_gdxdPEVrb9jftspDprQr_z0SWbi8Rqwo-buTnikvH0OzBByzIkDy1-lhNskvZmQGQmcboRa2hd_IpZ3s1TRr4HTVhOXT4j2RfvIPBqYzwzMb-0Z4jj2-_95O8YqTF?key=FJE6fvDrMe6VJodRzmACcQ">
 
+### 5.2.3. Sprint 3
+
+#### 5.2.3.1. Sprint Planning 3
+<table>
+  <caption>Sprint #3</caption>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Backlog</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fecha</td>
+      <td>3/11/2024</td>
+    </tr>
+    <tr>
+      <td>Hora</td>
+      <td>22:00 horas (GMT -5)</td>
+    </tr>
+    <tr>
+      <td>Ubicación</td>
+      <td>Modalidad remota a través de plataforma Discord</td>
+    </tr>
+    <tr>
+      <td>Preparado por</td>
+      <td>Santiago Mickelle Olivera Guerra </td>
+    </tr>
+    <tr>
+      <td>Asistentes (a la reunión de planificación)</td>
+      <td>Todos los miembros de TechMove</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 3 Review</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        Se creará el repositorio del backend de nuestro aplicativo web, se asignarán las tareas a realizar y los endpoints a desarrollar, corregir y añadir funcionalidades faltantes de las entregas pasadas.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 3 Retrospective</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        La implementación del backend se realizó con Spring Boot, desplegandola con los servicios de Docker y Azure.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint Goal and User Stories</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 3 Velocity</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Sum of Story Points</td>
+      <td>8</td>
+    </tr>
+  </tbody>
+</table>
+#### 5.2.3.2. Sprint Backlog 3
+
+|Sprint#|Sprint 3| | | | | | |
+|:----|:----|:----|:----|:----|:----|:----|:----|
+|User Story| |Task| | | | | |
+|id|title|id|title|description|Estimations(Hours)|Assigned To|Status(To-do /InProcess/ToReview/Done)|
+|HU22|implementación de sistema de autenticación oauth|T019|Desarrollo del bounded context Profile|Desarrollo e implementación del bounded context Profile|4 hrs|Santiago |Done|
+|HU15|Compra de boletos	|T020|Desarrollo del bounded context Payment|Desarrollo e implementación del bounded context Payment|5 hrs|Roy|Done|
+|HU10|Bounded context Trip|T021|Desarrollo del bounded context Trip|Desarrollo e implementación del bounded context Trip|4 hrs|Omar|Done|
+|HU10|Bounded context Promo|T022|Desarrollo del bounded context Promo|Desarrollo e implementación del bounded context Promo|5 hrs|Carlos|In Process|
+|HU16|Notificaciones personalizadas|T023|Desarrollo del bounded context Notifications|Desarrollo e implementación del bounded context Notifications|5 hrs|Roy|To-do|
+|HU10|Bounded context Buses|T024|Desarrollo del bounded context Buses|Desarrollo e implementación del bounded context Buses|4 hrs|Santiago|In Process|
+
+En el tercer Sprint, se implementará el backend de LimaPaths. La herramienta para gestionar a los miebros del equipo y visualizar los avanzes del proyecto será Trello.
+
+#### 5.2.2.3. Development Evidence for Sprint Review
+<p align="justify">A continuación se presentan informacion de los commits del backend del nuestro Aplicativo LimaPaths, con el uso de Spring Boot</p>
+
+<table border="0" width="100%" height="100%">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commited on</th>
+  </tr>
+  <tr>
+    <td>LimaPath-Backend</td>
+    <td>feature/authentication</td>
+    <td>643adf0</td>
+    <td>feat(authentication): added authentication bc</td>
+    <td>03/11/2024</td>
+  </tr>
+   <tr>
+    <td>LimaPath-Backend</td>
+    <td>feature/payment</td>
+    <td>6fc090f</td>
+    <td>feat(payment): added command services and post</td>
+    <td>03/11/2024</td>
+  </tr>
+  <tr>
+    <td>LimaPath-Backend</td>
+    <td>feature/promo</td>
+    <td>55cb64a</td>
+    <td>feature:api rest- getAllPromos</td>
+    <td>04/11/2024</td>
+  </tr>
+  <tr>
+    <td>LimaPath-Backend</td>
+    <td>feature/trip</td>
+    <td>9a8dcd3</td>
+    <td>Fix(aggregate): errors/td>
+    <td>04/11/2024</td>
+  </tr>
+  </table>
+
+
+#### 5.2.3.4. Testing Suite Evidence for Sprint Review
+
+<p align="justify">En el transcurso del tercer sprint, se realizaron pruebas de los endpoints con la herramienta de Swagger</p>
+
+<div align="center">
+
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcChOY6NEAfTGEPd0QefSJ7Xmeu0wHK2jLPSdS2_y8ORopkz25HJ-Cq3rkmsbvsRzuPcjyn2sr0hzztwRAdz39m89zsr693VixR6HiKMgNX6tuLHqmuprgqzqx5l5yBd3dRW1u42jvc6_R0id1R961OX4FV?key=MmP7y7G24du2Hh4EthF4EuV9">
+
+</div>
+
+<div align="center">
+
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfWN38BcWqMTeF8aXsxYq2W3L2jSg5PDfNqh_21f-xNx8pO9eJNU2h9wa5V2HUvEH1bSzonqwXg5FBbjPrzOl940c9xPVgpNoJwnrgBygQpu_pHMQ8BuYG9xTEREeI3LgOu3yB8BWvD7LGEq0pk-XFsjqdB?key=MmP7y7G24du2Hh4EthF4EuV9">
+
+</div>
+
+
+#### 5.2.3.5. Execution Evidence for Sprint Review
+
+<div align="center">
+
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfdpAT1nVsVbwh9UMhQV0_qd4L8uLoEpScItDELTpEke204XhcCHRV6sFtVZEZW63ux4Kz8iHkqI4-r0qUbwFeJWUGu2IurSf27iKFhdssgu1DW8OzIj7-DTNA0fn0DUWLS-nw7AeX-S4SoOEFmckcO0yE?key=MmP7y7G24du2Hh4EthF4EuV9">
+
+</div>
+
+<div align="center">
+
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfM7e3VEp3wY0BcvPDSnDHV0KPBSR8JAAUxUZNZ9wo2_Sm9OaX_CD_w2WSvwzLvzKxeTUwNQEbPvVpuIDW0cW_l0s_9ZE8MJt5Cw86ui_SEAuLA0NrnYOIdWWtS8gt0WLJaduWuxQZjlxbTiFmEqjAX-Unk?key=MmP7y7G24du2Hh4EthF4EuV9">
+
+</div>
+
+#### 5.2.3.6. Services Documentation Evidence for Sprint Review
+
+<table border="0" width="100%" height="100%">
+  <tr>
+    <th>Entity</th>
+    <th>Endpoint</th>
+    <th>Swagger</th>
+  </tr>
+  <tr>
+    <td>Profile</td>
+    <td>/api/v1/profiles</td>
+    <td><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeXxqQAMBxfC4YGdC-E2WVJACSGmeAGU-BJjR5gvRqZ76_KpsNq2NSfzu97Mu9JMXtOW28FF7vvwGBYlaHIcGDUu6OQhfifKNrV9xClT71Z0zxH6fv4O6riM3FaYZJXtTZIepTEzg0k7uvoAYhd_Th3leCc?key=MmP7y7G24du2Hh4EthF4EuV9"></td>
+  </tr>
+   <tr>
+    <td>Trip</td>
+    <td>/api/v1/trips</td>
+    <td><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdt6TEs6ixFWX2kvS6bhBoPwOC-pnMjVn4Fn3GjNNADc5gdz08BucH_UAHBTNxOi0TZ5Cs336h82NiMG_158ESwzYqa-QE20Tu3ajyDsndAaFrilEY-oVBsU-WfNLY9k4Dv25RbgAxB_5DaI5kQYXtEzinc?key=MmP7y7G24du2Hh4EthF4EuV9"></td>
+  </tr>
+  <tr>
+    <td>Payment</td>
+    <td>/api/v1/payments</td>
+    <td><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXcnHPZq1PHhYp4UHYEZEKNgdpG8IXR2qaUd9S9jJdvr-HvTtt8vZ7ArqDm58XjuZiR8RoxKuU5ECMsZzuUeUzfuae8yAv2-BxFqfGFq42R3KHISJm-IuP5zcbek5pRZI-7PwM9kITK19dp8-0vmwL_UkseK?key=MmP7y7G24du2Hh4EthF4EuV9"></td>
+  </tr>
+  <tr>
+    <td>Promo</td>
+    <td>/api/v1/promos</td>
+    <td><img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXelocXiko6DwL1vm1lPa_j2yXuv7BA2AnBR-2fWlB6gYxMTf9TS2dofPs9HckM3O-LGULNJ-zk0kmL9e0jquIkHHYofgqzQ2SvtUIRqAbB-KCD8j9pWX0Sm0Zhf9xTLrZw0EqfnOwVQB_LVrZjI4qzss_AR?key=MmP7y7G24du2Hh4EthF4EuV9"></td>
+  </tr>
+  </table>
+
+
+
+#### 5.2.3.7. Software Deployment Evidence for Sprint Review+
+
+Mostraremos los pasos y evidencias para realizar el despliegue del backend.
+
+**Paso 1:** Entrar a la máquina virtual
+
+<div align="center">
+
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXceKe63zIQ3nUM3isnw5orAxVQo_zD1B3PTeQz5_AwuTwxYPBZt8QTLVJ9WFaoAntCm38oLhZi_u8p223ZvkFGk3NQXjGm_N6ZciFoKM9OGYDCJstuJ3Xwl6O96i2MMwgwGBQVOrV6L1VUBPe_Q60g3sxg?key=MmP7y7G24du2Hh4EthF4EuV9">
+
+</div>
+
+**Paso 2:** Instalar Docker
+
+<div align="center">
+
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfsEWk-q5iQCo2Tll_QIezQCavtRnyk6B_ALnfV7mHzI8rx8NeegROr0qbJ0T635VmAhTvC80yoT3sfso3yrLmq6LKQY0WKfsPIBQPMx5DYitBR7-BWl6wVyk-m1aZSzM69O_Zyb5NlDe-lraUMhlhRkpzw?key=MmP7y7G24du2Hh4EthF4EuV9">
+
+</div>
+
+<div align="center">
+
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdSlgpGz5CzEEQHi8iJiXBrvYygqyBc8QcItQFw8iFbDT-0idsKOd8hv2m4oOGGI2OYDVNh_N-S-g21Cg7JYGCw_gOo-A4BVEy5Q-qY8NSPdN2jeulfqxwPZ-_d-7KPaQCRdGg5PnDFebY6W4vWZgCBMqAO?key=MmP7y7G24du2Hh4EthF4EuV9">
+
+</div>
+
+<div align="center">
+
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdeVemgtVeEeNbidYcbI7KtunOlOrNHDbQMeEK7FHSdSEsuo4E6NWHpxqefk4mLhcqhiuvmw1KrQWjVRcTqE9KGzueQdGZYWJLVrArVMTPAyLz1_W57N_AOvLjgNR8W9O4eUGUGpPT2Fm37gdQLYPUJxm74?key=MmP7y7G24du2Hh4EthF4EuV9">
+
+</div>
+
+**Paso 3** Probar que funcione con la imagen Hello World
+
+<div align="center">
+
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf4K7PxacAVD2m_bYK-QdbRyspaYvzVOuL8SGRi6855WfE14689DDGW6hnQcD3T_UJcp_2wE0sBPuT0s35TUGxawbJaLuHwiR22OKVuMM3FpibmLSRW_1bXA8P_diYt9Prqb3m956sB1AecQq2vT6RzQvNR?key=MmP7y7G24du2Hh4EthF4EuV9">
+
+</div>
+
+**Paso 4:** Instalar git
+
+<div align="center">
+
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXf2cDTE1UQ23RpUZDKFuO4yVKfN6MKnRnshxDVKL2bhZFe9_sQG_VTmU9VMaLwDOnGc8nJPFtNMiEyKO_CJUp9K-tfNTkjdrvXbB2S-qG9RlwiupKW1QtY6FhD2Fre61bZ3VveNUPRkfdPYXnkw09D-B5Y?key=MmP7y7G24du2Hh4EthF4EuV9">
+
+</div>
+
+
+
+**Paso 5:** Clonar el repositorio y trasladarse a la rama "deployment" y correr la aplicacion
+
+<div align="center">
+
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXelxx4hIOzH1QBvEpQaMQPF4_zrsdMO7tRLy63RZpmc0qpdOIXZ4aJquuxOSRlc61IUT0fb-wHZrZuAt8jEjUKF11nZE3P_3NNESOokzcR4rmwW5xKiUY2ySMD22AsEZFmi-a9_eUeDF9bGAtKPoD9gIgoo?key=MmP7y7G24du2Hh4EthF4EuV9">
+
+</div>
+
+
+
+**Paso 7:** Probar que funcione la aplicación, entrando a swagger desde nuestra propia computadora
+
+<div align="center">
+
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfa2GV_nY7DnQeTZ_k44Nfd2h0398zvTus0sHgmvXQZOTwxjIoifQcTCrdQqApUH-JX5Feofg76SRvjEOp35Db3sO8OzXf_xjND6E7_o3WtateUm9KZEZwYx9bkZFZ2YPU6uumjjNPO70y02R15eokCbHcW?key=MmP7y7G24du2Hh4EthF4EuV9">
+
+</div>
+
+
+#### 5.2.3.8. Team Collaboration Insights during Sprint
+
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQWVrjIMBS0erhP7PUHtqiI7HXYEUfbxJ1rTX90jVV2bo-_31XBpMdjUlPMs4w8auhAtkwZCSnEaVlfHane-qZ1JKhNeKp5y3MJ9CJvXhg0HYWksGVjM54IR3stb2_okWWJ-SLZ8iwQi4Psgc1Z7Gb0FEm?key=MmP7y7G24du2Hh4EthF4EuV9" alt="Spring3.0Evidence" width="100%">
+<img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd2p-pDCd2RjEWPhRdHOTwtv72a4R5_gEDJy29RFPNtq2algr_IsxSJUDGuqwZm6gGCpB6fe3ylSuih98aNErh8nuGcUcmjCcJeg85Vd9T9kh4SDET0BQbdzIkmvv6sYes0Tn0qqk9vn9zY1XV4eKMJn8mT?key=MmP7y7G24du2Hh4EthF4EuV9" alt="Spring3.0Evidence" width="100%">
+
+
+
 
 ## Conclusiones
 
