@@ -1966,8 +1966,79 @@ Mostraremos los pasos y evidencias para realizar el despliegue del backend.
 <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQWVrjIMBS0erhP7PUHtqiI7HXYEUfbxJ1rTX90jVV2bo-_31XBpMdjUlPMs4w8auhAtkwZCSnEaVlfHane-qZ1JKhNeKp5y3MJ9CJvXhg0HYWksGVjM54IR3stb2_okWWJ-SLZ8iwQi4Psgc1Z7Gb0FEm?key=MmP7y7G24du2Hh4EthF4EuV9" alt="Spring3.0Evidence" width="100%">
 <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd2p-pDCd2RjEWPhRdHOTwtv72a4R5_gEDJy29RFPNtq2algr_IsxSJUDGuqwZm6gGCpB6fe3ylSuih98aNErh8nuGcUcmjCcJeg85Vd9T9kh4SDET0BQbdzIkmvv6sYes0Tn0qqk9vn9zY1XV4eKMJn8mT?key=MmP7y7G24du2Hh4EthF4EuV9" alt="Spring3.0Evidence" width="100%">
 
+## 5.3. Validation Interviews
 
+En esta sección, el equipo registra y explica las actividades de entrevistas de validación durante el proyecto.
 
+### 5.3.1. Diseño de Entrevistas 
+
+*Segmento 1: Usuarios de servicios de transporte*
+
+1. ¿La información presentada en la Landing Page te ayuda a entender claramente el propósito de TrackMyRoute?
+2. ¿Qué tan fácil te resultó navegar por la Landing Page y encontrar la información que buscabas?
+3. ¿El diseño de la Landing Page es atractivo y profesional?
+4. ¿La propuesta de valor de TrackMyRoute está bien comunicada y te resulta convincente?
+5. ¿Qué elementos o información adicional te gustaría ver en la Landing Page para sentirte más seguro al utilizar nuestro servicio?
+6. ¿Qué tan intuitivo te parece el proceso de registro e inicio de sesión en la aplicación?
+7. ¿Las funcionalidades principales de TrackMyRoute están claramente explicadas y son fáciles de usar?
+8. ¿El diseño y la disposición de los elementos en la Web App te resultan agradables y prácticos?
+9. ¿Te sientes cómodo navegando por las distintas secciones de la Web App?
+10. ¿Hay alguna funcionalidad o característica que crees que falta en la Web App?
+
+*Segmento 2: Empresas y conductores de transporte público*
+
+1. ¿La Landing Page comunica claramente los beneficios de TrackMyRoute para tu negocio?
+2. ¿Encuentras fácilmente la información sobre planes y precios en la Landing Page?
+3. ¿Qué tan profesional y confiable te parece la presentación de la Landing Page?
+4. ¿La sección de testimonios o casos de éxito te ayuda a confiar en TrackMyRoute?
+5. ¿Qué información adicional te gustaría ver en la Landing Page para considerar implementar TrackMyRoute en tu empresa?
+6. ¿El proceso de configuración inicial de la Web App es claro y fácil de seguir?
+7. ¿Las funcionalidades de administración y gestión de rutas en la Web App son adecuadas para las necesidades de tu negocio?
+8. ¿El diseño de la Web App es profesional y se alinea con las expectativas de tu empresa?
+9. ¿Te resulta fácil acceder a informes y análisis dentro de la Web App?
+10. ¿Hay alguna funcionalidad específica que crees que debería añadirse para mejorar la experiencia de uso en un entorno empresarial?
+
+### 5.3.2. Registro de Entrevistas
+
+- Entrevista 1
+
+<div align="center">
+  <img src="images/validation-interview-5.png"/>
+</div>
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115412_upc_edu_pe/EQYMFUKssqhJmauBsFlZWVMBSaemDE5YDtg0jCwE_pByFw?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=e3bNzV
+
+- Entrevista 2
+
+<div align="center">
+  <img src="images/validation-interview-6.png"/>
+</div>
+
+Link: https://upcedupe-my.sharepoint.com/:v:/g/personal/u202115412_upc_edu_pe/EelZzGkqHWFJiHPGFeqyOo0BcaIKXQZPmBSSTJ6FMZC7Vg?nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&e=O1TB3v
+
+- Entrevista 3
+
+<div align="center">
+  <img src="images/validation-interview-6.png"/>
+</div>
+
+Link: https://drive.google.com/file/d/10jaYa5E3BOi3N2l5G8u5HynN0FMeuPSy/view?usp=sharing
+
+- Entrevista 4
+
+<div align="center">
+  <img src="images/validation-interview-6.png"/>
+</div>
+
+Link: https://drive.google.com/file/d/1lu5lp9izlpE_9nc3eYKMtgvx_MRU_ZoL/view?usp=sharing
+
+- Entrevista 5
+
+<div align="center">
+  <img src="images/validation-interview-6.png"/>
+</div>
+
+Link: https://drive.google.com/file/d/1utPKw4HJlyBMOZK_vlWPyZj1UbQYrRFJ/view?usp=sharing
 
 ## Conclusiones
 
