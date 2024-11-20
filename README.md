@@ -1966,6 +1966,315 @@ Mostraremos los pasos y evidencias para realizar el despliegue del backend.
 <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfQWVrjIMBS0erhP7PUHtqiI7HXYEUfbxJ1rTX90jVV2bo-_31XBpMdjUlPMs4w8auhAtkwZCSnEaVlfHane-qZ1JKhNeKp5y3MJ9CJvXhg0HYWksGVjM54IR3stb2_okWWJ-SLZ8iwQi4Psgc1Z7Gb0FEm?key=MmP7y7G24du2Hh4EthF4EuV9" alt="Spring3.0Evidence" width="100%">
 <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXd2p-pDCd2RjEWPhRdHOTwtv72a4R5_gEDJy29RFPNtq2algr_IsxSJUDGuqwZm6gGCpB6fe3ylSuih98aNErh8nuGcUcmjCcJeg85Vd9T9kh4SDET0BQbdzIkmvv6sYes0Tn0qqk9vn9zY1XV4eKMJn8mT?key=MmP7y7G24du2Hh4EthF4EuV9" alt="Spring3.0Evidence" width="100%">
 
+### 5.2.4. Sprint 4
+
+#### 5.2.4.1. Sprint Planning 4
+<table>
+  <caption>Sprint #3</caption>
+  <thead>
+    <tr>
+      <th colspan="2">Sprint Planning Backlog</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Fecha</td>
+      <td>17/06/2024</td>
+    </tr>
+    <tr>
+      <td>Hora</td>
+      <td>16:00 horas (GMT -5)</td>
+    </tr>
+    <tr>
+      <td>Ubicación</td>
+      <td>Modalidad remota a través de plataforma Discord</td>
+    </tr>
+    <tr>
+      <td>Preparado por</td>
+      <td>Carlos Arian Ramirez Mendoza</td>
+    </tr>
+    <tr>
+      <td>Asistentes (a la reunión de planificación)</td>
+      <td>Todos los miembros de InnovaTech</td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 4 Review</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+        Se van a corregir y añadir funcionalidades faltantes de las entregas pasadas.
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint n - 4 Retrospective</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Resumen</td>
+      <td>
+       Implementación de nuestro Web Service para consumir dentro del Web Application
+      </td>
+    </tr>
+    <tr>
+      <td colspan="2">
+        <strong>Sprint Goal and User Stories</strong>
+      </td>
+    </tr>
+    <tr>
+      <td>Sprint 4 Velocity</td>
+      <td>5</td>
+    </tr>
+    <tr>
+      <td>Sum of Story Points</td>
+      <td>8</td>
+    </tr>
+  </tbody>
+</table>
+
+#### 5.2.4.2. Sprint Backlog 4
+
+|Sprint#|Sprint 4| | | | | | |
+|:----|:----|:----|:----|:----|:----|:----|:----|
+|User Story| |Task| | | | | |
+|id|title|id|title|description|Estimations(Hours)|Assigned To|Status(To-do /InProcess/ToReview/Done)|
+|HU25|Implementación de sistema de autenticación oauth|T019|Desarrollo del bounded context Profile|Desarrollo e implementación del bounded context Profile|4 hrs|Santiago|To Review|
+|HU26|Fix bounded context Trip|T021|Desarrollo del bounded context Trip|Desarrollo e implementación del bounded context Trip|4 hrs|Carlos|In Process|
+|HU27|Bounded context Buses|T024|Desarrollo del bounded context Buses|Desarrollo e implementación del bounded context Buses|4 hrs|Omar|In Process|
+|HU28| Bounded context Payment|T025|Desarrollo del bounded context Trip|Desarrollo e implementación del bounded context Payment|4 hrs|Santiago|In Process|
+|HU28| Bounded context Payment|T026|Arreglar errores de api|Arreglar metodos GET y POST de el endpoint de Payment|4 hrs|Omar|Done|
+
+En el cuarto Sprint, se implementaron fixes en el backend de LimaPaths.
+
+<div align="center">
+
+  <img src="./images/trello-sprint4.png">
+
+</div>
+
+#### 5.2.4.3. Development Evidence for Sprint Review
+<p align="justify">A continuación se presentan informacion de los commits del backend del nuestro Aplicativo LimaPaths, con el uso de Spring Boot</p>
+
+<table border="0" width="100%" height="100%">
+  <tr>
+    <th>Repository</th>
+    <th>Branch</th>
+    <th>Commit Id</th>
+    <th>Commit Message</th>
+    <th>Commited on</th>
+  </tr>
+  <tr>
+    <td>backend-track-my-route</td>
+    <td>feature/authentication</td>
+    <td>643adf0</td>
+    <td>feat(authentication): added authentication bc</td>
+    <td>24/06/2024</td>
+  </tr>
+  <tr>
+    <td>backend-track-my-route</td>
+    <td>feature/iam</td>
+    <td>344450f</td>
+    <td>fix(IAM): fixed issue that prevented authentication</td>
+    <td>24/06/2024</td>
+  </tr>
+  <tr>
+    <td>backend-track-my-route</td>
+    <td>feature/iam</td>
+    <td>5e69dd0</td>
+    <td>feat(promo/payment): added get service</td>
+    <td>24/06/2024</td>
+  </tr>
+   <tr>
+    <td>backend-track-my-route</td>
+    <td>feature/payments</td>
+    <td>cc9b42b</td>
+    <td>feat(payment): get and post methods in endpoint</td>
+    <td>24/06/2024</td>
+  </tr>
+  <tr>
+    <td>backend-track-my-route</td>
+    <td>feature/trip</td>
+    <td>9a8dcd3</td>
+    <td>Fix(aggregate): errors/td>
+    <td>24/06/2024</td>
+  </tr>
+  </table>
+
+
+#### 5.2.4.4. Testing Suite Evidence for Sprint Review
+
+<p align="justify">En el transcurso del cuarto sprint, se realizaron pruebas de los endpoints con la herramienta de Swagger</p>
+
+<div align="center">
+
+  <img src="./images/backen-test-1.png">
+
+</div>
+
+<div align="center">
+
+  <img src="./images/backend-test-2.png">
+
+</div>
+
+<div align="center">
+
+  <img src="./images/payment-test.png">
+
+</div>
+<div align="center">
+
+  <img src="./images/payment-test2.png">
+
+</div>
+
+
+
+#### 5.2.4.5. Execution Evidence for Sprint Review
+
+<div align="center">
+
+  <img src="/images/evidence1-sprint4.PNG">
+
+</div>
+
+<div align="center">
+
+  <img src="/images/evidence-sprint4.PNG">
+
+</div>
+
+Link del backend desplegado: http://40.71.173.200/swagger-ui/index.html
+
+#### 5.2.4.6. Services Documentation Evidence for Sprint Review
+
+<table border="0" width="100%" height="100%">
+  <tr>
+    <th>Entity</th>
+    <th>Endpoint</th>
+    <th>Swagger</th>
+  </tr>
+  <tr>
+    <td>Profile</td>
+    <td>/api/v1/profiles</td>
+    <td><img src="./images/swagger-profiles.PNG"></td>
+    
+  </tr>
+   <tr>
+    <td>Trip</td>
+    <td>/api/v1/trips</td>
+    <td><img src="./images/swagger-trips.PNG"></td>
+    
+  </tr>
+  <tr>
+    <td>Payment</td>
+    <td>/api/v1/payments</td>
+    <td><img src="./images/payments-sprint4.PNG"></td>
+  </tr>
+  <tr>
+    <td>Buses</td>
+    <td>/api/v1/buses</td>
+    <td><img src="./images/buses-sprint4.PNG"></td>
+  </tr>
+  <tr>
+    <td>Promo</td>
+    <td>/api/v1/promos</td>
+    <td><img src="./images/swagger-promo.PNG"></td>
+  </tr>
+  </table>
+
+
+
+#### 5.2.4.7. Software Deployment Evidence for Sprint Review+
+
+Mostraremos los pasos y evidencias para realizar el despliegue del backend.
+
+**Paso 1:** Entrar a la máquina virtual
+
+<div align="center">
+
+  <img src="/images/backend-deploy-1.png">
+
+</div>
+
+**Paso 2:** Instalar Docker
+
+<div align="center">
+
+  <img src="/images/backend-deploy-2.png">
+
+</div>
+
+<div align="center">
+
+  <img src="/images/backend-deploy-3.png">
+
+</div>
+
+<div align="center">
+
+  <img src="/images/backend-deploy-4.png">
+
+</div>
+
+**Paso 3** Probar que funcione con la imagen Hello World
+
+<div align="center">
+
+  <img src="/images/backend-deploy-5.png">
+
+</div>
+
+**Paso 4:** Instalar git
+
+<div align="center">
+
+  <img src="/images/backend-deploy-6.png">
+
+</div>
+
+
+
+**Paso 5:** Clonar el repositorio y trasladarse a la rama "deployment"
+
+<div align="center">
+
+  <img src="/images/backend-deploy-7.png">
+
+</div>
+
+
+
+**Paso 6:** Correr la aplicación
+
+<div align="center">
+
+  <img src="/images/backend-deploy-8.png">
+
+</div>
+
+
+
+**Paso 7:** Probar que funcione la aplicación, entrando a swagger desde nuestra propia computadora
+
+<div align="center">
+
+  <img src="/images/backend-deploy-9.png">
+
+</div>
+
+Link del backend de TrackMyRoute desplegado: http://40.71.173.200/swagger-ui/index.html
+
+
+#### 5.2.4.8. Team Collaboration Insights during Sprint
+
+<img src="./images/sprint-4-insight1.png" alt="Spring3.0Evidence" width="100%">
+<img src="./images/sprint-4-insight2.png" alt="Spring4.0Evidence" width="100%">
+
+
 ## 5.3. Validation Interviews
 
 En esta sección, el equipo registra y explica las actividades de entrevistas de validación durante el proyecto.
