@@ -2066,35 +2066,35 @@ En el cuarto Sprint, se implementaron fixes en el backend de LimaPaths.
     <th>Commited on</th>
   </tr>
   <tr>
-    <td>backend-track-my-route</td>
+    <td>backend-lima-paths</td>
     <td>feature/authentication</td>
     <td>643adf0</td>
     <td>feat(authentication): added authentication bc</td>
     <td>24/06/2024</td>
   </tr>
   <tr>
-    <td>backend-track-my-route</td>
+    <td>backend-lima-paths</td>
     <td>feature/iam</td>
     <td>344450f</td>
     <td>fix(IAM): fixed issue that prevented authentication</td>
     <td>24/06/2024</td>
   </tr>
   <tr>
-    <td>backend-track-my-route</td>
+    <td>backend-lima-paths</td>
     <td>feature/iam</td>
     <td>5e69dd0</td>
     <td>feat(promo/payment): added get service</td>
     <td>24/06/2024</td>
   </tr>
    <tr>
-    <td>backend-track-my-route</td>
+    <td>backend-lima-paths</td>
     <td>feature/payments</td>
     <td>cc9b42b</td>
     <td>feat(payment): get and post methods in endpoint</td>
     <td>24/06/2024</td>
   </tr>
   <tr>
-    <td>backend-track-my-route</td>
+    <td>backend-lima-paths</td>
     <td>feature/trip</td>
     <td>9a8dcd3</td>
     <td>Fix(aggregate): errors/td>
@@ -2347,6 +2347,72 @@ Link: https://drive.google.com/file/d/1lu5lp9izlpE_9nc3eYKMtgvx_MRU_ZoL/view?usp
 </div>
 
 Link: https://drive.google.com/file/d/1utPKw4HJlyBMOZK_vlWPyZj1UbQYrRFJ/view?usp=sharing
+
+### 5.3.3. Evaluaciones según heurísticas.
+##### SITE o APP A EVALUAR:
+Lima Paths
+
+##### TAREAS A EVALUAR:
+
+El alcance de esta evaluación incluye la revisión de la usabilidad de las siguientes tareas:
+
+Registro de usuario
+Inicio Sesión de usuario
+Notificaciones
+Promociones
+Rutas habituales
+Configuración
+
+No están incluidas en esta versión de la evaluación las siguientes tareas:
+
+Soporte y ayuda
+Pagar Pasaje
+Seleccionar tu ruta
+Busca tu ruta
+
+##### ESCALA DE SEVERIDAD:
+Los errores serán puntuados tomando en cuenta la siguiente escala de severidad
+
+| Nivel | Descripción |
+| -- |--|
+| 1 | Problema superficial: puede ser fácilmente superador por el usuario ó ocurre con muy poco frecuencia. No necesita ser arreglado a no ser que exista disponibilidad de tiempo. |
+| 2 | Problema menor: puede ocurrir un poco más frecuentemente o es un poco más difícil de superar para el usuario. Se le debería asignar una prioridad baja resolverlo de cara al siguiente reléase |
+| 3 | Problema mayor: ocurre frecuentemente o los usuarios no son capaces de resolverlos. Es importante que sean corregidos y se les debe asignar una prioridad alta. |
+| 4 | Problema muy grave: un error de gran impacto que impide al usuario continuar con el uso de la herramienta. Es imperativo que sea corregido antes del lanzamiento. |
+##### TABLA RESUMEN:
+
+| # | Problema | Escala de Severidad | Heurística/Principio violada(o) |
+| -- | -- | -- | -- |
+| 1 | No se actualiza la información de los componentes: Notificaciones, Promociones y Rutas habituales | 2 | Credible: No proporciona información actualizada |
+| 2 | No se puede borrar la cuenta de un usuario, solo crearla y actualizarla | 2 | Controllable: No se proporciona todas las funcionlidades que el usuario podría requerir |
+
+##### DESCRIPCIÓN DE PROBLEMAS:
+
+##### PROBLEMA #1:
+No se actualiza la información de los componentes: Notificaciones, Promociones y Rutas habituales
+###### Severidad: 2
+Heurística violada: Credible
+###### Problema:
+Debido a que la aplicación actualmente solo está implementada con un fake Restful API, la información presentada en la aplicación siempre está desactualizada y presenta los mismos componentes cada vez que entras a ella.
+###### Recomendación:
+Actualizar la aplicación con una Restful API que permita que la Web APP presente información real a los usuarios
+
+<div align="center">
+  <img src="images/heuristicas-1.png"/>
+</div>
+
+##### PROBLEMA #2:
+No se puede borrar la cuenta de un usuario, solo crearla y actualizarla
+###### Severidad: 2
+Heurística violada: Controllable
+###### Problema:
+Actualmente, la aplicación solo presenta la opción de creación y actualización de la información de una cuenta de usuario, mas no una de eliminación.
+###### Recomendación:
+Agregar una opción, preferiblemente en la sección de "configuración", que permita al usuario borrar su cuenta
+
+<div align="center">
+  <img src="images/heuristicas-2.png"/>
+</div>
 
 ## 5.4. Video About the Product.
 
