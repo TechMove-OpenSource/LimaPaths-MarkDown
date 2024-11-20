@@ -24,7 +24,6 @@
 | Santiago Mickelle Olivera Guerra  | U20201A821 |
 | Roy Hernan De La Cruz Moreno       | U202218634        |
 | Omar Christian Berrocal Ramirez   | U20201B529 |
-| Cusimayta Lobo Alex Gabriel        | u20201e921         |
 | Carlos Oswaldo Casimiro Fernandez | U202115412 |
 
 <br>
@@ -1991,11 +1990,11 @@ Mostraremos los pasos y evidencias para realizar el despliegue del backend.
     </tr>
     <tr>
       <td>Preparado por</td>
-      <td>Carlos Arian Ramirez Mendoza</td>
+      <td>Carlos Casimiro</td>
     </tr>
     <tr>
       <td>Asistentes (a la reunión de planificación)</td>
-      <td>Todos los miembros de InnovaTech</td>
+      <td>Todos los miembros de TechMove</td>
     </tr>
     <tr>
       <td colspan="2">
