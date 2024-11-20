@@ -2398,7 +2398,7 @@ Debido a que la aplicación actualmente solo está implementada con un fake Rest
 Actualizar la aplicación con una Restful API que permita que la Web APP presente información real a los usuarios
 
 <div align="center">
-  <img src="images/heuristicas-1.png"/>
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXe-vylXOvXMyKSgYH7HwWD8enefzAxkaUjHrfhBiNRiyaRGgJ-wr_voM0v_Q33_7wsok5OXlGX7sJEW1ZUr9cSWS-Dvln3AbLw1Xlpc_HBa6hsSxm4-aR4AgkgthY8gIoKe5wofeA?key=FJE6fvDrMe6VJodRzmACcQ"/>
 </div>
 
 ##### PROBLEMA #2:
@@ -2411,7 +2411,7 @@ Actualmente, la aplicación solo presenta la opción de creación y actualizaci�
 Agregar una opción, preferiblemente en la sección de "configuración", que permita al usuario borrar su cuenta
 
 <div align="center">
-  <img src="images/heuristicas-2.png"/>
+  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXdfbeCVLTPq48VAj8pgmLp6zZFhQ4U-U6YX8QvTFOLLFTmzVZ2c3TNGwxpQfbm8d0X3vS-grtQ0N1eByoB1eERvvnK4453Dxvx3hZCqUBfMFVaEnROi7UHpfcNgvndhbs3Gpx7QWg?key=FJE6fvDrMe6VJodRzmACcQ"/>
 </div>
 
 ## 5.4. Video About the Product.
