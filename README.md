@@ -2217,12 +2217,12 @@ Link del backend desplegado: http://40.71.173.200/swagger-ui/index.html
   <tr>
     <td>Payment</td>
     <td>/api/v1/payments</td>
-    <td><img src="./images/payments-sprint4.PNG"></td>
+    <td><img src="./images/payments-sprint4.png"></td>
   </tr>
   <tr>
     <td>Buses</td>
     <td>/api/v1/buses</td>
-    <td><img src="./images/buses-sprint4.PNG"></td>
+    <td><img src="./images/buses-sprint4.png"></td>
   </tr>
   <tr>
     <td>Promo</td>
@@ -2311,7 +2311,7 @@ Mostraremos los pasos y evidencias para realizar el despliegue del backend.
 
 </div>
 
-Link del backend de TrackMyRoute desplegado: http://40.71.173.200/swagger-ui/index.html
+Link del backend de TrackMyRoute desplegado: https://limapaths-backend-production.up.railway.app/swagger-ui/swagger-ui/index.html
 
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
