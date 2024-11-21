@@ -2488,6 +2488,9 @@ Link: https://youtu.be/A9vVqHkI8pg
 <p align="justify">
 Durante el Sprint 3, el equipo se centró en el desarrollo del backend y endpoints de LimaPaths. Concluimos que Spring Boot es una herramienta sólida para crear el backend de nuestra aplicación, también notamos que tener el proyecto estructurado de forma correcta es una gran ayuda al momento de identificar lo más importante del negocio. </p>
 
+**TF:**
+<p align="justify">
+En el proyecto de TrackMyRoute, utilizamos Angular para el frontend y Spring Boot para el backend. A pesar de enfrentar dificultades en la implementación de los endpoints, logramos resolverlas siguiendo estrictamente los estándares y patrones de diseño. Esta metodología no solo garantizó la calidad y eficiencia del sistema, sino que también mejoró su mantenibilidad y escalabilidad. En resumen, el proyecto fue exitoso, cumpliendo con los objetivos establecidos y proporcionando una solución robusta para la gestión de rutas de transporte.</p>
 
 ## Bibliografía
 
