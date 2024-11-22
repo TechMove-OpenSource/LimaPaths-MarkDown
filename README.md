@@ -67,8 +67,8 @@ Ciclo 2024-02
     - Capítulo IV: Product Design
     - Capítulo V: Product Implementation, Validation & Deployment
 
-
-<div align="center"> Gráfico de barras
+<img src="./images/sprint-4-insight3.png" alt="Spring4.0Evidence" width="100%">
+<img src="./images/sprint-4-insight44.png" alt="Spring4.0Evidence" width="100%">
 
 </div>
 
