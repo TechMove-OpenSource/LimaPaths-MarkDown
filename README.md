@@ -2192,7 +2192,7 @@ En el cuarto Sprint, se implementaron fixes en el backend de LimaPaths.
 
 </div>
 
-Link del backend desplegado: http://40.71.173.200/swagger-ui/index.html
+Link del backend desplegado: https://limapaths-backend-production.up.railway.app/swagger-ui/swagger-ui/index.html#/
 
 #### 5.2.4.6. Services Documentation Evidence for Sprint Review
 
