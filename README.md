@@ -2187,13 +2187,13 @@ En el cuarto Sprint, se implementaron fixes en el backend de LimaPaths.
 
 <div align="center">
 
-  <img src="/images/evidence1-sprint4.PNG">
+  <img src="/images/evidence-sprint3.PNG">
 
 </div>
 
 <div align="center">
 
-  <img src="/images/evidence-sprint4.PNG">
+  <img src="/images/evidence2-sprint3.PNG">
 
 </div>
 
