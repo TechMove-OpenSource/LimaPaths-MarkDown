@@ -89,6 +89,15 @@ Ciclo 2024-02
 </div>
 
 
+- **TF:** Para esta entrega, realizamos como equipo las actividades correspondientes al Sprint 4:
+
+    Link del repositorio del Informe Final: https://github.com/TechMove-OpenSource/LimaPaths-MarkDown/blob/main/README.md
+
+
+<img src="/images/sprint-3-insight-1.png" alt="Spring3.0Evidence" width="100%">
+<img src="/images/sprint-3-insight-2.png" alt="Spring3.0Evidence" width="100%">
+
+
 
 # Contenido
 
