@@ -67,15 +67,17 @@ Ciclo 2024-02
     - Capítulo IV: Product Design
     - Capítulo V: Product Implementation, Validation & Deployment
 
-<img src="./images/sprint-4-insight3.png" alt="Spring4.0Evidence" width="100%">
-<img src="./images/sprint-4-insight44.png" alt="Spring4.0Evidence" width="100%">
+
+<div align="center"> Gráfico de barras
 
 </div>
 
 <div align="center">
 
  ##### imagen de grafos
- <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXeXNppHQ-pTJIPX7BcJ64bc6UM8m8H2pIqy-DcwvNBR1uiy6hkAliI24jEno9VtQgIHiqGK9nDCSAx80lFE6yIWk_hqSdw_cI0Z2UsfPsnvCp7b-eQtuFB4DvkjpQP_MOfVZBYHPtATthZdIFchsf3ml0Bf?key=FJE6fvDrMe6VJodRzmACcQ">
+ <img src="./images/sprint-4-insight3.png" alt="Spring4.0Evidence" width="100%">
+<img src="./images/sprint-4-insight44.png" alt="Spring4.0Evidence" width="100%">
+
  <img src="https://lh7-rt.googleusercontent.com/docsz/AD_4nXfwjLeLRamkUnXEgkKrCWE7S89TzP3KtyemivatlWLxaP024H2yMw0LeAXP181J_GtJOtrEymaV0-HcNe5bRLfj4tx2IcYVG_IjuzUdu_QLhuSuqJSZaGwNNRqqsLVt2IQ6sJw_AJHE_QuLs0lZVD4WOUb8?key=FJE6fvDrMe6VJodRzmACcQ">
 </div>
 
@@ -87,15 +89,6 @@ Ciclo 2024-02
  
 
 </div>
-
-
-- **TF:** Para esta entrega, realizamos como equipo las actividades correspondientes al Sprint 4:
-
-    Link del repositorio del Informe Final: https://github.com/TechMove-OpenSource/LimaPaths-MarkDown/blob/main/README.md
-
-
-<img src="/images/sprint-3-insight-1.png" alt="Spring3.0Evidence" width="100%">
-<img src="/images/sprint-3-insight-2.png" alt="Spring3.0Evidence" width="100%">
 
 
 
