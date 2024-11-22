@@ -2311,7 +2311,7 @@ Mostraremos los pasos y evidencias para realizar el despliegue del backend.
 
 </div>
 
-Link del backend de TrackMyRoute desplegado: https://limapaths-backend-production.up.railway.app/swagger-ui/swagger-ui/index.html
+Link del backend de LimaPaths desplegado: https://limapaths-backend-production.up.railway.app/swagger-ui/swagger-ui/index.html
 
 
 #### 5.2.4.8. Team Collaboration Insights during Sprint
