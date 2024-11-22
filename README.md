@@ -2239,73 +2239,39 @@ Link del backend desplegado: https://limapaths-backend-production.up.railway.app
 
 Mostraremos los pasos y evidencias para realizar el despliegue del backend.
 
-**Paso 1:** Entrar a la máquina virtual
+**Paso 1:** Monitoreo del despliegue
 
 <div align="center">
 
-  <img src="/images/backend-deploy-1.png">
+  <img src="/images/1ra.png">
 
 </div>
 
-**Paso 2:** Instalar Docker
+**Paso 2:** Configuración de la base de datos
 
 <div align="center">
 
-  <img src="/images/backend-deploy-2.png">
+  <img src="/images/2ra.png">
 
 </div>
+
+**Paso 3** Proceso de construcción y despliegue
 
 <div align="center">
 
-  <img src="/images/backend-deploy-3.png">
+  <img src="/images/3ra.png">
 
 </div>
+
+**Paso 4:** Conexión con el repositorio y rama
 
 <div align="center">
 
-  <img src="/images/backend-deploy-4.png">
+  <img src="/images/4ra.png">
 
 </div>
 
-**Paso 3** Probar que funcione con la imagen Hello World
-
-<div align="center">
-
-  <img src="/images/backend-deploy-5.png">
-
-</div>
-
-**Paso 4:** Instalar git
-
-<div align="center">
-
-  <img src="/images/backend-deploy-6.png">
-
-</div>
-
-
-
-**Paso 5:** Clonar el repositorio y trasladarse a la rama "deployment"
-
-<div align="center">
-
-  <img src="/images/backend-deploy-7.png">
-
-</div>
-
-
-
-**Paso 6:** Correr la aplicación
-
-<div align="center">
-
-  <img src="/images/backend-deploy-8.png">
-
-</div>
-
-
-
-**Paso 7:** Probar que funcione la aplicación, entrando a swagger desde nuestra propia computadora
+**Paso 5:** Probar que funcione la aplicación, entrando a swagger desde nuestra propia computadora
 
 <div align="center">
 
