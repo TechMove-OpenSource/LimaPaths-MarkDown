@@ -2038,7 +2038,7 @@ Mostraremos los pasos y evidencias para realizar el despliegue del backend.
   <tbody>
     <tr>
       <td>Fecha</td>
-      <td>17/06/2024</td>
+      <td>17/11/2024</td>
     </tr>
     <tr>
       <td>Hora</td>
